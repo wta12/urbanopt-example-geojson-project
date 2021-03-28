@@ -506,7 +506,7 @@ module URBANopt
               num_garage_spaces = 0
               if feature.onsite_parking_fraction
                 num_garage_spaces = 1
-                if args[:geometry_cfa] >= 2500.0
+                if args[:geometry_cfa] > 2500.0
                   num_garage_spaces = 2
                 end
               end
@@ -522,9 +522,9 @@ module URBANopt
 
             args[:schedules_type] = 'stochastic'
             begin
-              schedules_random_seed = Float(feature_id)
-              if schedules_random_seed % 1 == 0
-                args[:schedules_random_seed] = Integer(schedules_random_seed)
+              id = Float(feature_id)
+              if id % 1 == 0
+                args[:feature_id] = Integer(id)
               end
             rescue
             end
@@ -696,6 +696,8 @@ module URBANopt
 
             args.keys.each do |arg_name|
               unless default_args.keys.include? arg_name
+                next if arg_name == 'feature_id'
+
                 puts "Argument '#{arg_name}' is unknown."
               end
             end

@@ -32,12 +32,18 @@ class BuildResidentialModel < OpenStudio::Measure::ModelMeasure
 
   # define the arguments that the user will input
   def arguments(model)
+    args = OpenStudio::Measure::OSArgumentVector.new
+
+    arg = OpenStudio::Ruleset::OSArgument.makeIntegerArgument('feature_id', true)
+    arg.setDisplayName('Feature ID')
+    arg.setDescription('The feature ID passed from Baseline.rb.')
+    args << arg
+
     measures_dir = File.absolute_path(File.join(File.dirname(__FILE__), '../../resources/hpxml-measures'))
     measure_subdir = 'BuildResidentialHPXML'
     full_measure_path = File.join(measures_dir, measure_subdir, 'measure.rb')
     measure = get_measure_instance(full_measure_path)
 
-    args = OpenStudio::Measure::OSArgumentVector.new
     measure.arguments(model).each do |arg|
       next if ['hpxml_path'].include? arg.name
       args << arg
@@ -95,17 +101,20 @@ class BuildResidentialModel < OpenStudio::Measure::ModelMeasure
     units.each_with_index do |unit, unit_num|
       unit_model = OpenStudio::Model::Model.new
 
+      hpxml_path = File.expand_path("../#{unit['name']}.xml")
+
       # BuildResidentialHPXML
       measure_subdir = 'BuildResidentialHPXML'
       full_measure_path = File.join(measures_dir, measure_subdir, 'measure.rb')
       check_file_exists(full_measure_path, runner)
 
       # fill the measure args hash with default values
-      measure_args = args
+      measure_args = args.clone
+      measure_args.delete('feature_id')
 
       measures = {}
       measures[measure_subdir] = []
-      measure_args['hpxml_path'] = File.expand_path('../out.xml')
+      measure_args['hpxml_path'] = hpxml_path
       begin
         measure_args['software_program_used'] = File.basename(File.absolute_path(File.join(File.dirname(__FILE__), '../../..')))
       rescue
@@ -116,11 +125,15 @@ class BuildResidentialModel < OpenStudio::Measure::ModelMeasure
         measure_args['software_program_version'] = URBANopt::CLI::VERSION
       rescue
       end
+      measure_args['schedules_random_seed'] = args['feature_id'] * (unit_num + 1) # variation across units, but deterministic
       if unit.keys.include?('geometry_level')
         measure_args['geometry_level'] = unit['geometry_level']
       end
       if unit.keys.include?('geometry_horizontal_location')
         measure_args['geometry_horizontal_location'] = unit['geometry_horizontal_location']
+      end
+      if unit.keys.include?('geometry_orientation')
+        measure_args['geometry_orientation'] = unit['geometry_orientation']
       end
       measures[measure_subdir] << measure_args
 
@@ -133,20 +146,24 @@ class BuildResidentialModel < OpenStudio::Measure::ModelMeasure
       measure_args = {}
 
       measures[measure_subdir] = []
-      measure_args['hpxml_path'] = File.expand_path('../out.xml')
+      measure_args['hpxml_path'] = hpxml_path
       measure_args['output_dir'] = File.expand_path('..')
       measure_args['debug'] = true
       measures[measure_subdir] << measure_args
 
-      if not apply_child_measures(measures_dir, measures, runner, unit_model, workflow_json, 'out.osw', true)
+      if not apply_child_measures(measures_dir, measures, runner, unit_model, workflow_json, "#{unit['name']}.osw", true)
         return false
       end
 
       # store metadata for default feature reports measure
+      standards_number_of_above_ground_stories = Integer(args['geometry_num_floors_above_grade'])
       standards_number_of_stories = Integer(args['geometry_num_floors_above_grade'])
-      unit_model.getBuilding.setStandardsNumberOfAboveGroundStories(standards_number_of_stories)
+      number_of_conditioned_stories = Integer(args['geometry_num_floors_above_grade'])
       if ['UnconditionedBasement', 'ConditionedBasement'].include?(args['geometry_foundation_type'])
         standards_number_of_stories += 1
+        if ['ConditionedBasement'].include?(args['geometry_foundation_type'])
+          number_of_conditioned_stories += 1
+        end
       end
 
       standards_number_of_living_units = 1
@@ -170,16 +187,11 @@ class BuildResidentialModel < OpenStudio::Measure::ModelMeasure
       end
 
       unit_model.getBuilding.setStandardsBuildingType('Residential')
+      unit_model.getBuilding.setStandardsNumberOfAboveGroundStories(standards_number_of_above_ground_stories)
       unit_model.getBuilding.setStandardsNumberOfStories(standards_number_of_stories)
       unit_model.getBuilding.setNominalFloortoFloorHeight(Float(args['geometry_wall_height']))
       unit_model.getBuilding.setStandardsNumberOfLivingUnits(standards_number_of_living_units)
-
-      # save debug files
-      unit_dir = File.expand_path("../#{unit['name']}")
-      Dir.mkdir(unit_dir)
-      FileUtils.cp(File.expand_path('../out.xml'), unit_dir) # this is the raw hpxml file
-      FileUtils.cp(File.expand_path('../out.osw'), unit_dir) # this has hpxml measure arguments in it      
-      FileUtils.cp(File.expand_path('../in.osm'), unit_dir) # this is osm translated from hpxml
+      unit_model.getBuilding.additionalProperties.setFeature('NumberOfConditionedStories', number_of_conditioned_stories)
 
       if unit_num == 0 # for the first building unit, add everything
 
@@ -215,10 +227,6 @@ class BuildResidentialModel < OpenStudio::Measure::ModelMeasure
 
           model_object.setName("#{unit['name']} #{model_object.name.to_s}")
         end
-
-        # save the modified osm to file
-        modified_in_path = File.join(unit_dir, 'modified_in.osm')
-        unit_model.save(modified_in_path, true)
 
         # we already have the following unique objects from the first building unit
         unit_model.getConvergenceLimits.remove
@@ -276,6 +284,11 @@ class BuildResidentialModel < OpenStudio::Measure::ModelMeasure
         position = 1
         (1..args['geometry_building_num_units']).to_a.each do |unit_num|
 
+          geometry_orientation = 180.0
+          if position.even?
+            geometry_orientation = 0.0
+          end
+
           geometry_horizontal_location = 'Middle'
           if position == 1
             geometry_horizontal_location = 'Left'
@@ -305,7 +318,7 @@ class BuildResidentialModel < OpenStudio::Measure::ModelMeasure
           end
           position += 1
 
-          units << {'name' => "unit #{unit_num}", 'geometry_horizontal_location' => geometry_horizontal_location, 'geometry_level' => geometry_level}
+          units << {'name' => "unit #{unit_num}", 'geometry_horizontal_location' => geometry_horizontal_location, 'geometry_level' => geometry_level, 'geometry_orientation' => geometry_orientation}
         end
       else
         runner.registerError("geometry_corridor_position='#{args['geometry_corridor_position']}' not supported.")
