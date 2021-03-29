@@ -283,6 +283,7 @@ task :setup_testing_geojson, [:json, :csv] do |t, args|
     new_feature["properties"]["footprint_area"] = v[:footprint_area]
     new_feature["properties"]["number_of_stories_above_ground"] = v[:number_of_stories_above_ground]
     new_feature["properties"]["number_of_stories"] = v[:number_of_stories]
+    new_feature["properties"]["number_of_residential_units"] = v[:number_of_residential_units]
     new_feature["properties"]["template"] = v[:template]
     # additional fields in CSV are for formulas in setup and not part of geojson
     hash["features"] << new_feature
