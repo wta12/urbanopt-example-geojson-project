@@ -233,6 +233,30 @@ end
 rake_task = OpenStudio::Extension::RakeTask.new
 rake_task.set_extension_class(URBANopt::ExampleGeoJSONProject::ExampleGeoJSONProject)
 
+### Setup geojson for testing from template and CSV file
+
+desc 'Setup Testing Geojson'
+task :setup_testing_geojson, [:json, :csv] do |t, args|
+  puts 'Setting Up GeoJSON for Testing...'
+
+  json = args[:json]
+  csv = args[:csv]
+  json = 'teting_template.json' if json.nil?
+  csv = 'res_testing_inputs.csv' if csv.nil?
+
+  # todo - load in CSV file, each row will be building feature
+
+  # todo - load in geojson file
+
+  # todo - generate new building features from csv based on template feature in file
+
+  # todo - save modified geojson as a new file (setup get ignore or leave in repo?)
+
+  # todo - determine best way to adjust run period for simulations to a few days
+
+end
+
+
 ### Baseline
 
 desc 'Clear Baseline Scenario'
