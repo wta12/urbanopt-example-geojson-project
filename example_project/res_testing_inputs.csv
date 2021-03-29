@@ -1,0 +1,2 @@
+﻿id,name,building_type,floor_area,footprint_area,number_of_stories_above_ground,number_of_stories,number_of_bedrooms,foundation_type,attic_type,system_type,heating_system_fuel_type,number_of_residential_units,template
+1,MultifamilyResidential - furnace and room air conditioner,Multifamily,28636,14318,2,2,16,slab,flat roof,Residential - furnace and room air conditioner,wood,8,Residential IECC 2015 - Customizable Template Sep 2020
