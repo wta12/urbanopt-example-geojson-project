@@ -241,7 +241,7 @@ task :setup_testing_geojson, [:json, :csv] do |t, args|
 
   json = args[:json]
   csv = args[:csv]
-  json = 'teting_template.json' if json.nil?
+  json = 'res_teting_template.json' if json.nil?
   csv = 'res_testing_inputs.csv' if csv.nil?
 
   # load in CSV file, each row will be building feature
@@ -292,7 +292,7 @@ task :setup_testing_geojson, [:json, :csv] do |t, args|
   puts "saving modified OSA"
   #puts JSON.pretty_generate(hash)
   hash.to_json
-  json_out_file = File.join(root_dir, "testing_populated.json")
+  json_out_file = File.join(root_dir, "res_testing_populated.json")
   File.open(json_out_file, "w") do |f|
     f.puts JSON.pretty_generate(hash)
   end
