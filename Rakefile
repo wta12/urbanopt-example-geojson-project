@@ -276,7 +276,7 @@ task :setup_testing_geojson, [:json, :csv] do |t, args|
   # generate new building features from csv based on template feature in file
   csv_hash.each do |id,v|
     new_feature = JSON.parse(JSON.generate(template_bldg))
-    new_feature["properties"]["id"] = id
+    new_feature["properties"]["id"] = id.to_s
     new_feature["properties"]["name"] = v[:name]
     new_feature["properties"]["building_type"] = v[:building_type]
     new_feature["properties"]["floor_area"] = v[:floor_area]

@@ -90,7 +90,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1,
+        "id": "1",
         "name": "Multifamily crawlspace - vented attic - vented Residential - electric resistance and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -137,7 +137,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 2,
+        "id": "2",
         "name": "Multifamily crawlspace - unvented attic - vented Residential - electric resistance and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -184,7 +184,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 3,
+        "id": "3",
         "name": "Multifamily basement - unconditioned attic - vented Residential - electric resistance and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -231,7 +231,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 4,
+        "id": "4",
         "name": "Multifamily basement - conditioned attic - vented Residential - electric resistance and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -278,7 +278,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 5,
+        "id": "5",
         "name": "Multifamily ambient attic - vented Residential - furnace and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -325,7 +325,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 6,
+        "id": "6",
         "name": "Multifamily crawlspace - vented attic - unvented Residential - furnace and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -372,7 +372,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 7,
+        "id": "7",
         "name": "Multifamily crawlspace - unvented attic - unvented Residential - furnace and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -419,7 +419,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 8,
+        "id": "8",
         "name": "Multifamily basement - unconditioned attic - unvented Residential - furnace and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -466,7 +466,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 9,
+        "id": "9",
         "name": "Multifamily basement - conditioned attic - unvented Residential - boiler and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -513,7 +513,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 10,
+        "id": "10",
         "name": "Multifamily ambient attic - unvented Residential - boiler and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -560,7 +560,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 11,
+        "id": "11",
         "name": "Multifamily crawlspace - vented attic - conditioned Residential - boiler and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -607,7 +607,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 12,
+        "id": "12",
         "name": "Multifamily crawlspace - unvented attic - conditioned Residential - boiler and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -654,7 +654,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 13,
+        "id": "13",
         "name": "Multifamily basement - unconditioned attic - conditioned Residential - air-to-air heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -701,7 +701,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 14,
+        "id": "14",
         "name": "Multifamily basement - conditioned attic - conditioned Residential - mini-split heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -748,7 +748,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 15,
+        "id": "15",
         "name": "Multifamily ambient attic - conditioned Residential - ground-to-air heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -795,7 +795,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 16,
+        "id": "16",
         "name": "Multifamily crawlspace - vented flat roof Residential - electric resistance and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -842,7 +842,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 17,
+        "id": "17",
         "name": "Multifamily crawlspace - unvented flat roof Residential - electric resistance and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -889,7 +889,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 18,
+        "id": "18",
         "name": "Multifamily basement - unconditioned flat roof Residential - electric resistance and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -936,7 +936,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 19,
+        "id": "19",
         "name": "Multifamily basement - conditioned flat roof Residential - electric resistance and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -983,7 +983,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 20,
+        "id": "20",
         "name": "Multifamily ambient flat roof Residential - furnace and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -1030,7 +1030,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 21,
+        "id": "21",
         "name": "Multifamily crawlspace - vented attic - vented Residential - furnace and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -1077,7 +1077,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 22,
+        "id": "22",
         "name": "Multifamily crawlspace - unvented attic - vented Residential - furnace and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -1124,7 +1124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 23,
+        "id": "23",
         "name": "Multifamily basement - unconditioned attic - vented Residential - furnace and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -1171,7 +1171,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 24,
+        "id": "24",
         "name": "Multifamily basement - conditioned attic - vented Residential - boiler and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -1218,7 +1218,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 25,
+        "id": "25",
         "name": "Multifamily ambient attic - vented Residential - boiler and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -1265,7 +1265,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 26,
+        "id": "26",
         "name": "Multifamily crawlspace - vented attic - unvented Residential - boiler and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -1312,7 +1312,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 27,
+        "id": "27",
         "name": "Multifamily crawlspace - unvented attic - unvented Residential - boiler and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -1359,7 +1359,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 28,
+        "id": "28",
         "name": "Multifamily basement - unconditioned attic - unvented Residential - air-to-air heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -1406,7 +1406,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 29,
+        "id": "29",
         "name": "Multifamily basement - conditioned attic - unvented Residential - mini-split heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -1453,7 +1453,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 30,
+        "id": "30",
         "name": "Multifamily ambient attic - unvented Residential - ground-to-air heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -1500,7 +1500,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 31,
+        "id": "31",
         "name": "Multifamily crawlspace - vented attic - conditioned Residential - electric resistance and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -1547,7 +1547,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 32,
+        "id": "32",
         "name": "Multifamily crawlspace - unvented attic - conditioned Residential - electric resistance and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -1594,7 +1594,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 33,
+        "id": "33",
         "name": "Multifamily basement - unconditioned attic - conditioned Residential - electric resistance and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -1641,7 +1641,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 34,
+        "id": "34",
         "name": "Multifamily basement - conditioned attic - conditioned Residential - electric resistance and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -1688,7 +1688,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 35,
+        "id": "35",
         "name": "Multifamily ambient attic - conditioned Residential - furnace and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -1735,7 +1735,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 36,
+        "id": "36",
         "name": "Multifamily crawlspace - vented flat roof Residential - furnace and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -1782,7 +1782,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 37,
+        "id": "37",
         "name": "Multifamily crawlspace - unvented flat roof Residential - furnace and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -1829,7 +1829,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 38,
+        "id": "38",
         "name": "Multifamily basement - unconditioned flat roof Residential - furnace and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -1876,7 +1876,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 39,
+        "id": "39",
         "name": "Multifamily basement - conditioned flat roof Residential - boiler and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -1923,7 +1923,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 40,
+        "id": "40",
         "name": "Multifamily ambient flat roof Residential - boiler and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -1970,7 +1970,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 41,
+        "id": "41",
         "name": "Multifamily crawlspace - vented attic - vented Residential - boiler and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -2017,7 +2017,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 42,
+        "id": "42",
         "name": "Multifamily crawlspace - unvented attic - vented Residential - boiler and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -2064,7 +2064,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 43,
+        "id": "43",
         "name": "Multifamily basement - unconditioned attic - vented Residential - air-to-air heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -2111,7 +2111,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 44,
+        "id": "44",
         "name": "Multifamily basement - conditioned attic - vented Residential - mini-split heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -2158,7 +2158,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 45,
+        "id": "45",
         "name": "Multifamily ambient attic - vented Residential - ground-to-air heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -2205,7 +2205,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 46,
+        "id": "46",
         "name": "Multifamily crawlspace - vented attic - unvented Residential - electric resistance and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -2252,7 +2252,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 47,
+        "id": "47",
         "name": "Multifamily crawlspace - unvented attic - unvented Residential - electric resistance and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -2299,7 +2299,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 48,
+        "id": "48",
         "name": "Multifamily basement - unconditioned attic - unvented Residential - electric resistance and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -2346,7 +2346,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 49,
+        "id": "49",
         "name": "Multifamily basement - conditioned attic - unvented Residential - electric resistance and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -2393,7 +2393,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 50,
+        "id": "50",
         "name": "Multifamily ambient attic - unvented Residential - furnace and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -2440,7 +2440,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 51,
+        "id": "51",
         "name": "Multifamily crawlspace - vented attic - conditioned Residential - furnace and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -2487,7 +2487,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 52,
+        "id": "52",
         "name": "Multifamily crawlspace - unvented attic - conditioned Residential - furnace and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -2534,7 +2534,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 53,
+        "id": "53",
         "name": "Multifamily basement - unconditioned attic - conditioned Residential - furnace and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -2581,7 +2581,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 54,
+        "id": "54",
         "name": "Multifamily basement - conditioned attic - conditioned Residential - boiler and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -2628,7 +2628,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 55,
+        "id": "55",
         "name": "Multifamily ambient attic - conditioned Residential - boiler and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -2675,7 +2675,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 56,
+        "id": "56",
         "name": "Multifamily crawlspace - vented flat roof Residential - boiler and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -2722,7 +2722,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 57,
+        "id": "57",
         "name": "Multifamily crawlspace - unvented flat roof Residential - boiler and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -2769,7 +2769,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 58,
+        "id": "58",
         "name": "Multifamily basement - unconditioned flat roof Residential - air-to-air heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -2816,7 +2816,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 59,
+        "id": "59",
         "name": "Multifamily basement - conditioned flat roof Residential - mini-split heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -2863,7 +2863,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 60,
+        "id": "60",
         "name": "Multifamily ambient flat roof Residential - ground-to-air heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -2910,7 +2910,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 61,
+        "id": "61",
         "name": "Multifamily crawlspace - vented attic - vented Residential - electric resistance and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -2957,7 +2957,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 62,
+        "id": "62",
         "name": "Multifamily crawlspace - unvented attic - vented Residential - electric resistance and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3004,7 +3004,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 63,
+        "id": "63",
         "name": "Multifamily basement - unconditioned attic - vented Residential - electric resistance and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3051,7 +3051,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 64,
+        "id": "64",
         "name": "Multifamily basement - conditioned attic - vented Residential - electric resistance and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3098,7 +3098,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 65,
+        "id": "65",
         "name": "Multifamily ambient attic - vented Residential - furnace and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3145,7 +3145,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 66,
+        "id": "66",
         "name": "Multifamily crawlspace - vented attic - unvented Residential - furnace and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3192,7 +3192,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 67,
+        "id": "67",
         "name": "Multifamily crawlspace - unvented attic - unvented Residential - furnace and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3239,7 +3239,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 68,
+        "id": "68",
         "name": "Multifamily basement - unconditioned attic - unvented Residential - furnace and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3286,7 +3286,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 69,
+        "id": "69",
         "name": "Multifamily basement - conditioned attic - unvented Residential - boiler and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3333,7 +3333,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 70,
+        "id": "70",
         "name": "Multifamily ambient attic - unvented Residential - boiler and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3380,7 +3380,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 71,
+        "id": "71",
         "name": "Multifamily crawlspace - vented attic - conditioned Residential - boiler and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3427,7 +3427,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 72,
+        "id": "72",
         "name": "Multifamily crawlspace - unvented attic - conditioned Residential - boiler and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3474,7 +3474,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 73,
+        "id": "73",
         "name": "Multifamily basement - unconditioned attic - conditioned Residential - air-to-air heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3521,7 +3521,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 74,
+        "id": "74",
         "name": "Multifamily basement - conditioned attic - conditioned Residential - mini-split heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3568,7 +3568,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 75,
+        "id": "75",
         "name": "Multifamily ambient attic - conditioned Residential - ground-to-air heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3615,7 +3615,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 76,
+        "id": "76",
         "name": "Multifamily crawlspace - vented flat roof Residential - electric resistance and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3662,7 +3662,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 77,
+        "id": "77",
         "name": "Multifamily crawlspace - unvented flat roof Residential - electric resistance and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3709,7 +3709,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 78,
+        "id": "78",
         "name": "Multifamily basement - unconditioned flat roof Residential - electric resistance and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3756,7 +3756,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 79,
+        "id": "79",
         "name": "Multifamily basement - conditioned flat roof Residential - electric resistance and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3803,7 +3803,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 80,
+        "id": "80",
         "name": "Multifamily ambient flat roof Residential - furnace and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3850,7 +3850,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 81,
+        "id": "81",
         "name": "Multifamily crawlspace - vented attic - vented Residential - furnace and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3897,7 +3897,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 82,
+        "id": "82",
         "name": "Multifamily crawlspace - unvented attic - vented Residential - furnace and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3944,7 +3944,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 83,
+        "id": "83",
         "name": "Multifamily basement - unconditioned attic - vented Residential - furnace and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -3991,7 +3991,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 84,
+        "id": "84",
         "name": "Multifamily basement - conditioned attic - vented Residential - boiler and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -4038,7 +4038,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 85,
+        "id": "85",
         "name": "Multifamily ambient attic - vented Residential - boiler and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -4085,7 +4085,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 86,
+        "id": "86",
         "name": "Multifamily crawlspace - vented attic - unvented Residential - boiler and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -4132,7 +4132,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 87,
+        "id": "87",
         "name": "Multifamily crawlspace - unvented attic - unvented Residential - boiler and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -4179,7 +4179,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 88,
+        "id": "88",
         "name": "Multifamily basement - unconditioned attic - unvented Residential - air-to-air heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -4226,7 +4226,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 89,
+        "id": "89",
         "name": "Multifamily basement - conditioned attic - unvented Residential - mini-split heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -4273,7 +4273,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 90,
+        "id": "90",
         "name": "Multifamily ambient attic - unvented Residential - ground-to-air heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -4320,7 +4320,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 91,
+        "id": "91",
         "name": "Multifamily crawlspace - vented attic - conditioned Residential - electric resistance and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -4367,7 +4367,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 92,
+        "id": "92",
         "name": "Multifamily crawlspace - unvented attic - conditioned Residential - electric resistance and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -4414,7 +4414,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 93,
+        "id": "93",
         "name": "Multifamily basement - unconditioned attic - conditioned Residential - electric resistance and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -4461,7 +4461,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 94,
+        "id": "94",
         "name": "Multifamily basement - conditioned attic - conditioned Residential - electric resistance and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -4508,7 +4508,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 95,
+        "id": "95",
         "name": "Multifamily ambient attic - conditioned Residential - furnace and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -4555,7 +4555,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 96,
+        "id": "96",
         "name": "Multifamily crawlspace - vented flat roof Residential - furnace and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -4602,7 +4602,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 97,
+        "id": "97",
         "name": "Multifamily crawlspace - unvented flat roof Residential - furnace and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -4649,7 +4649,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 98,
+        "id": "98",
         "name": "Multifamily basement - unconditioned flat roof Residential - furnace and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -4696,7 +4696,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 99,
+        "id": "99",
         "name": "Multifamily basement - conditioned flat roof Residential - boiler and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -4743,7 +4743,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 100,
+        "id": "100",
         "name": "Multifamily ambient flat roof Residential - boiler and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -4790,7 +4790,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 101,
+        "id": "101",
         "name": "Multifamily crawlspace - vented attic - vented Residential - boiler and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -4837,7 +4837,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 102,
+        "id": "102",
         "name": "Multifamily crawlspace - unvented attic - vented Residential - boiler and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -4884,7 +4884,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 103,
+        "id": "103",
         "name": "Multifamily basement - unconditioned attic - vented Residential - air-to-air heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -4931,7 +4931,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 104,
+        "id": "104",
         "name": "Multifamily basement - conditioned attic - vented Residential - mini-split heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -4978,7 +4978,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 105,
+        "id": "105",
         "name": "Multifamily ambient attic - vented Residential - ground-to-air heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -5025,7 +5025,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 106,
+        "id": "106",
         "name": "Multifamily crawlspace - vented attic - unvented Residential - electric resistance and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -5072,7 +5072,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 107,
+        "id": "107",
         "name": "Multifamily crawlspace - unvented attic - unvented Residential - electric resistance and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -5119,7 +5119,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 108,
+        "id": "108",
         "name": "Multifamily basement - unconditioned attic - unvented Residential - electric resistance and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -5166,7 +5166,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 109,
+        "id": "109",
         "name": "Multifamily basement - conditioned attic - unvented Residential - electric resistance and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -5213,7 +5213,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 110,
+        "id": "110",
         "name": "Multifamily ambient attic - unvented Residential - furnace and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -5260,7 +5260,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 111,
+        "id": "111",
         "name": "Multifamily crawlspace - vented attic - conditioned Residential - furnace and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -5307,7 +5307,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 112,
+        "id": "112",
         "name": "Multifamily crawlspace - unvented attic - conditioned Residential - furnace and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -5354,7 +5354,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 113,
+        "id": "113",
         "name": "Multifamily basement - unconditioned attic - conditioned Residential - furnace and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -5401,7 +5401,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 114,
+        "id": "114",
         "name": "Multifamily basement - conditioned attic - conditioned Residential - boiler and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -5448,7 +5448,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 115,
+        "id": "115",
         "name": "Multifamily ambient attic - conditioned Residential - boiler and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -5495,7 +5495,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 116,
+        "id": "116",
         "name": "Multifamily crawlspace - vented flat roof Residential - boiler and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -5542,7 +5542,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 117,
+        "id": "117",
         "name": "Multifamily crawlspace - unvented flat roof Residential - boiler and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -5589,7 +5589,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 118,
+        "id": "118",
         "name": "Multifamily basement - unconditioned flat roof Residential - air-to-air heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -5636,7 +5636,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 119,
+        "id": "119",
         "name": "Multifamily basement - conditioned flat roof Residential - mini-split heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -5683,7 +5683,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 120,
+        "id": "120",
         "name": "Multifamily ambient flat roof Residential - ground-to-air heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -5730,7 +5730,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 121,
+        "id": "121",
         "name": "Multifamily crawlspace - vented attic - vented Residential - electric resistance and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -5777,7 +5777,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 122,
+        "id": "122",
         "name": "Multifamily crawlspace - unvented attic - vented Residential - electric resistance and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -5824,7 +5824,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 123,
+        "id": "123",
         "name": "Multifamily basement - unconditioned attic - vented Residential - electric resistance and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -5871,7 +5871,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 124,
+        "id": "124",
         "name": "Multifamily basement - conditioned attic - vented Residential - electric resistance and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -5918,7 +5918,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 125,
+        "id": "125",
         "name": "Multifamily ambient attic - vented Residential - furnace and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -5965,7 +5965,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 126,
+        "id": "126",
         "name": "Multifamily crawlspace - vented attic - unvented Residential - furnace and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -6012,7 +6012,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 127,
+        "id": "127",
         "name": "Multifamily crawlspace - unvented attic - unvented Residential - furnace and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -6059,7 +6059,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 128,
+        "id": "128",
         "name": "Multifamily basement - unconditioned attic - unvented Residential - furnace and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -6106,7 +6106,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 129,
+        "id": "129",
         "name": "Multifamily basement - conditioned attic - unvented Residential - boiler and no cooling",
         "type": "Building",
         "building_type": "Multifamily",
@@ -6153,7 +6153,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 130,
+        "id": "130",
         "name": "Multifamily ambient attic - unvented Residential - boiler and central air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -6200,7 +6200,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 131,
+        "id": "131",
         "name": "Multifamily crawlspace - vented attic - conditioned Residential - boiler and room air conditioner",
         "type": "Building",
         "building_type": "Multifamily",
@@ -6247,7 +6247,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 132,
+        "id": "132",
         "name": "Multifamily crawlspace - unvented attic - conditioned Residential - boiler and evaporative cooler",
         "type": "Building",
         "building_type": "Multifamily",
@@ -6294,7 +6294,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 133,
+        "id": "133",
         "name": "Multifamily basement - unconditioned attic - conditioned Residential - air-to-air heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -6341,7 +6341,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 134,
+        "id": "134",
         "name": "Multifamily basement - conditioned attic - conditioned Residential - mini-split heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -6388,7 +6388,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 135,
+        "id": "135",
         "name": "Multifamily ambient attic - conditioned Residential - ground-to-air heat pump",
         "type": "Building",
         "building_type": "Multifamily",
@@ -6435,7 +6435,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 136,
+        "id": "136",
         "name": "Single-Family Attached crawlspace - vented attic - vented Residential - electric resistance and no cooling",
         "type": "Building",
         "building_type": "Single-Family Attached",
@@ -6482,7 +6482,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 137,
+        "id": "137",
         "name": "Single-Family Attached crawlspace - unvented attic - vented Residential - electric resistance and central air conditioner",
         "type": "Building",
         "building_type": "Single-Family Attached",
@@ -6529,7 +6529,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 138,
+        "id": "138",
         "name": "Single-Family Attached basement - unconditioned attic - vented Residential - electric resistance and room air conditioner",
         "type": "Building",
         "building_type": "Single-Family Attached",
@@ -6576,7 +6576,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 139,
+        "id": "139",
         "name": "Single-Family Attached basement - conditioned attic - vented Residential - electric resistance and evaporative cooler",
         "type": "Building",
         "building_type": "Single-Family Attached",
@@ -6623,7 +6623,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 140,
+        "id": "140",
         "name": "Single-Family Attached ambient attic - vented Residential - furnace and no cooling",
         "type": "Building",
         "building_type": "Single-Family Attached",
@@ -6670,7 +6670,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 141,
+        "id": "141",
         "name": "Single-Family Attached crawlspace - vented attic - unvented Residential - furnace and central air conditioner",
         "type": "Building",
         "building_type": "Single-Family Attached",
@@ -6717,7 +6717,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 142,
+        "id": "142",
         "name": "Single-Family Attached crawlspace - unvented attic - unvented Residential - furnace and room air conditioner",
         "type": "Building",
         "building_type": "Single-Family Attached",
@@ -6764,7 +6764,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 143,
+        "id": "143",
         "name": "Single-Family Attached basement - unconditioned attic - unvented Residential - furnace and evaporative cooler",
         "type": "Building",
         "building_type": "Single-Family Attached",
@@ -6811,7 +6811,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 144,
+        "id": "144",
         "name": "Single-Family Attached basement - conditioned attic - unvented Residential - boiler and no cooling",
         "type": "Building",
         "building_type": "Single-Family Attached",
@@ -6858,7 +6858,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 145,
+        "id": "145",
         "name": "Single-Family Attached ambient attic - unvented Residential - boiler and central air conditioner",
         "type": "Building",
         "building_type": "Single-Family Attached",
@@ -6905,7 +6905,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 146,
+        "id": "146",
         "name": "Single-Family Attached crawlspace - vented attic - conditioned Residential - boiler and room air conditioner",
         "type": "Building",
         "building_type": "Single-Family Attached",
@@ -6952,7 +6952,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 147,
+        "id": "147",
         "name": "Single-Family Attached crawlspace - unvented attic - conditioned Residential - boiler and evaporative cooler",
         "type": "Building",
         "building_type": "Single-Family Attached",
@@ -6999,7 +6999,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 148,
+        "id": "148",
         "name": "Single-Family Attached basement - unconditioned attic - conditioned Residential - air-to-air heat pump",
         "type": "Building",
         "building_type": "Single-Family Attached",
@@ -7046,7 +7046,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 149,
+        "id": "149",
         "name": "Single-Family Attached basement - conditioned attic - conditioned Residential - mini-split heat pump",
         "type": "Building",
         "building_type": "Single-Family Attached",
@@ -7093,7 +7093,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 150,
+        "id": "150",
         "name": "Single-Family Attached ambient attic - conditioned Residential - ground-to-air heat pump",
         "type": "Building",
         "building_type": "Single-Family Attached",
@@ -7140,7 +7140,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 151,
+        "id": "151",
         "name": "Single-Family Detached crawlspace - vented attic - vented Residential - electric resistance and no cooling",
         "type": "Building",
         "building_type": "Single-Family Detached",
@@ -7187,7 +7187,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 152,
+        "id": "152",
         "name": "Single-Family Detached crawlspace - unvented attic - vented Residential - electric resistance and central air conditioner",
         "type": "Building",
         "building_type": "Single-Family Detached",
@@ -7234,7 +7234,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 153,
+        "id": "153",
         "name": "Single-Family Detached basement - unconditioned attic - vented Residential - electric resistance and room air conditioner",
         "type": "Building",
         "building_type": "Single-Family Detached",
@@ -7281,7 +7281,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 154,
+        "id": "154",
         "name": "Single-Family Detached basement - conditioned attic - vented Residential - electric resistance and evaporative cooler",
         "type": "Building",
         "building_type": "Single-Family Detached",
@@ -7328,7 +7328,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 155,
+        "id": "155",
         "name": "Single-Family Detached ambient attic - vented Residential - furnace and no cooling",
         "type": "Building",
         "building_type": "Single-Family Detached",
@@ -7375,7 +7375,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 156,
+        "id": "156",
         "name": "Single-Family Detached crawlspace - vented attic - unvented Residential - furnace and central air conditioner",
         "type": "Building",
         "building_type": "Single-Family Detached",
@@ -7422,7 +7422,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 157,
+        "id": "157",
         "name": "Single-Family Detached crawlspace - unvented attic - unvented Residential - furnace and room air conditioner",
         "type": "Building",
         "building_type": "Single-Family Detached",
@@ -7469,7 +7469,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 158,
+        "id": "158",
         "name": "Single-Family Detached basement - unconditioned attic - unvented Residential - furnace and evaporative cooler",
         "type": "Building",
         "building_type": "Single-Family Detached",
@@ -7516,7 +7516,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 159,
+        "id": "159",
         "name": "Single-Family Detached basement - conditioned attic - unvented Residential - boiler and no cooling",
         "type": "Building",
         "building_type": "Single-Family Detached",
@@ -7563,7 +7563,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 160,
+        "id": "160",
         "name": "Single-Family Detached ambient attic - unvented Residential - boiler and central air conditioner",
         "type": "Building",
         "building_type": "Single-Family Detached",
@@ -7610,7 +7610,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 161,
+        "id": "161",
         "name": "Single-Family Detached crawlspace - vented attic - conditioned Residential - boiler and room air conditioner",
         "type": "Building",
         "building_type": "Single-Family Detached",
@@ -7657,7 +7657,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 162,
+        "id": "162",
         "name": "Single-Family Detached crawlspace - unvented attic - conditioned Residential - boiler and evaporative cooler",
         "type": "Building",
         "building_type": "Single-Family Detached",
@@ -7704,7 +7704,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 163,
+        "id": "163",
         "name": "Single-Family Detached basement - unconditioned attic - conditioned Residential - air-to-air heat pump",
         "type": "Building",
         "building_type": "Single-Family Detached",
@@ -7751,7 +7751,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 164,
+        "id": "164",
         "name": "Single-Family Detached basement - conditioned attic - conditioned Residential - mini-split heat pump",
         "type": "Building",
         "building_type": "Single-Family Detached",
@@ -7798,7 +7798,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 165,
+        "id": "165",
         "name": "Single-Family Detached ambient attic - conditioned Residential - ground-to-air heat pump",
         "type": "Building",
         "building_type": "Single-Family Detached",
