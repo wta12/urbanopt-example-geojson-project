@@ -244,15 +244,58 @@ task :setup_testing_geojson, [:json, :csv] do |t, args|
   json = 'teting_template.json' if json.nil?
   csv = 'res_testing_inputs.csv' if csv.nil?
 
-  # todo - load in CSV file, each row will be building feature
+  # load in CSV file, each row will be building feature
+  require 'csv'
+  csv_file = File.join(root_dir, csv)
 
-  # todo - load in geojson file
+  # Load in CSV file
+  puts "loading CSV inputs for testing"
+  csv_hash = {}
+  CSV.foreach(csv_file, :headers => true, :header_converters => :symbol, :converters => :all) do |row|
+    id = row.fields[0]
+    csv_hash[id] = Hash[row.headers[1..-1].zip(row.fields[1..-1])]
+  end
+  puts "CSV has #{csv_hash.size} entries."
+  #puts "Hash keys are #{csv_hash.keys}"
+  #puts csv_hash.first
 
-  # todo - generate new building features from csv based on template feature in file
+  # load in geojson file
+  template_json_file = File.join(root_dir, json)
+  # to try and use API in future
+  # template_json = URBANopt::GeoJSON::GeoFile.from_file(template_json_file)
+  json = File.read(template_json_file)
+  hash = JSON.parse(json)
+  puts "loading template geojson file"
+  # extract template building feature to be copied
+  template_bldg = nil
+  hash["features"].each do |feature|
+    next if feature["properties"]["type"] != "Building"
+    template_bldg = feature
+  end
 
-  # todo - save modified geojson as a new file (setup get ignore or leave in repo?)
+  # generate new building features from csv based on template feature in file
+  csv_hash.each do |id,v|
+    new_feature = JSON.parse(JSON.generate(template_bldg))
+    new_feature["properties"]["id"] = id
+    new_feature["properties"]["name"] = v[:name]
+    new_feature["properties"]["building_type"] = v[:building_type]
+    new_feature["properties"]["floor_area"] = v[:floor_area]
+    new_feature["properties"]["footprint_area"] = v[:footprint_area]
+    new_feature["properties"]["number_of_stories_above_ground"] = v[:number_of_stories_above_ground]
+    new_feature["properties"]["number_of_stories"] = v[:number_of_stories]
+    new_feature["properties"]["template"] = v[:template]
+    # additional fields in CSV are for formulas in setup and not part of geojson
+    hash["features"] << new_feature
+  end
 
-  # todo - determine best way to adjust run period for simulations to a few days
+  # save modified geojson as a new file (setup get ignore or leave in repo?)
+  puts "saving modified OSA"
+  #puts JSON.pretty_generate(hash)
+  hash.to_json
+  json_out_file = File.join(root_dir, "testing_populated.json")
+  File.open(json_out_file, "w") do |f|
+    f.puts JSON.pretty_generate(hash)
+  end
 
 end
 
