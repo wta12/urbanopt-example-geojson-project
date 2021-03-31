@@ -30,7 +30,7 @@ allow_local = ENV['FAVOR_LOCAL_GEMS']
 # elsif allow_local
 #   gem 'openstudio-common-measures', github: 'NREL/openstudio-common-measures-gem', branch: 'develop'
 # else
-#   gem 'openstudio-common-measures', '~> 0.2.0'
+#   gem 'openstudio-common-measures', '~> 0.3.2'
 # end
 
 if allow_local && File.exist?('../openstudio-model-articulation-gem')
@@ -46,23 +46,23 @@ if allow_local && File.exist?('../urbanopt-scenario-gem')
 elsif allow_local
   gem 'urbanopt-scenario', github: 'URBANopt/urbanopt-scenario-gem', branch: 'develop'
 else
-  gem 'urbanopt-scenario', '~> 0.5.0'
+  gem 'urbanopt-scenario', '~> 0.5.1'
 end
 
-# if allow_local && File.exist?('../urbanopt-reporting-gem')
+if allow_local && File.exist?('../urbanopt-reporting-gem')
   gem 'urbanopt-reporting', path: '../urbanopt-reporting-gem'
-# elsif allow_local
-#   gem 'urbanopt-reporting', github: 'URBANopt/urbanopt-reporting-gem', branch: 'develop'
-# else
-#   gem 'urbanopt-reporting', '~> 0.3.2'
-# end
+elsif allow_local
+  gem 'urbanopt-reporting', github: 'URBANopt/urbanopt-reporting-gem', branch: 'develop'
+else
+  gem 'urbanopt-reporting', '~> 0.3.7'
+end
 
 if allow_local && File.exist?('../urbanopt-geojson-gem')
   gem 'urbanopt-geojson', path: '../urbanopt-geojson-gem'
 elsif allow_local
   gem 'urbanopt-geojson', github: 'URBANopt/urbanopt-geojson-gem', branch: 'develop'
 else
- gem 'urbanopt-geojson', '~> 0.5.0'
+  gem 'urbanopt-geojson', '~> 0.5.2'
 end
 
 if allow_local && File.exist?('../openstudio-load-flexibility-measures-gem')
