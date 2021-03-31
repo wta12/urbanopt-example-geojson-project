@@ -295,7 +295,7 @@ task :setup_testing_geojson, [:json, :csv] do |t, args|
   end
 
   # save modified geojson as a new file (setup get ignore or leave in repo?)
-  puts "saving modified OSA"
+  puts "saving modified GeoJSON"
   #puts JSON.pretty_generate(hash)
   hash.to_json
   json_out_file = File.join(root_dir, "res_testing_populated.json")

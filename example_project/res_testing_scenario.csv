@@ -2,165 +2,165 @@
 1,Multifamily crawlspace - vented attic - vented Residential - electric resistance and no cooling,URBANopt::Scenario::BaselineMapper
 2,Multifamily crawlspace - unvented attic - vented Residential - electric resistance and central air conditioner,URBANopt::Scenario::BaselineMapper
 3,Multifamily basement - unconditioned attic - vented Residential - electric resistance and room air conditioner,URBANopt::Scenario::BaselineMapper
-4,Multifamily basement - conditioned attic - vented Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
-5,Multifamily ambient attic - vented Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
+4,Multifamily crawlspace - vented attic - vented Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
+5,Multifamily crawlspace - vented attic - vented Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
 6,Multifamily crawlspace - vented attic - unvented Residential - furnace and central air conditioner,URBANopt::Scenario::BaselineMapper
 7,Multifamily crawlspace - unvented attic - unvented Residential - furnace and room air conditioner,URBANopt::Scenario::BaselineMapper
 8,Multifamily basement - unconditioned attic - unvented Residential - furnace and evaporative cooler,URBANopt::Scenario::BaselineMapper
-9,Multifamily basement - conditioned attic - unvented Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
-10,Multifamily ambient attic - unvented Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
+9,Multifamily crawlspace - vented attic - unvented Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
+10,Multifamily crawlspace - vented attic - unvented Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
 11,Multifamily crawlspace - vented attic - conditioned Residential - boiler and room air conditioner,URBANopt::Scenario::BaselineMapper
 12,Multifamily crawlspace - unvented attic - conditioned Residential - boiler and evaporative cooler,URBANopt::Scenario::BaselineMapper
-13,Multifamily basement - unconditioned attic - conditioned Residential - air-to-air heat pump,URBANopt::Scenario::BaselineMapper
-14,Multifamily basement - conditioned attic - conditioned Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
-15,Multifamily ambient attic - conditioned Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
+13,Multifamily basement - unconditioned flat roof Residential - air-to-air heat pump,URBANopt::Scenario::BaselineMapper
+14,Multifamily crawlspace - vented attic - conditioned Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
+15,Multifamily crawlspace - vented attic - conditioned Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
 16,Multifamily crawlspace - vented flat roof Residential - electric resistance and no cooling,URBANopt::Scenario::BaselineMapper
 17,Multifamily crawlspace - unvented flat roof Residential - electric resistance and central air conditioner,URBANopt::Scenario::BaselineMapper
 18,Multifamily basement - unconditioned flat roof Residential - electric resistance and room air conditioner,URBANopt::Scenario::BaselineMapper
-19,Multifamily basement - conditioned flat roof Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
-20,Multifamily ambient flat roof Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
+19,Multifamily crawlspace - vented flat roof Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
+20,Multifamily crawlspace - vented flat roof Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
 21,Multifamily crawlspace - vented attic - vented Residential - furnace and central air conditioner,URBANopt::Scenario::BaselineMapper
 22,Multifamily crawlspace - unvented attic - vented Residential - furnace and room air conditioner,URBANopt::Scenario::BaselineMapper
 23,Multifamily basement - unconditioned attic - vented Residential - furnace and evaporative cooler,URBANopt::Scenario::BaselineMapper
-24,Multifamily basement - conditioned attic - vented Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
-25,Multifamily ambient attic - vented Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
+24,Multifamily crawlspace - vented attic - vented Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
+25,Multifamily crawlspace - vented attic - vented Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
 26,Multifamily crawlspace - vented attic - unvented Residential - boiler and room air conditioner,URBANopt::Scenario::BaselineMapper
 27,Multifamily crawlspace - unvented attic - unvented Residential - boiler and evaporative cooler,URBANopt::Scenario::BaselineMapper
 28,Multifamily basement - unconditioned attic - unvented Residential - air-to-air heat pump,URBANopt::Scenario::BaselineMapper
-29,Multifamily basement - conditioned attic - unvented Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
-30,Multifamily ambient attic - unvented Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
+29,Multifamily crawlspace - vented attic - unvented Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
+30,Multifamily crawlspace - vented attic - unvented Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
 31,Multifamily crawlspace - vented attic - conditioned Residential - electric resistance and no cooling,URBANopt::Scenario::BaselineMapper
 32,Multifamily crawlspace - unvented attic - conditioned Residential - electric resistance and central air conditioner,URBANopt::Scenario::BaselineMapper
-33,Multifamily basement - unconditioned attic - conditioned Residential - electric resistance and room air conditioner,URBANopt::Scenario::BaselineMapper
-34,Multifamily basement - conditioned attic - conditioned Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
-35,Multifamily ambient attic - conditioned Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
+33,Multifamily basement - unconditioned flat roof Residential - electric resistance and room air conditioner,URBANopt::Scenario::BaselineMapper
+34,Multifamily crawlspace - vented attic - conditioned Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
+35,Multifamily crawlspace - vented attic - conditioned Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
 36,Multifamily crawlspace - vented flat roof Residential - furnace and central air conditioner,URBANopt::Scenario::BaselineMapper
 37,Multifamily crawlspace - unvented flat roof Residential - furnace and room air conditioner,URBANopt::Scenario::BaselineMapper
 38,Multifamily basement - unconditioned flat roof Residential - furnace and evaporative cooler,URBANopt::Scenario::BaselineMapper
-39,Multifamily basement - conditioned flat roof Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
-40,Multifamily ambient flat roof Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
+39,Multifamily crawlspace - vented flat roof Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
+40,Multifamily crawlspace - vented flat roof Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
 41,Multifamily crawlspace - vented attic - vented Residential - boiler and room air conditioner,URBANopt::Scenario::BaselineMapper
 42,Multifamily crawlspace - unvented attic - vented Residential - boiler and evaporative cooler,URBANopt::Scenario::BaselineMapper
 43,Multifamily basement - unconditioned attic - vented Residential - air-to-air heat pump,URBANopt::Scenario::BaselineMapper
-44,Multifamily basement - conditioned attic - vented Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
-45,Multifamily ambient attic - vented Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
+44,Multifamily crawlspace - vented attic - vented Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
+45,Multifamily crawlspace - vented attic - vented Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
 46,Multifamily crawlspace - vented attic - unvented Residential - electric resistance and no cooling,URBANopt::Scenario::BaselineMapper
 47,Multifamily crawlspace - unvented attic - unvented Residential - electric resistance and central air conditioner,URBANopt::Scenario::BaselineMapper
 48,Multifamily basement - unconditioned attic - unvented Residential - electric resistance and room air conditioner,URBANopt::Scenario::BaselineMapper
-49,Multifamily basement - conditioned attic - unvented Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
-50,Multifamily ambient attic - unvented Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
+49,Multifamily crawlspace - vented attic - unvented Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
+50,Multifamily crawlspace - vented attic - unvented Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
 51,Multifamily crawlspace - vented attic - conditioned Residential - furnace and central air conditioner,URBANopt::Scenario::BaselineMapper
 52,Multifamily crawlspace - unvented attic - conditioned Residential - furnace and room air conditioner,URBANopt::Scenario::BaselineMapper
-53,Multifamily basement - unconditioned attic - conditioned Residential - furnace and evaporative cooler,URBANopt::Scenario::BaselineMapper
-54,Multifamily basement - conditioned attic - conditioned Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
-55,Multifamily ambient attic - conditioned Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
+53,Multifamily basement - unconditioned flat roof Residential - furnace and evaporative cooler,URBANopt::Scenario::BaselineMapper
+54,Multifamily crawlspace - vented attic - conditioned Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
+55,Multifamily crawlspace - vented attic - conditioned Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
 56,Multifamily crawlspace - vented flat roof Residential - boiler and room air conditioner,URBANopt::Scenario::BaselineMapper
 57,Multifamily crawlspace - unvented flat roof Residential - boiler and evaporative cooler,URBANopt::Scenario::BaselineMapper
 58,Multifamily basement - unconditioned flat roof Residential - air-to-air heat pump,URBANopt::Scenario::BaselineMapper
-59,Multifamily basement - conditioned flat roof Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
-60,Multifamily ambient flat roof Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
+59,Multifamily crawlspace - vented flat roof Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
+60,Multifamily crawlspace - vented flat roof Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
 61,Multifamily crawlspace - vented attic - vented Residential - electric resistance and no cooling,URBANopt::Scenario::BaselineMapper
 62,Multifamily crawlspace - unvented attic - vented Residential - electric resistance and central air conditioner,URBANopt::Scenario::BaselineMapper
 63,Multifamily basement - unconditioned attic - vented Residential - electric resistance and room air conditioner,URBANopt::Scenario::BaselineMapper
-64,Multifamily basement - conditioned attic - vented Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
-65,Multifamily ambient attic - vented Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
+64,Multifamily crawlspace - vented attic - vented Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
+65,Multifamily crawlspace - vented attic - vented Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
 66,Multifamily crawlspace - vented attic - unvented Residential - furnace and central air conditioner,URBANopt::Scenario::BaselineMapper
 67,Multifamily crawlspace - unvented attic - unvented Residential - furnace and room air conditioner,URBANopt::Scenario::BaselineMapper
 68,Multifamily basement - unconditioned attic - unvented Residential - furnace and evaporative cooler,URBANopt::Scenario::BaselineMapper
-69,Multifamily basement - conditioned attic - unvented Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
-70,Multifamily ambient attic - unvented Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
+69,Multifamily crawlspace - vented attic - unvented Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
+70,Multifamily crawlspace - vented attic - unvented Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
 71,Multifamily crawlspace - vented attic - conditioned Residential - boiler and room air conditioner,URBANopt::Scenario::BaselineMapper
 72,Multifamily crawlspace - unvented attic - conditioned Residential - boiler and evaporative cooler,URBANopt::Scenario::BaselineMapper
-73,Multifamily basement - unconditioned attic - conditioned Residential - air-to-air heat pump,URBANopt::Scenario::BaselineMapper
-74,Multifamily basement - conditioned attic - conditioned Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
-75,Multifamily ambient attic - conditioned Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
+73,Multifamily basement - unconditioned flat roof Residential - air-to-air heat pump,URBANopt::Scenario::BaselineMapper
+74,Multifamily crawlspace - vented attic - conditioned Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
+75,Multifamily crawlspace - vented attic - conditioned Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
 76,Multifamily crawlspace - vented flat roof Residential - electric resistance and no cooling,URBANopt::Scenario::BaselineMapper
 77,Multifamily crawlspace - unvented flat roof Residential - electric resistance and central air conditioner,URBANopt::Scenario::BaselineMapper
 78,Multifamily basement - unconditioned flat roof Residential - electric resistance and room air conditioner,URBANopt::Scenario::BaselineMapper
-79,Multifamily basement - conditioned flat roof Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
-80,Multifamily ambient flat roof Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
+79,Multifamily crawlspace - vented flat roof Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
+80,Multifamily crawlspace - vented flat roof Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
 81,Multifamily crawlspace - vented attic - vented Residential - furnace and central air conditioner,URBANopt::Scenario::BaselineMapper
 82,Multifamily crawlspace - unvented attic - vented Residential - furnace and room air conditioner,URBANopt::Scenario::BaselineMapper
 83,Multifamily basement - unconditioned attic - vented Residential - furnace and evaporative cooler,URBANopt::Scenario::BaselineMapper
-84,Multifamily basement - conditioned attic - vented Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
-85,Multifamily ambient attic - vented Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
+84,Multifamily crawlspace - vented attic - vented Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
+85,Multifamily crawlspace - vented attic - vented Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
 86,Multifamily crawlspace - vented attic - unvented Residential - boiler and room air conditioner,URBANopt::Scenario::BaselineMapper
 87,Multifamily crawlspace - unvented attic - unvented Residential - boiler and evaporative cooler,URBANopt::Scenario::BaselineMapper
 88,Multifamily basement - unconditioned attic - unvented Residential - air-to-air heat pump,URBANopt::Scenario::BaselineMapper
-89,Multifamily basement - conditioned attic - unvented Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
-90,Multifamily ambient attic - unvented Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
+89,Multifamily crawlspace - vented attic - unvented Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
+90,Multifamily crawlspace - vented attic - unvented Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
 91,Multifamily crawlspace - vented attic - conditioned Residential - electric resistance and no cooling,URBANopt::Scenario::BaselineMapper
 92,Multifamily crawlspace - unvented attic - conditioned Residential - electric resistance and central air conditioner,URBANopt::Scenario::BaselineMapper
-93,Multifamily basement - unconditioned attic - conditioned Residential - electric resistance and room air conditioner,URBANopt::Scenario::BaselineMapper
-94,Multifamily basement - conditioned attic - conditioned Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
-95,Multifamily ambient attic - conditioned Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
+93,Multifamily basement - unconditioned flat roof Residential - electric resistance and room air conditioner,URBANopt::Scenario::BaselineMapper
+94,Multifamily crawlspace - vented attic - conditioned Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
+95,Multifamily crawlspace - vented attic - conditioned Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
 96,Multifamily crawlspace - vented flat roof Residential - furnace and central air conditioner,URBANopt::Scenario::BaselineMapper
 97,Multifamily crawlspace - unvented flat roof Residential - furnace and room air conditioner,URBANopt::Scenario::BaselineMapper
 98,Multifamily basement - unconditioned flat roof Residential - furnace and evaporative cooler,URBANopt::Scenario::BaselineMapper
-99,Multifamily basement - conditioned flat roof Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
-100,Multifamily ambient flat roof Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
+99,Multifamily crawlspace - vented flat roof Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
+100,Multifamily crawlspace - vented flat roof Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
 101,Multifamily crawlspace - vented attic - vented Residential - boiler and room air conditioner,URBANopt::Scenario::BaselineMapper
 102,Multifamily crawlspace - unvented attic - vented Residential - boiler and evaporative cooler,URBANopt::Scenario::BaselineMapper
 103,Multifamily basement - unconditioned attic - vented Residential - air-to-air heat pump,URBANopt::Scenario::BaselineMapper
-104,Multifamily basement - conditioned attic - vented Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
-105,Multifamily ambient attic - vented Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
+104,Multifamily crawlspace - vented attic - vented Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
+105,Multifamily crawlspace - vented attic - vented Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
 106,Multifamily crawlspace - vented attic - unvented Residential - electric resistance and no cooling,URBANopt::Scenario::BaselineMapper
 107,Multifamily crawlspace - unvented attic - unvented Residential - electric resistance and central air conditioner,URBANopt::Scenario::BaselineMapper
 108,Multifamily basement - unconditioned attic - unvented Residential - electric resistance and room air conditioner,URBANopt::Scenario::BaselineMapper
-109,Multifamily basement - conditioned attic - unvented Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
-110,Multifamily ambient attic - unvented Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
+109,Multifamily crawlspace - vented attic - unvented Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
+110,Multifamily crawlspace - vented attic - unvented Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
 111,Multifamily crawlspace - vented attic - conditioned Residential - furnace and central air conditioner,URBANopt::Scenario::BaselineMapper
 112,Multifamily crawlspace - unvented attic - conditioned Residential - furnace and room air conditioner,URBANopt::Scenario::BaselineMapper
-113,Multifamily basement - unconditioned attic - conditioned Residential - furnace and evaporative cooler,URBANopt::Scenario::BaselineMapper
-114,Multifamily basement - conditioned attic - conditioned Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
-115,Multifamily ambient attic - conditioned Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
+113,Multifamily basement - unconditioned flat roof Residential - furnace and evaporative cooler,URBANopt::Scenario::BaselineMapper
+114,Multifamily crawlspace - vented attic - conditioned Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
+115,Multifamily crawlspace - vented attic - conditioned Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
 116,Multifamily crawlspace - vented flat roof Residential - boiler and room air conditioner,URBANopt::Scenario::BaselineMapper
 117,Multifamily crawlspace - unvented flat roof Residential - boiler and evaporative cooler,URBANopt::Scenario::BaselineMapper
 118,Multifamily basement - unconditioned flat roof Residential - air-to-air heat pump,URBANopt::Scenario::BaselineMapper
-119,Multifamily basement - conditioned flat roof Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
-120,Multifamily ambient flat roof Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
+119,Multifamily crawlspace - vented flat roof Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
+120,Multifamily crawlspace - vented flat roof Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
 121,Multifamily crawlspace - vented attic - vented Residential - electric resistance and no cooling,URBANopt::Scenario::BaselineMapper
 122,Multifamily crawlspace - unvented attic - vented Residential - electric resistance and central air conditioner,URBANopt::Scenario::BaselineMapper
 123,Multifamily basement - unconditioned attic - vented Residential - electric resistance and room air conditioner,URBANopt::Scenario::BaselineMapper
-124,Multifamily basement - conditioned attic - vented Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
-125,Multifamily ambient attic - vented Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
+124,Multifamily crawlspace - vented attic - vented Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
+125,Multifamily crawlspace - vented attic - vented Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
 126,Multifamily crawlspace - vented attic - unvented Residential - furnace and central air conditioner,URBANopt::Scenario::BaselineMapper
 127,Multifamily crawlspace - unvented attic - unvented Residential - furnace and room air conditioner,URBANopt::Scenario::BaselineMapper
 128,Multifamily basement - unconditioned attic - unvented Residential - furnace and evaporative cooler,URBANopt::Scenario::BaselineMapper
-129,Multifamily basement - conditioned attic - unvented Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
-130,Multifamily ambient attic - unvented Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
+129,Multifamily crawlspace - vented attic - unvented Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
+130,Multifamily crawlspace - vented attic - unvented Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
 131,Multifamily crawlspace - vented attic - conditioned Residential - boiler and room air conditioner,URBANopt::Scenario::BaselineMapper
 132,Multifamily crawlspace - unvented attic - conditioned Residential - boiler and evaporative cooler,URBANopt::Scenario::BaselineMapper
-133,Multifamily basement - unconditioned attic - conditioned Residential - air-to-air heat pump,URBANopt::Scenario::BaselineMapper
-134,Multifamily basement - conditioned attic - conditioned Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
-135,Multifamily ambient attic - conditioned Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
+133,Multifamily basement - unconditioned flat roof Residential - air-to-air heat pump,URBANopt::Scenario::BaselineMapper
+134,Multifamily crawlspace - vented attic - conditioned Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
+135,Multifamily crawlspace - vented attic - conditioned Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
 136,Single-Family Attached crawlspace - vented attic - vented Residential - electric resistance and no cooling,URBANopt::Scenario::BaselineMapper
 137,Single-Family Attached crawlspace - unvented attic - vented Residential - electric resistance and central air conditioner,URBANopt::Scenario::BaselineMapper
 138,Single-Family Attached basement - unconditioned attic - vented Residential - electric resistance and room air conditioner,URBANopt::Scenario::BaselineMapper
-139,Single-Family Attached basement - conditioned attic - vented Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
-140,Single-Family Attached ambient attic - vented Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
+139,Single-Family Attached crawlspace - vented attic - vented Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
+140,Single-Family Attached crawlspace - vented attic - vented Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
 141,Single-Family Attached crawlspace - vented attic - unvented Residential - furnace and central air conditioner,URBANopt::Scenario::BaselineMapper
 142,Single-Family Attached crawlspace - unvented attic - unvented Residential - furnace and room air conditioner,URBANopt::Scenario::BaselineMapper
 143,Single-Family Attached basement - unconditioned attic - unvented Residential - furnace and evaporative cooler,URBANopt::Scenario::BaselineMapper
-144,Single-Family Attached basement - conditioned attic - unvented Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
-145,Single-Family Attached ambient attic - unvented Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
+144,Single-Family Attached crawlspace - vented attic - unvented Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
+145,Single-Family Attached crawlspace - vented attic - unvented Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
 146,Single-Family Attached crawlspace - vented attic - conditioned Residential - boiler and room air conditioner,URBANopt::Scenario::BaselineMapper
 147,Single-Family Attached crawlspace - unvented attic - conditioned Residential - boiler and evaporative cooler,URBANopt::Scenario::BaselineMapper
-148,Single-Family Attached basement - unconditioned attic - conditioned Residential - air-to-air heat pump,URBANopt::Scenario::BaselineMapper
-149,Single-Family Attached basement - conditioned attic - conditioned Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
-150,Single-Family Attached ambient attic - conditioned Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
+148,Single-Family Attached basement - unconditioned flat roof Residential - air-to-air heat pump,URBANopt::Scenario::BaselineMapper
+149,Single-Family Attached crawlspace - vented attic - conditioned Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
+150,Single-Family Attached crawlspace - vented attic - conditioned Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
 151,Single-Family Detached crawlspace - vented attic - vented Residential - electric resistance and no cooling,URBANopt::Scenario::BaselineMapper
 152,Single-Family Detached crawlspace - unvented attic - vented Residential - electric resistance and central air conditioner,URBANopt::Scenario::BaselineMapper
 153,Single-Family Detached basement - unconditioned attic - vented Residential - electric resistance and room air conditioner,URBANopt::Scenario::BaselineMapper
-154,Single-Family Detached basement - conditioned attic - vented Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
-155,Single-Family Detached ambient attic - vented Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
+154,Single-Family Detached crawlspace - vented attic - vented Residential - electric resistance and evaporative cooler,URBANopt::Scenario::BaselineMapper
+155,Single-Family Detached crawlspace - vented attic - vented Residential - furnace and no cooling,URBANopt::Scenario::BaselineMapper
 156,Single-Family Detached crawlspace - vented attic - unvented Residential - furnace and central air conditioner,URBANopt::Scenario::BaselineMapper
 157,Single-Family Detached crawlspace - unvented attic - unvented Residential - furnace and room air conditioner,URBANopt::Scenario::BaselineMapper
 158,Single-Family Detached basement - unconditioned attic - unvented Residential - furnace and evaporative cooler,URBANopt::Scenario::BaselineMapper
-159,Single-Family Detached basement - conditioned attic - unvented Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
-160,Single-Family Detached ambient attic - unvented Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
+159,Single-Family Detached crawlspace - vented attic - unvented Residential - boiler and no cooling,URBANopt::Scenario::BaselineMapper
+160,Single-Family Detached crawlspace - vented attic - unvented Residential - boiler and central air conditioner,URBANopt::Scenario::BaselineMapper
 161,Single-Family Detached crawlspace - vented attic - conditioned Residential - boiler and room air conditioner,URBANopt::Scenario::BaselineMapper
 162,Single-Family Detached crawlspace - unvented attic - conditioned Residential - boiler and evaporative cooler,URBANopt::Scenario::BaselineMapper
-163,Single-Family Detached basement - unconditioned attic - conditioned Residential - air-to-air heat pump,URBANopt::Scenario::BaselineMapper
-164,Single-Family Detached basement - conditioned attic - conditioned Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
-165,Single-Family Detached ambient attic - conditioned Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
+163,Single-Family Detached basement - unconditioned flat roof Residential - air-to-air heat pump,URBANopt::Scenario::BaselineMapper
+164,Single-Family Detached crawlspace - vented attic - conditioned Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
+165,Single-Family Detached crawlspace - vented attic - conditioned Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
