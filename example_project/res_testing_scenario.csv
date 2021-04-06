@@ -162,5 +162,5 @@
 161,Single-Family Detached crawlspace - vented attic - conditioned Residential - boiler and room air conditioner,URBANopt::Scenario::BaselineMapper
 162,Single-Family Detached crawlspace - unvented attic - conditioned Residential - boiler and evaporative cooler,URBANopt::Scenario::BaselineMapper
 163,Single-Family Detached basement - unconditioned flat roof Residential - air-to-air heat pump,URBANopt::Scenario::BaselineMapper
-164,Single-Family Detached crawlspace - vented attic - conditioned Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
-165,Single-Family Detached crawlspace - vented attic - conditioned Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
+164,Single-Family Detached basement - conditioned attic - conditioned Residential - mini-split heat pump,URBANopt::Scenario::BaselineMapper
+165,Single-Family Detached ambient attic - conditioned Residential - ground-to-air heat pump,URBANopt::Scenario::BaselineMapper
