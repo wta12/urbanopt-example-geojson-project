@@ -585,8 +585,23 @@ task :post_process_all => [:post_process_baseline, :post_process_high_efficiency
   # post_process all the scenarios
 end
 
+desc 'Visualize all scenarios'
+task :visualize_all do
+  # visualize all features within each scenario, then visualize across all scenarios
+  Rake::Task['visualize_features'].invoke("baseline_scenario.csv")
+  Rake::Task["visualize_features"].reenable
+  Rake::Task["visualize_features"].invoke("high_efficiency_scenario.csv")
+  Rake::Task["visualize_features"].reenable
+  Rake::Task["visualize_features"].invoke("thermal_storage_scenario.csv")
+  Rake::Task["visualize_features"].reenable
+  Rake::Task["visualize_features"].invoke("reopt_scenario.csv")
+  Rake::Task["visualize_features"].reenable
+  Rake::Task["visualize_features"].invoke("mixed_scenario.csv")
+  Rake::Task["visualize_scenarios"].invoke()
+end
+
 desc 'Run and post process all scenarios'
-task :update_all => [:run_all, :post_process_all] do
+task :update_all => [:run_all, :post_process_all, :visualize_all] do
   # run and post_process all the scenarios
 end
 
