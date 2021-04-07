@@ -29,3 +29,11 @@ out.txt
 
 # running config
 runner.conf
+
+# data file
+data_point_reports.zip
+data_point.zip
+*.sql
+
+
+
