@@ -1,0 +1,310 @@
+Shadowing Combinations
+..Solar Distribution=FullExterior
+..In the following, only the first 10 reference surfaces will be shown.
+..But all surfaces are used in the calculations.
+==================================
+Surface=NEIGHBOR AZIMUTH 270 DISTANCE 10.0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-NEIGHBOR AZIMUTH 270 DISTANCE 10.0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=8
+..Surface=Mir-NEIGHBOR AZIMUTH 90 DISTANCE 10.0
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=SURFACE_10
+..Surface=SURFACE SURFACE_2_-_WINDOW_1_LEFT
+..Surface=SURFACE_2
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=NEIGHBOR AZIMUTH 90 DISTANCE 10.0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-NEIGHBOR AZIMUTH 90 DISTANCE 10.0 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=8
+..Surface=Mir-NEIGHBOR AZIMUTH 270 DISTANCE 10.0
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=SURFACE_11
+..Surface=SURFACE SURFACE_4_-_WINDOW_1_RIGHT
+..Surface=SURFACE_4
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=Mir-NEIGHBOR AZIMUTH 270 DISTANCE 10.0
+..Surface=Mir-NEIGHBOR AZIMUTH 90 DISTANCE 10.0
+..Surface=SURFACE_10
+..Surface=SURFACE_2
+..Surface=SURFACE_3
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=Mir-NEIGHBOR AZIMUTH 270 DISTANCE 10.0
+..Surface=Mir-NEIGHBOR AZIMUTH 90 DISTANCE 10.0
+..Surface=SURFACE_10
+..Surface=SURFACE_2
+..Surface=SURFACE_3
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_3_-_WINDOW_1_BACK - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=Mir-NEIGHBOR AZIMUTH 270 DISTANCE 10.0
+..Surface=Mir-NEIGHBOR AZIMUTH 90 DISTANCE 10.0
+..Surface=SURFACE_11
+..Surface=SURFACE_3
+..Surface=SURFACE_4
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=Mir-NEIGHBOR AZIMUTH 270 DISTANCE 10.0
+..Surface=Mir-NEIGHBOR AZIMUTH 90 DISTANCE 10.0
+..Surface=SURFACE_11
+..Surface=SURFACE_3
+..Surface=SURFACE_4
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-NEIGHBOR AZIMUTH 270 DISTANCE 10.0
+..Surface=Mir-NEIGHBOR AZIMUTH 90 DISTANCE 10.0
+..Surface=SURFACE_11
+..Surface=SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=SURFACE_4
+..Surface=SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-NEIGHBOR AZIMUTH 270 DISTANCE 10.0
+..Surface=Mir-NEIGHBOR AZIMUTH 90 DISTANCE 10.0
+..Surface=SURFACE_11
+..Surface=SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=SURFACE_4
+..Surface=SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=4
+..Surface=Mir-NEIGHBOR AZIMUTH 270 DISTANCE 10.0
+..Surface=Mir-NEIGHBOR AZIMUTH 90 DISTANCE 10.0
+..Surface=SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=4
+..Surface=Mir-NEIGHBOR AZIMUTH 270 DISTANCE 10.0
+..Surface=Mir-NEIGHBOR AZIMUTH 90 DISTANCE 10.0
+..Surface=SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_10 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=Mir-NEIGHBOR AZIMUTH 270 DISTANCE 10.0
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_11 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=3
+..Surface=Mir-NEIGHBOR AZIMUTH 90 DISTANCE 10.0
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_6 REVERSED is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_8 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_9 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_14 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_15 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_16 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_17 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_7 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_18 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_13 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_12 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_1 REVERSED is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE SURFACE_2_-_WINDOW_1_LEFT is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=Mir-NEIGHBOR AZIMUTH 270 DISTANCE 10.0
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SURFACE_2_-_WINDOW_1_LEFT
+==================================
+Surface=SURFACE_2_-_WINDOW_1_LEFT is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE SURFACE_3_-_WINDOW_1_BACK is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SURFACE_3_-_WINDOW_1_BACK
+==================================
+Surface=SURFACE_3_-_WINDOW_1_BACK is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE SURFACE_4_-_WINDOW_1_RIGHT is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=3
+..Surface=Mir-NEIGHBOR AZIMUTH 90 DISTANCE 10.0
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SURFACE_4_-_WINDOW_1_RIGHT
+==================================
+Surface=SURFACE_4_-_WINDOW_1_RIGHT is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE SURFACE_5_-_DOOR_FRONT is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=Mir-SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SURFACE_5_-_DOOR_FRONT
+==================================
+Surface=SURFACE_5_-_DOOR_FRONT is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE SURFACE_5_-_WINDOW_1_FRONT is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=Mir-SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SURFACE_5_-_WINDOW_1_FRONT
+==================================
+Surface=SURFACE_5_-_WINDOW_1_FRONT is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=Mir-NEIGHBOR AZIMUTH 270 DISTANCE 10.0
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=3
+..Surface=Mir-NEIGHBOR AZIMUTH 90 DISTANCE 10.0
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_5 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=Mir-SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_6 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FURNITURE MASS LIVING SPACE LIVING is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=LIVING SPACE LIVING PARTITION is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0

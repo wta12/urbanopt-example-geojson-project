@@ -1,0 +1,178 @@
+Program Version,EnergyPlus, Version 9.4.0-998c4b761e, YMD=2021.04.05 22:24,
+   ** Warning ** Timestep: Requested number (1) is less than the suggested minimum of 4.
+   **   ~~~   ** Please see entry for Timestep in Input/Output Reference for discussion of considerations.
+   ************* Note that the following warning(s) may/will occur if you have not enclosed your zone completely.
+   ** Warning ** Entered Zone Volumes differ from calculated zone volume(s).
+   **   ~~~   ** ...use Output:Diagnostics,DisplayExtraWarnings; to show more details on individual zones.
+   ** Warning ** CalculateZoneVolume: 3 zones are not fully enclosed. For more details use:  Output:Diagnostics,DisplayExtrawarnings; 
+   ** Warning ** Surfaces in Zone/Enclosure="CRAWLSPACE - UNVENTED" do not define an enclosure.
+   **   ~~~   ** Number of surfaces <= 3, view factors are set to force reciprocity but may not fulfill completeness.
+   **   ~~~   ** Reciprocity means that radiant exchange between two surfaces will match and not lead to an energy loss.
+   **   ~~~   ** Completeness means that all of the view factors between a surface and the other surfaces in a zone add up to unity.
+   **   ~~~   ** So, when there are three or less surfaces in a zone, EnergyPlus will make sure there are no losses of energy but
+   **   ~~~   ** it will not exchange the full amount of radiation with the rest of the zone as it would if there was a completed enclosure.
+   ** Warning ** Surfaces in Zone/Enclosure="CRAWLSPACE - UNVENTED" do not define an enclosure.
+   **   ~~~   ** Number of surfaces <= 3, view factors are set to force reciprocity but may not fulfill completeness.
+   **   ~~~   ** Reciprocity means that radiant exchange between two surfaces will match and not lead to an energy loss.
+   **   ~~~   ** Completeness means that all of the view factors between a surface and the other surfaces in a zone add up to unity.
+   **   ~~~   ** So, when there are three or less surfaces in a zone, EnergyPlus will make sure there are no losses of energy but
+   **   ~~~   ** it will not exchange the full amount of radiation with the rest of the zone as it would if there was a completed enclosure.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = CENTRAL AC AND FURNACE CLG COIL but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** Check input. Pump nominal power or motor efficiency is set to 0, for pump=PUMP VARIABLE SPEED 1
+   ** Warning ** Meter:Custom="HEATREJECTION:OTHERFUELS", invalid Output Variable or Meter Name="HEATREJECTION:FUELOIL#1".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="HEATREJECTION:OTHERFUELS", invalid Output Variable or Meter Name="HEATREJECTION:DIESEL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="HEATREJECTION:OTHERFUELS", invalid Output Variable or Meter Name="HEATREJECTION:GASOLINE".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="HEATREJECTION:OTHERFUELS", invalid Output Variable or Meter Name="HEATREJECTION:COAL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="HEATREJECTION:OTHERFUELS", invalid Output Variable or Meter Name="HEATREJECTION:STEAM".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="HEATREJECTION:OTHERFUELS", no items assigned 
+   **   ~~~   ** ...will not be shown with the Meter results. This may be caused by a Meter:Custom be assigned to another Meter:Custom.
+   ** Warning ** Meter:Custom="HEATING:OTHERFUELS", invalid Output Variable or Meter Name="HEATING:FUELOIL#1".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="HEATING:OTHERFUELS", invalid Output Variable or Meter Name="HEATING:DIESEL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="HEATING:OTHERFUELS", invalid Output Variable or Meter Name="HEATING:GASOLINE".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="HEATING:OTHERFUELS", invalid Output Variable or Meter Name="HEATING:COAL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="HEATING:OTHERFUELS", invalid Output Variable or Meter Name="HEATING:STEAM".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="HEATING:OTHERFUELS", no items assigned 
+   **   ~~~   ** ...will not be shown with the Meter results. This may be caused by a Meter:Custom be assigned to another Meter:Custom.
+   ** Warning ** Meter:Custom="WATERSYSTEMS:OTHERFUELS", invalid Output Variable or Meter Name="WATERSYSTEMS:FUELOIL#1".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="WATERSYSTEMS:OTHERFUELS", invalid Output Variable or Meter Name="WATERSYSTEMS:DIESEL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="WATERSYSTEMS:OTHERFUELS", invalid Output Variable or Meter Name="WATERSYSTEMS:GASOLINE".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="WATERSYSTEMS:OTHERFUELS", invalid Output Variable or Meter Name="WATERSYSTEMS:COAL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="WATERSYSTEMS:OTHERFUELS", invalid Output Variable or Meter Name="WATERSYSTEMS:STEAM".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="WATERSYSTEMS:OTHERFUELS", no items assigned 
+   **   ~~~   ** ...will not be shown with the Meter results. This may be caused by a Meter:Custom be assigned to another Meter:Custom.
+   ** Warning ** Meter:Custom="INTERIOREQUIPMENT:OTHERFUELS", invalid Output Variable or Meter Name="INTERIOREQUIPMENT:FUELOIL#1".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="INTERIOREQUIPMENT:OTHERFUELS", invalid Output Variable or Meter Name="INTERIOREQUIPMENT:DIESEL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="INTERIOREQUIPMENT:OTHERFUELS", invalid Output Variable or Meter Name="INTERIOREQUIPMENT:GASOLINE".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="INTERIOREQUIPMENT:OTHERFUELS", invalid Output Variable or Meter Name="INTERIOREQUIPMENT:COAL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="INTERIOREQUIPMENT:OTHERFUELS", invalid Output Variable or Meter Name="INTERIOREQUIPMENT:STEAM".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="INTERIOREQUIPMENT:OTHERFUELS", no items assigned 
+   **   ~~~   ** ...will not be shown with the Meter results. This may be caused by a Meter:Custom be assigned to another Meter:Custom.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="HEATREJECTION:FUELOIL#1".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="HEATREJECTION:DIESEL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="HEATREJECTION:GASOLINE".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="HEATREJECTION:COAL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="HEATREJECTION:STEAM".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="HEATING:FUELOIL#1".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="HEATING:DIESEL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="HEATING:GASOLINE".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="HEATING:COAL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="HEATING:STEAM".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="WATERSYSTEMS:FUELOIL#1".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="WATERSYSTEMS:DIESEL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="WATERSYSTEMS:GASOLINE".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="WATERSYSTEMS:COAL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="WATERSYSTEMS:STEAM".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="INTERIOREQUIPMENT:FUELOIL#1".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="INTERIOREQUIPMENT:DIESEL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="INTERIOREQUIPMENT:GASOLINE".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="INTERIOREQUIPMENT:COAL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="INTERIOREQUIPMENT:STEAM".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", no items assigned 
+   **   ~~~   ** ...will not be shown with the Meter results. This may be caused by a Meter:Custom be assigned to another Meter:Custom.
+   ** Warning ** Output:Meter: invalid Key Name="HEATING:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATING:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATING:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATING:WATER" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="COOLING:NATURALGAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="COOLING:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="COOLING:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="COOLING:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="COOLING:WATER" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIORLIGHTS:NATURALGAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIORLIGHTS:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIORLIGHTS:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIORLIGHTS:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIORLIGHTS:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIORLIGHTS:WATER" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIORLIGHTS:NATURALGAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIORLIGHTS:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIORLIGHTS:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIORLIGHTS:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIORLIGHTS:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIORLIGHTS:WATER" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIOREQUIPMENT:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIOREQUIPMENT:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIOREQUIPMENT:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIOREQUIPMENT:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIOREQUIPMENT:WATER" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIOREQUIPMENT:ELECTRICITY" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIOREQUIPMENT:NATURALGAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIOREQUIPMENT:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIOREQUIPMENT:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIOREQUIPMENT:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIOREQUIPMENT:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIOREQUIPMENT:WATER" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="FANS:NATURALGAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="FANS:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="FANS:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="FANS:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="FANS:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="FANS:WATER" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="PUMPS:NATURALGAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="PUMPS:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="PUMPS:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="PUMPS:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="PUMPS:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="PUMPS:WATER" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATREJECTION:ELECTRICITY" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATREJECTION:NATURALGAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATREJECTION:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATREJECTION:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATREJECTION:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATREJECTION:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATREJECTION:WATER" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HUMIDIFIER:ELECTRICITY" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HUMIDIFIER:NATURALGAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HUMIDIFIER:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HUMIDIFIER:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HUMIDIFIER:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HUMIDIFIER:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HUMIDIFIER:WATER" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATRECOVERY:ELECTRICITY" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATRECOVERY:NATURALGAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATRECOVERY:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATRECOVERY:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATRECOVERY:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATRECOVERY:DISTRICTHEATING" - not found.
+  

@@ -1,0 +1,334 @@
+Program Version,EnergyPlus, Version 9.4.0-998c4b761e, YMD=2021.04.05 22:23,
+   ** Warning ** Timestep: Requested number (1) is less than the suggested minimum of 4.
+   **   ~~~   ** Please see entry for Timestep in Input/Output Reference for discussion of considerations.
+   ************* Beginning Zone Sizing Calculations
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="54 SPACE(S) OCC SCH DEFAULT", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="54 SPACE(S) OCC SCH SATURDAY", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="54 SPACE(S) OCC SCH SUMMER DESIGN DAY", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="54 SPACE(S) OCC SCH SUNDAY", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="54 SPACE(S) OCC SCH WINTER DESIGN DAY", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="ECONOMIZER MAX OA FRACTION 70 PCT DEFAULT", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 1", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 10", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 11", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 12", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 13", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 14", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 2", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 3", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 4", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 6", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 7", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 9", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="ECONOMIZER MAX OA FRACTION 70 PCT", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="ELEVATOR SCHEDULE", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Constant="ALWAYS OFF DISCRETE", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Constant="ALWAYS ON CONTINUOUS", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** CheckUsedConstructions: There are 9 nominally unused constructions in input.
+   **   ~~~   ** For explicit details on each unused construction, use Output:Diagnostics,DisplayExtraWarnings;
+   ** Warning ** GetInternalHeatGains: People="OFFICE WHOLEBUILDING - MD OFFICE PEOPLE 1" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="OFFICE WHOLEBUILDING - MD OFFICE PEOPLE 2" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="OFFICE WHOLEBUILDING - MD OFFICE PEOPLE 3" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="OFFICE WHOLEBUILDING - MD OFFICE PEOPLE 4" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="OFFICE WHOLEBUILDING - MD OFFICE PEOPLE 5" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="OFFICE WHOLEBUILDING - MD OFFICE PEOPLE 6" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** Seems like you already tried to get a Handle on this Actuator 1times.
+   **   ~~~   ** Occurred for componentType='SCHEDULE:YEAR', controlType='SCHEDULE VALUE', uniqueKey='OFFICEMEDIUM CLGSETP_SCH_NO_SETBACK'.
+   **   ~~~   ** You should take note that there is a risk of overwritting.
+   ** Warning ** Seems like you already tried to get a Handle on this Actuator 1times.
+   **   ~~~   ** Occurred for componentType='SCHEDULE:YEAR', controlType='SCHEDULE VALUE', uniqueKey='OFFICEMEDIUM HTGSETP_SCH_PACU_VAV_BOT'.
+   **   ~~~   ** You should take note that there is a risk of overwritting.
+   ** Warning ** Seems like you already tried to get a Handle on this Actuator 2times.
+   **   ~~~   ** Occurred for componentType='SCHEDULE:YEAR', controlType='SCHEDULE VALUE', uniqueKey='OFFICEMEDIUM CLGSETP_SCH_NO_SETBACK'.
+   **   ~~~   ** You should take note that there is a risk of overwritting.
+   ** Warning ** Seems like you already tried to get a Handle on this Actuator 2times.
+   **   ~~~   ** Occurred for componentType='SCHEDULE:YEAR', controlType='SCHEDULE VALUE', uniqueKey='OFFICEMEDIUM HTGSETP_SCH_PACU_VAV_BOT'.
+   **   ~~~   ** You should take note that there is a risk of overwritting.
+   ** Warning ** Seems like you already tried to get a Handle on this Actuator 3times.
+   **   ~~~   ** Occurred for componentType='SCHEDULE:YEAR', controlType='SCHEDULE VALUE', uniqueKey='OFFICEMEDIUM CLGSETP_SCH_NO_SETBACK'.
+   **   ~~~   ** You should take note that there is a risk of overwritting.
+   ** Warning ** Seems like you already tried to get a Handle on this Actuator 3times.
+   **   ~~~   ** Occurred for componentType='SCHEDULE:YEAR', controlType='SCHEDULE VALUE', uniqueKey='OFFICEMEDIUM HTGSETP_SCH_PACU_VAV_BOT'.
+   **   ~~~   ** You should take note that there is a risk of overwritting.
+   ** Warning ** Seems like you already tried to get a Handle on this Actuator 4times.
+   **   ~~~   ** Occurred for componentType='SCHEDULE:YEAR', controlType='SCHEDULE VALUE', uniqueKey='OFFICEMEDIUM CLGSETP_SCH_NO_SETBACK'.
+   **   ~~~   ** You should take note that there is a risk of overwritting.
+   ** Warning ** Seems like you already tried to get a Handle on this Actuator 4times.
+   **   ~~~   ** Occurred for componentType='SCHEDULE:YEAR', controlType='SCHEDULE VALUE', uniqueKey='OFFICEMEDIUM HTGSETP_SCH_PACU_VAV_BOT'.
+   **   ~~~   ** You should take note that there is a risk of overwritting.
+   ** Warning ** Seems like you already tried to get a Handle on this Actuator 5times.
+   **   ~~~   ** Occurred for componentType='SCHEDULE:YEAR', controlType='SCHEDULE VALUE', uniqueKey='OFFICEMEDIUM CLGSETP_SCH_NO_SETBACK'.
+   **   ~~~   ** You should take note that there is a risk of overwritting.
+   ** Warning ** Seems like you already tried to get a Handle on this Actuator 5times.
+   **   ~~~   ** Occurred for componentType='SCHEDULE:YEAR', controlType='SCHEDULE VALUE', uniqueKey='OFFICEMEDIUM HTGSETP_SCH_PACU_VAV_BOT'.
+   **   ~~~   ** You should take note that there is a risk of overwritting.
+   ** Warning ** GetElectricEIRChillerInput: Chiller:Electric:EIR="90.1-2004 WATERCOOLED  ROTARY SCREW CHILLER 0 492TONS 0.6KW/TON"
+   **   ~~~   ** Energy input ratio as a function of temperature curve output is not equal to 1.0 (+ or - 10%) at reference conditions.
+   **   ~~~   ** Curve output at reference conditions = 1.205
+   ************* Beginning System Sizing Calculations
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 1 THERMALZONE VAV TERMINAL
+   ** Warning ** Since Damper Heating Action = NORMAL, input for Maximum Flow Fraction During Reheat will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 1 THERMALZONE VAV TERMINAL
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 2 THERMALZONE VAV TERMINAL
+   ** Warning ** Since Damper Heating Action = NORMAL, input for Maximum Flow Fraction During Reheat will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 2 THERMALZONE VAV TERMINAL
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 3 THERMALZONE VAV TERMINAL
+   ** Warning ** Since Damper Heating Action = NORMAL, input for Maximum Flow Fraction During Reheat will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 3 THERMALZONE VAV TERMINAL
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 4 THERMALZONE VAV TERMINAL
+   ** Warning ** Since Damper Heating Action = NORMAL, input for Maximum Flow Fraction During Reheat will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 4 THERMALZONE VAV TERMINAL
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 5 THERMALZONE VAV TERMINAL
+   ** Warning ** Since Damper Heating Action = NORMAL, input for Maximum Flow Fraction During Reheat will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 5 THERMALZONE VAV TERMINAL
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 6 THERMALZONE VAV TERMINAL
+   ** Warning ** Since Damper Heating Action = NORMAL, input for Maximum Flow Fraction During Reheat will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 6 THERMALZONE VAV TERMINAL
+   ************* Beginning Plant Sizing Calculations
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="1 ZONE VAV VENT CONTROLLER
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="BUILDING STORY 1 THERMALZONE".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="1 ZONE VAV 1 VENT CONTROLLER
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="BUILDING STORY 2 THERMALZONE".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="1 ZONE VAV 2 VENT CONTROLLER
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="BUILDING STORY 3 THERMALZONE".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="1 ZONE VAV 3 VENT CONTROLLER
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="BUILDING STORY 4 THERMALZONE".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="1 ZONE VAV 4 VENT CONTROLLER
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="BUILDING STORY 5 THERMALZONE".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="1 ZONE VAV 5 VENT CONTROLLER
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="BUILDING STORY 6 THERMALZONE".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** In calculating the design coil UA for Coil:Cooling:Water 1 ZONE VAV CLG COIL
+   **   ~~~   ** the coil bypass factor is unrealistically large;
+   **   ~~~   ** The initial design conditions are: Tair,in = 24.1994
+   **   ~~~   **                                    Wair,in = 1.071801E-002
+   **   ~~~   **                                    Twater,in = 6.6667
+   **   ~~~   **                                    Tair,out = 10.5990
+   **   ~~~   **                                    Wair,out = 8.500000E-003
+   ** Warning ** In calculating the design coil UA for Coil:Cooling:Water 1 ZONE VAV 1 CLG COIL
+   **   ~~~   ** the coil bypass factor is unrealistically large;
+   **   ~~~   ** The initial design conditions are: Tair,in = 24.4557
+   **   ~~~   **                                    Wair,in = 9.801867E-003
+   **   ~~~   **                                    Twater,in = 6.6667
+   **   ~~~   **                                    Tair,out = 10.8633
+   **   ~~~   **                                    Wair,out = 8.500000E-003
+   ** Warning ** In calculating the design coil UA for Coil:Cooling:Water 1 ZONE VAV 2 CLG COIL
+   **   ~~~   ** the coil bypass factor is unrealistically large;
+   **   ~~~   ** The initial design conditions are: Tair,in = 25.0590
+   **   ~~~   **                                    Wair,in = 1.032285E-002
+   **   ~~~   **                                    Twater,in = 6.6667
+   **   ~~~   **                                    Tair,out = 10.8651
+   **   ~~~   **                                    Wair,out = 8.500000E-003
+   ** Warning ** In calculating the design coil UA for Coil:Cooling:Water 1 ZONE VAV 3 CLG COIL
+   **   ~~~   ** the coil bypass factor is unrealistically large;
+   **   ~~~   ** The initial design conditions are: Tair,in = 25.0460
+   **   ~~~   **                                    Wair,in = 1.037255E-002
+   **   ~~~   **                                    Twater,in = 6.6667
+   **   ~~~   **                                    Tair,out = 10.8653
+   **   ~~~   **                                    Wair,out = 8.500000E-003
+   ** Warning ** In calculating the design coil UA for Coil:Cooling:Water 1 ZONE VAV 4 CLG COIL
+   **   ~~~   ** the coil bypass factor is unrealistically large;
+   **   ~~~   ** The initial design conditions are: Tair,in = 24.3622
+   **   ~~~   **                                    Wair,in = 9.940746E-003
+   **   ~~~   **                                    Twater,in = 6.6667
+   **   ~~~   **                                    Tair,out = 10.8638
+   **   ~~~   **                                    Wair,out = 8.500000E-003
+   ** Warning ** In calculating the design coil UA for Coil:Cooling:Water 1 ZONE VAV 5 CLG COIL
+   **   ~~~   ** the coil bypass factor is unrealistically large;
+   **   ~~~   ** The initial design conditions are: Tair,in = 24.3388
+   **   ~~~   **                                    Wair,in = 1.014013E-002
+   **   ~~~   **                                    Twater,in = 6.6667
+   **   ~~~   **                                    Tair,out = 10.8645
+   **   ~~~   **                                    Wair,out = 8.500000E-003
+   ** Warning ** Meter:Custom="HEATREJECTION:OTHERFUELS", invalid Output Variable or Meter Name="HEATREJECTION:FUELOIL#1".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="HEATREJECTION:OTHERFUELS", invalid Output Variable or Meter Name="HEATREJECTION:DIESEL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="HEATREJECTION:OTHERFUELS", invalid Output Variable or Meter Name="HEATREJECTION:GASOLINE".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="HEATREJECTION:OTHERFUELS", invalid Output Variable or Meter Name="HEATREJECTION:COAL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="HEATREJECTION:OTHERFUELS", invalid Output Variable or Meter Name="HEATREJECTION:STEAM".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="HEATREJECTION:OTHERFUELS", no items assigned 
+   **   ~~~   ** ...will not be shown with the Meter results. This may be caused by a Meter:Custom be assigned to another Meter:Custom.
+   ** Warning ** Meter:Custom="HEATING:OTHERFUELS", invalid Output Variable or Meter Name="HEATING:FUELOIL#1".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="HEATING:OTHERFUELS", invalid Output Variable or Meter Name="HEATING:DIESEL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="HEATING:OTHERFUELS", invalid Output Variable or Meter Name="HEATING:GASOLINE".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="HEATING:OTHERFUELS", invalid Output Variable or Meter Name="HEATING:COAL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="HEATING:OTHERFUELS", invalid Output Variable or Meter Name="HEATING:STEAM".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="HEATING:OTHERFUELS", no items assigned 
+   **   ~~~   ** ...will not be shown with the Meter results. This may be caused by a Meter:Custom be assigned to another Meter:Custom.
+   ** Warning ** Meter:Custom="WATERSYSTEMS:OTHERFUELS", invalid Output Variable or Meter Name="WATERSYSTEMS:FUELOIL#1".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="WATERSYSTEMS:OTHERFUELS", invalid Output Variable or Meter Name="WATERSYSTEMS:DIESEL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="WATERSYSTEMS:OTHERFUELS", invalid Output Variable or Meter Name="WATERSYSTEMS:GASOLINE".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="WATERSYSTEMS:OTHERFUELS", invalid Output Variable or Meter Name="WATERSYSTEMS:COAL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="WATERSYSTEMS:OTHERFUELS", invalid Output Variable or Meter Name="WATERSYSTEMS:STEAM".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="WATERSYSTEMS:OTHERFUELS", no items assigned 
+   **   ~~~   ** ...will not be shown with the Meter results. This may be caused by a Meter:Custom be assigned to another Meter:Custom.
+   ** Warning ** Meter:Custom="INTERIOREQUIPMENT:OTHERFUELS", invalid Output Variable or Meter Name="INTERIOREQUIPMENT:FUELOIL#1".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="INTERIOREQUIPMENT:OTHERFUELS", invalid Output Variable or Meter Name="INTERIOREQUIPMENT:DIESEL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="INTERIOREQUIPMENT:OTHERFUELS", invalid Output Variable or Meter Name="INTERIOREQUIPMENT:GASOLINE".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="INTERIOREQUIPMENT:OTHERFUELS", invalid Output Variable or Meter Name="INTERIOREQUIPMENT:COAL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="INTERIOREQUIPMENT:OTHERFUELS", invalid Output Variable or Meter Name="INTERIOREQUIPMENT:STEAM".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="INTERIOREQUIPMENT:OTHERFUELS", no items assigned 
+   **   ~~~   ** ...will not be shown with the Meter results. This may be caused by a Meter:Custom be assigned to another Meter:Custom.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="HEATREJECTION:FUELOIL#1".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="HEATREJECTION:DIESEL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="HEATREJECTION:GASOLINE".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="HEATREJECTION:COAL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="HEATREJECTION:STEAM".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="HEATING:FUELOIL#1".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="HEATING:DIESEL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="HEATING:GASOLINE".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="HEATING:COAL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="HEATING:STEAM".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="WATERSYSTEMS:FUELOIL#1".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="WATERSYSTEMS:DIESEL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="WATERSYSTEMS:GASOLINE".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="WATERSYSTEMS:COAL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="WATERSYSTEMS:STEAM".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="INTERIOREQUIPMENT:FUELOIL#1".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="INTERIOREQUIPMENT:DIESEL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="INTERIOREQUIPMENT:GASOLINE".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="INTERIOREQUIPMENT:COAL".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", invalid Output Variable or Meter Name="INTERIOREQUIPMENT:STEAM".
+   **   ~~~   ** ...will not be shown with the Meter results.
+   ** Warning ** Meter:Custom="OTHERFUELS:FACILITY", no items assigned 
+   **   ~~~   ** ...will not be shown with the Meter results. This may be caused by a Meter:Custom be assigned to another Meter:Custom.
+   ** Warning ** Output:Meter: invalid Key Name="HEATING:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATING:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATING:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATING:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATING:WATER" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="COOLING:NATURALGAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="COOLING:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="COOLING:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="COOLING:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="COOLING:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="COOLING:WATER" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIORLIGHTS:NATURALGAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIORLIGHTS:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIORLIGHTS:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIORLIGHTS:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIORLIGHTS:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIORLIGHTS:WATER" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIORLIGHTS:NATURALGAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIORLIGHTS:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIORLIGHTS:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIORLIGHTS:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIORLIGHTS:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIORLIGHTS:WATER" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIOREQUIPMENT:NATURALGAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIOREQUIPMENT:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIOREQUIPMENT:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIOREQUIPMENT:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIOREQUIPMENT:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIOREQUIPMENT:WATER" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIOREQUIPMENT:ELECTRICITY" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIOREQUIPMENT:NATURALGAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIOREQUIPMENT:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIOREQUIPMENT:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIOREQUIPMENT:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIOREQUIPMENT:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="EXTERIOREQUIPMENT:WATER" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="FANS:NATURALGAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="FANS:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="FANS:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="FANS:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="FANS:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="FANS:WATER" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="PUMPS:NATURALGAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="PUMPS:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="PUMPS:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="PUMPS:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="PUMPS:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="PUMPS:WATER" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATREJECTION:NATURALGAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATREJECTION:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATREJECTION:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATREJECTION:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATREJECTION:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HUMIDIFIER:ELECTRICITY" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HUMIDIFIER:NATURALGAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HUMIDIFIER:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HUMIDIFIER:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HUMIDIFIER:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HUMIDIFIER:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HUMIDIFIER:WATER" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATRECOVERY:ELECTRICITY" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATRECOVERY:NATURALGAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATRECOVERY:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATRECOVERY:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATRECOVERY:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATRECOVERY:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATRECOVERY:WATER" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="WATERSYSTEMS:ELECTRICITY" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="WATERSYSTEMS:FUELOILNO2" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="WATERSYSTEMS:PROPANE" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="WATERSYSTEMS:DISTRICTCOOLING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="WATERSYSTEMS:DISTRICTHEATING" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="REFRIGERATION:ELECTRICITY" - not found.

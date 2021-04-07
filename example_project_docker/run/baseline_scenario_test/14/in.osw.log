@@ -1,0 +1,1222 @@
+I, [2021-04-05T22:23:26.636397 #3289]  INFO -- : CLI Parsed Inputs: ["--verbose", "--bundle", "/home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/Gemfile", "--bundle_path", "/home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/.bundle/install/"] "run" ["-w", "/home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/run/baseline_scenario_test/14/in.osw"]
+D, [2021-04-05T22:23:26.636436 #3289] DEBUG -- : Main arguments are ["--verbose", "--bundle", "/home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/Gemfile", "--bundle_path", "/home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/.bundle/install/"]
+D, [2021-04-05T22:23:26.636444 #3289] DEBUG -- : Sub-command is run
+D, [2021-04-05T22:23:26.636451 #3289] DEBUG -- : Sub-arguments are ["-w", "/home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/run/baseline_scenario_test/14/in.osw"]
+D, [2021-04-05T22:23:26.636462 #3289] DEBUG -- : Parsing main_args ["--verbose", "--bundle", "/home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/Gemfile", "--bundle_path", "/home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/.bundle/install/"]
+I, [2021-04-05T22:23:26.636472 #3289]  INFO -- : Setting BUNDLE_GEMFILE to /home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/Gemfile
+I, [2021-04-05T22:23:26.636479 #3289]  INFO -- : Setting BUNDLE_PATH to /home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/.bundle/install/
+I, [2021-04-05T22:23:26.636484 #3289]  INFO -- : Bundle activated but ENV['BUNDLE_WITHOUT'] is not set
+I, [2021-04-05T22:23:26.636488 #3289]  INFO -- : Setting BUNDLE_WITHOUT to 'test'
+D, [2021-04-05T22:23:26.816195 #3289] DEBUG -- : Adding dependency on jaro_winkler '~> 1.5.4'
+D, [2021-04-05T22:23:26.816414 #3289] DEBUG -- : Adding dependency on pycall '~> 1.2.1'
+D, [2021-04-05T22:23:26.816446 #3289] DEBUG -- : Adding dependency on sqlite3 '~> 1.3.13.20180326210955'
+D, [2021-04-05T22:23:26.816459 #3289] DEBUG -- : Adding dependency on addressable '~> 2.7.0'
+D, [2021-04-05T22:23:26.816469 #3289] DEBUG -- : Adding dependency on ansi '~> 1.5.0'
+D, [2021-04-05T22:23:26.816500 #3289] DEBUG -- : Adding dependency on ast '~> 2.4.1'
+D, [2021-04-05T22:23:26.816537 #3289] DEBUG -- : Adding dependency on bcl '~> 0.6.1'
+D, [2021-04-05T22:23:26.816562 #3289] DEBUG -- : Adding dependency on builder '~> 3.2.4'
+D, [2021-04-05T22:23:26.816575 #3289] DEBUG -- : Adding dependency on bundler '~> 2.1.0'
+D, [2021-04-05T22:23:26.816700 #3289] DEBUG -- : Adding dependency on docile '~> 1.3.2'
+D, [2021-04-05T22:23:26.816778 #3289] DEBUG -- : Adding dependency on faraday '~> 1.0.1'
+D, [2021-04-05T22:23:26.816825 #3289] DEBUG -- : Adding dependency on git '~> 1.6.0'
+D, [2021-04-05T22:23:26.816861 #3289] DEBUG -- : Adding dependency on macaddr '~> 1.7.2'
+D, [2021-04-05T22:23:26.816878 #3289] DEBUG -- : Adding dependency on minitar '~> 0.9'
+D, [2021-04-05T22:23:26.816986 #3289] DEBUG -- : Adding dependency on minitest '~> 5.14.2'
+D, [2021-04-05T22:23:26.817035 #3289] DEBUG -- : Adding dependency on minitest-reporters '~> 1.4.2'
+D, [2021-04-05T22:23:26.817180 #3289] DEBUG -- : Adding dependency on multipart-post '~> 2.1.1'
+D, [2021-04-05T22:23:26.817238 #3289] DEBUG -- : Adding dependency on octokit '~> 4.18.0'
+D, [2021-04-05T22:23:26.817258 #3289] DEBUG -- : Adding dependency on oga '~> 3.2'
+D, [2021-04-05T22:23:26.817455 #3289] DEBUG -- : Adding dependency on openstudio-extension '~> 0.3.1'
+D, [2021-04-05T22:23:26.817473 #3289] DEBUG -- : Adding dependency on openstudio-standards '~> 0.2.12'
+D, [2021-04-05T22:23:26.817485 #3289] DEBUG -- : Adding dependency on openstudio-workflow '~> 2.1.0'
+D, [2021-04-05T22:23:26.817531 #3289] DEBUG -- : Adding dependency on openstudio_measure_tester '~> 0.2.3'
+D, [2021-04-05T22:23:26.817649 #3289] DEBUG -- : Adding dependency on parallel '~> 1.19.1'
+D, [2021-04-05T22:23:26.817672 #3289] DEBUG -- : Adding dependency on parser '~> 2.7.2.0'
+D, [2021-04-05T22:23:26.817684 #3289] DEBUG -- : Adding dependency on powerpack '~> 0.1.2'
+D, [2021-04-05T22:23:26.817694 #3289] DEBUG -- : Adding dependency on public_suffix '~> 4.0.6'
+D, [2021-04-05T22:23:26.817703 #3289] DEBUG -- : Adding dependency on rainbow '~> 3.0.0'
+D, [2021-04-05T22:23:26.817734 #3289] DEBUG -- : Adding dependency on rake '~> 13.0.1'
+D, [2021-04-05T22:23:26.817817 #3289] DEBUG -- : Adding dependency on rchardet '~> 1.8.0'
+D, [2021-04-05T22:23:26.817865 #3289] DEBUG -- : Adding dependency on rexml '~> 3.2.4'
+D, [2021-04-05T22:23:26.817883 #3289] DEBUG -- : Adding dependency on rubocop '~> 0.54.0'
+D, [2021-04-05T22:23:26.818009 #3289] DEBUG -- : Adding dependency on rubocop-checkstyle_formatter '~> 0.4.0'
+D, [2021-04-05T22:23:26.818032 #3289] DEBUG -- : Adding dependency on ruby-ll '~> 2.1.2'
+D, [2021-04-05T22:23:26.818180 #3289] DEBUG -- : Adding dependency on ruby-ole '~> 1.2.12.2'
+D, [2021-04-05T22:23:26.818220 #3289] DEBUG -- : Adding dependency on ruby-progressbar '~> 1.10.1'
+D, [2021-04-05T22:23:26.818370 #3289] DEBUG -- : Adding dependency on rubyzip '~> 2.3.0'
+D, [2021-04-05T22:23:26.818445 #3289] DEBUG -- : Adding dependency on sawyer '~> 0.8.2'
+D, [2021-04-05T22:23:26.818460 #3289] DEBUG -- : Adding dependency on simplecov '~> 0.18.5'
+D, [2021-04-05T22:23:26.818512 #3289] DEBUG -- : Adding dependency on simplecov-html '~> 0.12.3'
+D, [2021-04-05T22:23:26.818537 #3289] DEBUG -- : Adding dependency on spreadsheet '~> 1.2.6'
+D, [2021-04-05T22:23:26.818631 #3289] DEBUG -- : Adding dependency on systemu '~> 2.6.5'
+D, [2021-04-05T22:23:26.818682 #3289] DEBUG -- : Adding dependency on unicode-display_width '~> 1.7.0'
+D, [2021-04-05T22:23:26.818764 #3289] DEBUG -- : Adding dependency on uuid '~> 2.3.9'
+D, [2021-04-05T22:23:26.818788 #3289] DEBUG -- : Adding dependency on yamler '~> 0.1.0'
+D, [2021-04-05T22:23:26.818820 #3289] DEBUG -- : Adding dependency on zliby '~> 0.0.5'
+D, [2021-04-05T22:23:26.875877 #3289] DEBUG -- : Processing 46 activation requests
+I, [2021-04-05T22:23:27.836424 #3289]  INFO -- : without_groups = test
+I, [2021-04-05T22:23:27.836494 #3289]  INFO -- : g = default
+I, [2021-04-05T22:23:27.836506 #3289]  INFO -- : Bundling with groups [default]
+I, [2021-04-05T22:23:28.022080 #3289]  INFO -- : Specs to be included [rake,public_suffix,addressable,ansi,ast,builder,multipart-post,faraday,minitar,rchardet,git,minitest,ruby-progressbar,minitest-reporters,parallel,parser,powerpack,rainbow,unicode-display_width,rubocop,rubocop-checkstyle_formatter,docile,simplecov-html,simplecov,openstudio_measure_tester,rexml,rubyzip,ruby-ole,spreadsheet,systemu,macaddr,uuid,yamler,zliby,bcl,bundler,json-schema,json_pure,sawyer,octokit,openstudio-workflow,openstudio-extension,openstudio-standards,openstudio-calibration,openstudio-common-measures,openstudio-ee,openstudio-load-flexibility-measures,openstudio-model-articulation,urbanopt-core,urbanopt-geojson,urbanopt-reporting]
+D, [2021-04-05T22:23:28.724769 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/bundler/specifications/jaro_winkler-1.5.4.gemspec
+D, [2021-04-05T22:23:28.725092 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/bundler/specifications/pycall-1.2.1.gemspec
+D, [2021-04-05T22:23:28.725346 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/bundler/specifications/sqlite3-1.3.13.20180326210955.gemspec
+D, [2021-04-05T22:23:28.725461 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/public_suffix-4.0.6.gemspec
+D, [2021-04-05T22:23:28.725483 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/addressable-2.7.0.gemspec
+D, [2021-04-05T22:23:28.725501 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/ansi-1.5.0.gemspec
+D, [2021-04-05T22:23:28.725516 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/ast-2.4.1.gemspec
+E, [2021-04-05T22:23:28.725541 #3289] ERROR -- : Error activating gem :/ruby/2.5.0/specifications/ast-2.4.1.gemspec
+D, [2021-04-05T22:23:28.725559 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/zliby-0.0.5.gemspec
+D, [2021-04-05T22:23:28.725574 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/yamler-0.1.0.gemspec
+D, [2021-04-05T22:23:28.725593 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/systemu-2.6.5.gemspec
+D, [2021-04-05T22:23:28.725610 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/macaddr-1.7.2.gemspec
+D, [2021-04-05T22:23:28.725629 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/uuid-2.3.9.gemspec
+D, [2021-04-05T22:23:28.725646 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/ruby-ole-1.2.12.2.gemspec
+D, [2021-04-05T22:23:28.725663 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/spreadsheet-1.2.6.gemspec
+D, [2021-04-05T22:23:28.725681 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/rubyzip-2.3.0.gemspec
+D, [2021-04-05T22:23:28.725697 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/rexml-3.2.4.gemspec
+D, [2021-04-05T22:23:28.725715 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/simplecov-html-0.12.3.gemspec
+D, [2021-04-05T22:23:28.725731 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/docile-1.3.2.gemspec
+E, [2021-04-05T22:23:28.725744 #3289] ERROR -- : Error activating gem :/ruby/2.5.0/specifications/docile-1.3.2.gemspec
+D, [2021-04-05T22:23:28.725762 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/simplecov-0.18.5.gemspec
+D, [2021-04-05T22:23:28.725778 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/unicode-display_width-1.7.0.gemspec
+D, [2021-04-05T22:23:28.725798 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/ruby-progressbar-1.10.1.gemspec
+E, [2021-04-05T22:23:28.725808 #3289] ERROR -- : Error activating gem :/ruby/2.5.0/specifications/ruby-progressbar-1.10.1.gemspec
+D, [2021-04-05T22:23:28.725897 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/rainbow-3.0.0.gemspec
+D, [2021-04-05T22:23:28.725918 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/powerpack-0.1.2.gemspec
+E, [2021-04-05T22:23:28.725937 #3289] ERROR -- : Error activating gem :/ruby/2.5.0/specifications/powerpack-0.1.2.gemspec
+D, [2021-04-05T22:23:28.725954 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/parser-2.7.2.0.gemspec
+E, [2021-04-05T22:23:28.725965 #3289] ERROR -- : Error activating gem :/ruby/2.5.0/specifications/parser-2.7.2.0.gemspec
+D, [2021-04-05T22:23:28.725981 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/parallel-1.19.1.gemspec
+E, [2021-04-05T22:23:28.725992 #3289] ERROR -- : Error activating gem :/ruby/2.5.0/specifications/parallel-1.19.1.gemspec
+D, [2021-04-05T22:23:28.726009 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/rubocop-0.54.0.gemspec
+D, [2021-04-05T22:23:28.726062 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/rubocop-checkstyle_formatter-0.4.0.gemspec
+D, [2021-04-05T22:23:28.726110 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/rake-13.0.1.gemspec
+E, [2021-04-05T22:23:28.726150 #3289] ERROR -- : Error activating gem :/ruby/2.5.0/specifications/rake-13.0.1.gemspec
+D, [2021-04-05T22:23:28.726188 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/builder-3.2.4.gemspec
+D, [2021-04-05T22:23:28.726205 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/minitest-5.14.2.gemspec
+E, [2021-04-05T22:23:28.726216 #3289] ERROR -- : Error activating gem :/ruby/2.5.0/specifications/minitest-5.14.2.gemspec
+D, [2021-04-05T22:23:28.726235 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/minitest-reporters-1.4.2.gemspec
+E, [2021-04-05T22:23:28.726246 #3289] ERROR -- : Error activating gem :/ruby/2.5.0/specifications/minitest-reporters-1.4.2.gemspec
+D, [2021-04-05T22:23:28.726263 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/rchardet-1.8.0.gemspec
+D, [2021-04-05T22:23:28.726281 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/git-1.6.0.gemspec
+D, [2021-04-05T22:23:28.726298 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/openstudio_measure_tester-0.2.3.gemspec
+D, [2021-04-05T22:23:28.726315 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/minitar-0.9.gemspec
+D, [2021-04-05T22:23:28.726333 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/multipart-post-2.1.1.gemspec
+D, [2021-04-05T22:23:28.726348 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/faraday-1.0.1.gemspec
+D, [2021-04-05T22:23:28.726365 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/bcl-0.6.1.gemspec
+D, [2021-04-05T22:23:28.726379 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/bundler-2.1.0.gemspec
+D, [2021-04-05T22:23:28.726395 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/sawyer-0.8.2.gemspec
+D, [2021-04-05T22:23:28.726409 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/octokit-4.18.0.gemspec
+D, [2021-04-05T22:23:28.726426 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/ruby-ll-2.1.2.gemspec
+D, [2021-04-05T22:23:28.729322 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/oga-3.2.gemspec
+D, [2021-04-05T22:23:28.729454 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/openstudio-workflow-2.1.0.gemspec
+E, [2021-04-05T22:23:28.729475 #3289] ERROR -- : Error activating gem :/ruby/2.5.0/specifications/openstudio-workflow-2.1.0.gemspec
+D, [2021-04-05T22:23:28.729497 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/openstudio-extension-0.3.1.gemspec
+E, [2021-04-05T22:23:28.729510 #3289] ERROR -- : Error activating gem :/ruby/2.5.0/specifications/openstudio-extension-0.3.1.gemspec
+D, [2021-04-05T22:23:28.729533 #3289] DEBUG -- : Activating gem :/ruby/2.5.0/specifications/openstudio-standards-0.2.12.gemspec
+D, [2021-04-05T22:23:28.729711 #3289] DEBUG -- : Invoking command class: Run ["-w", "/home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/run/baseline_scenario_test/14/in.osw"]
+I, [2021-04-05T22:23:28.729728 #3289]  INFO -- : Run, sub_argv = ["-w", "/home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/run/baseline_scenario_test/14/in.osw"]
+D, [2021-04-05T22:23:28.730017 #3289] DEBUG -- : Run command: [] {:debug=>false, :no_simulation=>false, :osw_path=>"/home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/run/baseline_scenario_test/14/in.osw", :post_process=>false}
+[ApplicationPathHelpers] <-2> getOpenStudioModule, info.dli_fname = '/usr/local/openstudio-3.1.0/bin/openstudio'
+[PathHelpers] <-2> completeAndNormalize: result = /usr/local/openstudio-3.1.0/bin/openstudio
+[ApplicationPathHelpers] <-2> getOpenStudioModule, found '/usr/local/openstudio-3.1.0/bin/openstudio'
+[OpenStudio.Measure] <0> OSRunner is deprecated, use OpenStudio::Measure::OSRunner instead.
+[OpenStudio.Measure] <0> OSArgumentMap is deprecated, use OpenStudio::Measure::OSArgumentMap instead.
+[openstudio.measure.OSRunner] <1> Cannot find current Workflow Step
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 20 fields.  Size of vertices is 3.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 20 fields.  Size of vertices is 3.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 20 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 20 fields.  Size of vertices is 3.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 20 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 20 fields.  Size of vertices is 3.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.Surface] <-1> Intersection of 'Surface 13' with 'Surface 12' results in (Surface 13), (Surface 12), [], []
+[openstudio.model.Surface] <-1> Intersection of 'Surface 6' with 'Surface 7' results in (Surface 6), (Surface 7), [], []
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::initialCondition is deprecated, use stepInitialCondition instead
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::initialCondition is deprecated, use stepInitialCondition instead
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::finalCondition is deprecated, use stepFinalCondition instead
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::finalCondition is deprecated, use stepFinalCondition instead
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::warnings is deprecated, use stepWarnings instead
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::info is deprecated, use stepInfo instead
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::errors is deprecated, use stepErrors instead
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::errors is deprecated, use stepErrors instead
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::value is deprecated, use stepResult instead
+[openstudio.WorkflowStepResult] <0> WorkflowStepResult value called with undefined stepResult, returning 'Success'
+[openstudio.measure.OSRunner] <1> Cannot find current Workflow Step
+[openstudio.EpwFile] <-2> No Daylightings Saving start Date
+[openstudio.EpwFile] <0> Successive data points (1980-Jan-31 to 1988-Feb-01, ending on line 753) are greater than 1 day apart in EPW file '/home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/resources/hpxml-measures/weather/../../../weather/USA_NY_Buffalo-Greater.Buffalo.Intl.AP.725280_TMY3.epw'. Data will be treated as typical (TMY)
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 20 fields.  Size of vertices is 3.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 20 fields.  Size of vertices is 3.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 20 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 20 fields.  Size of vertices is 3.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 20 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 20 fields.  Size of vertices is 3.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.Surface] <-1> Intersection of 'Surface 17' with 'Surface 1' results in (Surface 17), (Surface 1), [], []
+[openstudio.model.Surface] <-1> Intersection of 'Surface 6' with 'Surface 7' results in (Surface 6), (Surface 7), [], []
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::initialCondition is deprecated, use stepInitialCondition instead
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::initialCondition is deprecated, use stepInitialCondition instead
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::finalCondition is deprecated, use stepFinalCondition instead
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::warnings is deprecated, use stepWarnings instead
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::info is deprecated, use stepInfo instead
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::errors is deprecated, use stepErrors instead
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::errors is deprecated, use stepErrors instead
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::value is deprecated, use stepResult instead
+[openstudio.WorkflowStepResult] <0> WorkflowStepResult value called with undefined stepResult, returning 'Success'
+[openstudio.measure.OSRunner] <1> Cannot find current Workflow Step
+[openstudio.EpwFile] <-2> No Daylightings Saving start Date
+[openstudio.EpwFile] <0> Successive data points (1980-Jan-31 to 1988-Feb-01, ending on line 753) are greater than 1 day apart in EPW file '/home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/run/baseline_scenario_test/14/../../../weather/USA_NY_Buffalo-Greater.Buffalo.Intl.AP.725280_TMY3.epw'. Data will be treated as typical (TMY)
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.ShadingControl] <-1> Object of type 'OS:ShadingControl' and named 'WindowCoolingShadingControl' Shading Control Type was changed to 'OnIfScheduleAllows which does not require a Setpoint, reseting
+[openstudio.model.ShadingControl] <-1> Object of type 'OS:ShadingControl' and named 'WindowCoolingShadingControl' Shading Control Type was changed to 'OnIfScheduleAllows which does not require a Setpoint2, reseting
+[openstudio.model.ShadingControl] <-1> Object of type 'OS:ShadingControl' and named 'WindowHeatingShadingControl' Shading Control Type was changed to 'OnIfScheduleAllows which does not require a Setpoint, reseting
+[openstudio.model.ShadingControl] <-1> Object of type 'OS:ShadingControl' and named 'WindowHeatingShadingControl' Shading Control Type was changed to 'OnIfScheduleAllows which does not require a Setpoint2, reseting
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.ShadingControl] <-1> Object of type 'OS:ShadingControl' and named 'WindowCoolingShadingControl 1' Shading Control Type was changed to 'OnIfScheduleAllows which does not require a Setpoint, reseting
+[openstudio.model.ShadingControl] <-1> Object of type 'OS:ShadingControl' and named 'WindowCoolingShadingControl 1' Shading Control Type was changed to 'OnIfScheduleAllows which does not require a Setpoint2, reseting
+[openstudio.model.ShadingControl] <-1> Object of type 'OS:ShadingControl' and named 'WindowHeatingShadingControl 1' Shading Control Type was changed to 'OnIfScheduleAllows which does not require a Setpoint, reseting
+[openstudio.model.ShadingControl] <-1> Object of type 'OS:ShadingControl' and named 'WindowHeatingShadingControl 1' Shading Control Type was changed to 'OnIfScheduleAllows which does not require a Setpoint2, reseting
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.ShadingControl] <-1> Object of type 'OS:ShadingControl' and named 'WindowCoolingShadingControl 2' Shading Control Type was changed to 'OnIfScheduleAllows which does not require a Setpoint, reseting
+[openstudio.model.ShadingControl] <-1> Object of type 'OS:ShadingControl' and named 'WindowCoolingShadingControl 2' Shading Control Type was changed to 'OnIfScheduleAllows which does not require a Setpoint2, reseting
+[openstudio.model.ShadingControl] <-1> Object of type 'OS:ShadingControl' and named 'WindowHeatingShadingControl 2' Shading Control Type was changed to 'OnIfScheduleAllows which does not require a Setpoint, reseting
+[openstudio.model.ShadingControl] <-1> Object of type 'OS:ShadingControl' and named 'WindowHeatingShadingControl 2' Shading Control Type was changed to 'OnIfScheduleAllows which does not require a Setpoint2, reseting
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.ShadingControl] <-1> Object of type 'OS:ShadingControl' and named 'WindowCoolingShadingControl 3' Shading Control Type was changed to 'OnIfScheduleAllows which does not require a Setpoint, reseting
+[openstudio.model.ShadingControl] <-1> Object of type 'OS:ShadingControl' and named 'WindowCoolingShadingControl 3' Shading Control Type was changed to 'OnIfScheduleAllows which does not require a Setpoint2, reseting
+[openstudio.model.ShadingControl] <-1> Object of type 'OS:ShadingControl' and named 'WindowHeatingShadingControl 3' Shading Control Type was changed to 'OnIfScheduleAllows which does not require a Setpoint, reseting
+[openstudio.model.ShadingControl] <-1> Object of type 'OS:ShadingControl' and named 'WindowHeatingShadingControl 3' Shading Control Type was changed to 'OnIfScheduleAllows which does not require a Setpoint2, reseting
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 18 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 18 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 22 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 18 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 22 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 18 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 22 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 18 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 22 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 18 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 22 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 18 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 22 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 18 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 22 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 22 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 22 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 18 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 22 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 10 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 22 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 18 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 6 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 18 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 23 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.model.PlanarSurface] <-2> Before setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After clearExtensibleGroups in setVertices have 11 fields.
+[openstudio.model.PlanarSurface] <-2> After setVertices have 23 fields.  Size of vertices is 4.
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::initialCondition is deprecated, use stepInitialCondition instead
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::finalCondition is deprecated, use stepFinalCondition instead
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::warnings is deprecated, use stepWarnings instead
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::info is deprecated, use stepInfo instead
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::errors is deprecated, use stepErrors instead
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::errors is deprecated, use stepErrors instead
+[openstudio.WorkflowStepResult] <-2> WorkflowStepResult::value is deprecated, use stepResult instead
+[openstudio.WorkflowStepResult] <0> WorkflowStepResult value called with undefined stepResult, returning 'Success'
+[OpenStudio.Measure] <0> ModelUserScript is deprecated, use OpenStudio::Measure::ModelMeasure instead.
+[OpenStudio.Measure] <0> ModelUserScript is deprecated, use OpenStudio::Measure::ModelMeasure instead.
+[OpenStudio.Measure] <0> OSArgumentVector is deprecated, use OpenStudio::Measure::OSArgumentVector instead.
+[OpenStudio.Measure] <0> OSArgumentMap is deprecated, use OpenStudio::Measure::OSArgumentMap instead.
+[OpenStudio.Measure] <0> OSArgumentMap is deprecated, use OpenStudio::Measure::OSArgumentMap instead.
+[OpenStudio.Measure] <0> OSArgumentMap is deprecated, use OpenStudio::Measure::OSArgumentMap instead.
+[OpenStudio.Measure] <0> OSArgumentMap is deprecated, use OpenStudio::Measure::OSArgumentMap instead.
+[OpenStudio.Measure] <0> OSArgumentMap is deprecated, use OpenStudio::Measure::OSArgumentMap instead.
+[OpenStudio.Measure] <0> OSArgumentMap is deprecated, use OpenStudio::Measure::OSArgumentMap instead.
+[OpenStudio.Measure] <0> OSArgumentMap is deprecated, use OpenStudio::Measure::OSArgumentMap instead.
+[OpenStudio.Measure] <0> OSArgumentMap is deprecated, use OpenStudio::Measure::OSArgumentMap instead.
+[OpenStudio.Measure] <0> OSArgumentMap is deprecated, use OpenStudio::Measure::OSArgumentMap instead.
+[OpenStudio.Measure] <0> OSArgumentMap is deprecated, use OpenStudio::Measure::OSArgumentMap instead.
+[OpenStudio.Measure] <0> OSArgumentMap is deprecated, use OpenStudio::Measure::OSArgumentMap instead.
+[OpenStudio.Measure] <0> OSArgumentMap is deprecated, use OpenStudio::Measure::OSArgumentMap instead.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType Plenum Space Type has no children, it will not be translated
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType Space Type 1 has no children, it will not be translated
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType Space Type 2 has no children, it will not be translated
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType Space Type 3 has no children, it will not be translated
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Variable attached.
+[openstudio.model.EnergyManagementSystemSensor] <-1>  does not have an Output Meter attached.
+[openstudio.energyplus.ForwardTranslator] <1> Key Name for EMS:OutputVariable 'water heater EC adjustment outvar' is UID but does not exist, it will not be translated.
+[OpenStudio.Measure] <0> OSArgumentMap is deprecated, use OpenStudio::Measure::OSArgumentMap instead.
+[OpenStudio.Measure] <0> OSArgumentMap is deprecated, use OpenStudio::Measure::OSArgumentMap instead.
+[openstudio.standards.standard] <-1> Using OpenStudio Standards version 0.2.12 with template 90.1-2013.
+[openstudio.standards.standard] <-1> Loading OpenStudio Standards data for 90.1-2013
+[openstudio.standards.standard] <-2> Loading JSON files from /home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/.bundle/install/ruby/2.5.0/gems/openstudio-standards-0.2.12/lib/openstudio-standards/standards/ashrae_90_1
+[openstudio.standards.standard] <-2> Adding hvac_inference from Any.hvac_inference.json
+[openstudio.standards.standard] <-2> Adding size_category from Any.size_category.json
+[openstudio.standards.standard] <-2> Adding climate_zone_sets from ashrae_90_1.climate_zone_sets.json
+[openstudio.standards.standard] <-2> Adding climate_zones from ashrae_90_1.climate_zones.json
+[openstudio.standards.standard] <-2> Adding constructions from ashrae_90_1.constructions.json
+[openstudio.standards.standard] <-2> Adding curves from ashrae_90_1.curves.json
+[openstudio.standards.standard] <-2> Adding entryways from ashrae_90_1.entryways.json
+[openstudio.standards.standard] <-2> Adding fans from ashrae_90_1.fans.json
+[openstudio.standards.standard] <-2> Adding materials from ashrae_90_1.materials.json
+[openstudio.standards.standard] <-2> Adding parking from ashrae_90_1.parking.json
+[openstudio.standards.standard] <-2> Adding schedules from ashrae_90_1.schedules.json
+[openstudio.standards.standard] <-2> Loading JSON files from /home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/.bundle/install/ruby/2.5.0/gems/openstudio-standards-0.2.12/lib/openstudio-standards/standards/ashrae_90_1/ashrae_90_1_2013
+[openstudio.standards.standard] <-2> Adding boilers from ashrae_90_1_2013.boilers.json
+[openstudio.standards.standard] <-2> Adding chillers from ashrae_90_1_2013.chillers.json
+[openstudio.standards.standard] <-2> Adding construction_properties from ashrae_90_1_2013.construction_properties.json
+[openstudio.standards.standard] <-2> Adding construction_sets from ashrae_90_1_2013.construction_sets.json
+[openstudio.standards.standard] <-2> Adding economizers from ashrae_90_1_2013.economizers.json
+[openstudio.standards.standard] <-2> Adding elevators from ashrae_90_1_2013.elevators.json
+[openstudio.standards.standard] <-2> Adding energy_recovery from ashrae_90_1_2013.energy_recovery.json
+[openstudio.standards.standard] <-2> Adding exterior_lighting from ashrae_90_1_2013.ext_ltg.json
+[openstudio.standards.standard] <-2> Adding ground_temperatures from ashrae_90_1_2013.ground_temperatures.json
+[openstudio.standards.standard] <-2> Adding heat_pumps from ashrae_90_1_2013.heat_pumps.json
+[openstudio.standards.standard] <-2> Adding heat_pumps_heating from ashrae_90_1_2013.heat_pumps_heating.json
+[openstudio.standards.standard] <-2> Adding heat_rejection from ashrae_90_1_2013.heat_rejection.json
+[openstudio.standards.standard] <-2> Adding motors from ashrae_90_1_2013.motors.json
+[openstudio.standards.standard] <-2> Adding prototype_inputs from ashrae_90_1_2013.prototype_inputs.json
+[openstudio.standards.standard] <-2> Adding refrigerated_cases from ashrae_90_1_2013.ref_cases.json
+[openstudio.standards.standard] <-2> Adding refrigeration_system_lineup from ashrae_90_1_2013.ref_lnup.json
+[openstudio.standards.standard] <-2> Adding refrigeration_compressors from ashrae_90_1_2013.refrigeration_compressors.json
+[openstudio.standards.standard] <-2> Adding refrigeration_condenser from ashrae_90_1_2013.refrigeration_condenser.json
+[openstudio.standards.standard] <-2> Adding refrigeration_system from ashrae_90_1_2013.refrigeration_system.json
+[openstudio.standards.standard] <-2> Adding refrigeration_walkins from ashrae_90_1_2013.refrigeration_walkins.json
+[openstudio.standards.standard] <-2> Adding space_types from ashrae_90_1_2013.spc_typ.json
+[openstudio.standards.standard] <-2> Adding unitary_acs from ashrae_90_1_2013.unitary_acs.json
+[openstudio.standards.standard] <-2> Adding water_heaters from ashrae_90_1_2013.water_heaters.json
+[openstudio.standards.standard] <-2> Adding water_source_heat_pumps from ashrae_90_1_2013.water_source_heat_pumps.json
+[openstudio.standards.standard] <-2> Adding water_source_heat_pumps_heating from ashrae_90_1_2013.water_source_heat_pumps_heating.json
+[OpenStudio.Measure] <0> OSArgumentMap is deprecated, use OpenStudio::Measure::OSArgumentMap instead.
+[openstudio.standards.standard] <-1> Using OpenStudio Standards version 0.2.12 with template 90.1-2013.
+[openstudio.standards.standard] <-1> Loading OpenStudio Standards data for 90.1-2013
+[openstudio.standards.standard] <-2> Loading JSON files from /home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/.bundle/install/ruby/2.5.0/gems/openstudio-standards-0.2.12/lib/openstudio-standards/standards/ashrae_90_1
+[openstudio.standards.standard] <-2> Adding hvac_inference from Any.hvac_inference.json
+[openstudio.standards.standard] <-2> Adding size_category from Any.size_category.json
+[openstudio.standards.standard] <-2> Adding climate_zone_sets from ashrae_90_1.climate_zone_sets.json
+[openstudio.standards.standard] <-2> Adding climate_zones from ashrae_90_1.climate_zones.json
+[openstudio.standards.standard] <-2> Adding constructions from ashrae_90_1.constructions.json
+[openstudio.standards.standard] <-2> Adding curves from ashrae_90_1.curves.json
+[openstudio.standards.standard] <-2> Adding entryways from ashrae_90_1.entryways.json
+[openstudio.standards.standard] <-2> Adding fans from ashrae_90_1.fans.json
+[openstudio.standards.standard] <-2> Adding materials from ashrae_90_1.materials.json
+[openstudio.standards.standard] <-2> Adding parking from ashrae_90_1.parking.json
+[openstudio.standards.standard] <-2> Adding schedules from ashrae_90_1.schedules.json
+[openstudio.standards.standard] <-2> Loading JSON files from /home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/.bundle/install/ruby/2.5.0/gems/openstudio-standards-0.2.12/lib/openstudio-standards/standards/ashrae_90_1/ashrae_90_1_2013
+[openstudio.standards.standard] <-2> Adding boilers from ashrae_90_1_2013.boilers.json
+[openstudio.standards.standard] <-2> Adding chillers from ashrae_90_1_2013.chillers.json
+[openstudio.standards.standard] <-2> Adding construction_properties from ashrae_90_1_2013.construction_properties.json
+[openstudio.standards.standard] <-2> Adding construction_sets from ashrae_90_1_2013.construction_sets.json
+[openstudio.standards.standard] <-2> Adding economizers from ashrae_90_1_2013.economizers.json
+[openstudio.standards.standard] <-2> Adding elevators from ashrae_90_1_2013.elevators.json
+[openstudio.standards.standard] <-2> Adding energy_recovery from ashrae_90_1_2013.energy_recovery.json
+[openstudio.standards.standard] <-2> Adding exterior_lighting from ashrae_90_1_2013.ext_ltg.json
+[openstudio.standards.standard] <-2> Adding ground_temperatures from ashrae_90_1_2013.ground_temperatures.json
+[openstudio.standards.standard] <-2> Adding heat_pumps from ashrae_90_1_2013.heat_pumps.json
+[openstudio.standards.standard] <-2> Adding heat_pumps_heating from ashrae_90_1_2013.heat_pumps_heating.json
+[openstudio.standards.standard] <-2> Adding heat_rejection from ashrae_90_1_2013.heat_rejection.json
+[openstudio.standards.standard] <-2> Adding motors from ashrae_90_1_2013.motors.json
+[openstudio.standards.standard] <-2> Adding prototype_inputs from ashrae_90_1_2013.prototype_inputs.json
+[openstudio.standards.standard] <-2> Adding refrigerated_cases from ashrae_90_1_2013.ref_cases.json
+[openstudio.standards.standard] <-2> Adding refrigeration_system_lineup from ashrae_90_1_2013.ref_lnup.json
+[openstudio.standards.standard] <-2> Adding refrigeration_compressors from ashrae_90_1_2013.refrigeration_compressors.json
+[openstudio.standards.standard] <-2> Adding refrigeration_condenser from ashrae_90_1_2013.refrigeration_condenser.json
+[openstudio.standards.standard] <-2> Adding refrigeration_system from ashrae_90_1_2013.refrigeration_system.json
+[openstudio.standards.standard] <-2> Adding refrigeration_walkins from ashrae_90_1_2013.refrigeration_walkins.json
+[openstudio.standards.standard] <-2> Adding space_types from ashrae_90_1_2013.spc_typ.json
+[openstudio.standards.standard] <-2> Adding unitary_acs from ashrae_90_1_2013.unitary_acs.json
+[openstudio.standards.standard] <-2> Adding water_heaters from ashrae_90_1_2013.water_heaters.json
+[openstudio.standards.standard] <-2> Adding water_source_heat_pumps from ashrae_90_1_2013.water_source_heat_pumps.json
+[openstudio.standards.standard] <-2> Adding water_source_heat_pumps_heating from ashrae_90_1_2013.water_source_heat_pumps_heating.json
+[ApplicationPathHelpers] <-2> getOpenStudioModule, info.dli_fname = '/usr/local/openstudio-3.1.0/bin/openstudio'
+[PathHelpers] <-2> completeAndNormalize: result = /usr/local/openstudio-3.1.0/bin/openstudio
+[ApplicationPathHelpers] <-2> getOpenStudioModule, found '/usr/local/openstudio-3.1.0/bin/openstudio'
+[ApplicationPathHelpers] <-2> Searching for EnergyPlus in '/usr/local/openstudio-3.1.0/EnergyPlus/energyplus'
+[PathHelpers] <-2> completeAndNormalize: result = /usr/local/openstudio-3.1.0/EnergyPlus/energyplus-9.4.0
+[ApplicationPathHelpers] <-2> Found EnergyPlus at '/usr/local/openstudio-3.1.0/EnergyPlus/energyplus-9.4.0'
+[PathHelpers] <-2> completeAndNormalize: result = /usr/local/openstudio-3.1.0/EnergyPlus/energyplus-9.4.0
+[22:23:29.898502 DEBUG] Path for the OSW: /home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/run/baseline_scenario_test/14/in.osw
+[22:23:29.898553 DEBUG] Initializing run method
+[22:23:30.035343 DEBUG] Beginning run
+[22:23:30.473840 WARN] No valid weather file defined in either the osm or osw.
+[22:23:47.053907 WARN] Could not load nokogiri, no HPXML validation performed.
+[22:24:18.228421 WARN] Reporting Measure at /home/ubuntu/UCI/Github/urbanopt-reporting-gem/lib/measures/default_feature_reports/measure.rb is using the old format where the 'arguments' method does not take model. Please consider updating this to `def arguments(model)`.

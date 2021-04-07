@@ -1,0 +1,74 @@
+[06:32:05.085205 WARN] No valid weather file defined in either the osm or osw.
+[06:32:20.645714 WARN] User-defined single floor area was used for calculation of total building floor area
+[06:32:20.645756 WARN] Cannot use custom height bar with single floor area method, will not create custom height bar.
+[06:32:25.861956 WARN] [openstudio.standards.Construction] Can only set the u-value of opaque constructions or simple glazing. U 0.48 SHGC 0.40 Dbl Ref-D Clr 6mm/13mm is not opaque or simple glazing.
+[06:32:25.862101 WARN] [openstudio.standards.Construction] Can only set the u-value of opaque constructions or simple glazing. U 0.44 SHGC 0.26 Dbl Ref-B-H Clr 6mm/13mm Air is not opaque or simple glazing.
+[06:32:25.862193 WARN] [openstudio.standards.Construction] Can only set the u-value of opaque constructions or simple glazing. Window_U_0.50_SHGC_0.40_Skylight_Frame_Width_0.430_in is not opaque or simple glazing.
+[06:32:25.864201 WARN] [openstudio.model.Model] In model_add_typical, num_water_heaters = 42
+[06:32:25.864321 WARN] [openstudio.model.Model] In model_add_typical, num_water_heaters = 42
+[06:32:25.864577 WARN] [openstudio.model.Model] In model_add_typical, num_water_heaters = 83
+[06:32:28.560565 WARN] Surface elevation not set for building 'Mall 1'
+[06:32:28.642824 WARN] Reversing floor print
+[06:32:28.650438 WARN] Reversing floor print
+[06:32:28.651235 WARN] Reversing floor print
+[06:32:28.652358 WARN] Reversing floor print
+[06:32:28.652930 WARN] Reversing floor print
+[06:32:28.669174 WARN] Reversing floor print
+[06:32:28.688186 WARN] Reversing floor print
+[06:32:28.688822 WARN] Reversing floor print
+[06:32:28.689403 WARN] Reversing floor print
+[06:33:45.235378 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[06:33:45.239220 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[06:33:45.239289 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[06:33:45.239342 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[06:33:45.239441 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[06:33:45.239719 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[06:33:45.239759 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[06:33:45.239810 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[06:33:45.239847 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[06:33:45.239902 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[06:33:45.240235 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[06:33:45.240276 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[06:33:45.240326 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[06:33:45.240357 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[06:33:45.240407 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[06:33:48.161042 WARN] Reporting Measure at /home/ubuntu/UCI/Github/urbanopt-reporting-gem/lib/measures/default_feature_reports/measure.rb is using the old format where the 'arguments' method does not take model. Please consider updating this to `def arguments(model)`.
+[06:37:24.045040 WARN] Reporting Measure at /home/ubuntu/UCI/Github/urbanopt-reporting-gem/lib/measures/default_feature_reports/measure.rb is using the old format where the 'arguments' method does not take model. Please consider updating this to `def arguments(model)`.
+[06:37:32.801417 WARN] Query failed for Life-Cycle Cost Report and TableName='Present Value for Recurring, Nonrecurring and Energy Costs (Before Tax)' AND RowName='LCC_MAT - BUILDING - LIFE CYCLE COSTS' AND ColumnName='Cost'
+[06:37:32.801692 WARN] Query failed for Packaged Ice Thermal Storage Capacity
+[06:37:32.806620 WARN] Query failed for Ice Thermal Storage Capacity
+[06:37:32.823224 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='Propane:Facility' AND ColumnName='Annual Value'
+[06:37:32.826962 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='FuelOilNo2:Facility' AND ColumnName='Annual Value'
+[06:37:32.830674 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Total End Uses' AND ColumnName='Additional Fuel'
+[06:37:32.841011 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='Heating:Propane' AND ColumnName='Annual Value'
+[06:37:32.844985 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='Cooling:Propane' AND ColumnName='Annual Value'
+[06:37:32.848884 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='InteriorLights:Propane' AND ColumnName='Annual Value'
+[06:37:32.852828 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='ExteriorLights:Propane' AND ColumnName='Annual Value'
+[06:37:32.857003 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='InteriorEquipment:Propane' AND ColumnName='Annual Value'
+[06:37:32.861077 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='ExteriorEquipment:Propane' AND ColumnName='Annual Value'
+[06:37:32.864914 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='Fans:Propane' AND ColumnName='Annual Value'
+[06:37:32.868759 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='Pumps:Propane' AND ColumnName='Annual Value'
+[06:37:32.872659 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='HeatRejection:Propane' AND ColumnName='Annual Value'
+[06:37:32.876581 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='Humidifier:Propane' AND ColumnName='Annual Value'
+[06:37:32.881217 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='HeatRecovery:Propane' AND ColumnName='Annual Value'
+[06:37:32.885080 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='WaterSystems:Propane' AND ColumnName='Annual Value'
+[06:37:32.888917 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='Refrigeration:Propane' AND ColumnName='Annual Value'
+[06:37:32.892726 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='Generators:Propane' AND ColumnName='Annual Value'
+[06:37:32.896798 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='Heating:FuelOil#2' AND ColumnName='Annual Value'
+[06:37:32.900962 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='Cooling:FuelOil#2' AND ColumnName='Annual Value'
+[06:37:32.905001 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='InteriorLights:FuelOil#2' AND ColumnName='Annual Value'
+[06:37:32.911312 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='ExteriorLights:FuelOil#2' AND ColumnName='Annual Value'
+[06:37:32.915108 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='InteriorEquipment:FuelOil#2' AND ColumnName='Annual Value'
+[06:37:32.918921 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='ExteriorEquipment:FuelOil#2' AND ColumnName='Annual Value'
+[06:37:32.922755 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='Fans:FuelOil#2' AND ColumnName='Annual Value'
+[06:37:32.927387 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='Pumps:FuelOil#2' AND ColumnName='Annual Value'
+[06:37:32.934285 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='HeatRejection:FuelOil#2' AND ColumnName='Annual Value'
+[06:37:32.941853 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='Humidifier:FuelOil#2' AND ColumnName='Annual Value'
+[06:37:32.949224 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='HeatRecovery:FuelOil#2' AND ColumnName='Annual Value'
+[06:37:32.956216 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='WaterSystems:FuelOil#2' AND ColumnName='Annual Value'
+[06:37:32.962936 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='Refrigeration:FuelOil#2' AND ColumnName='Annual Value'
+[06:37:32.971218 WARN] Query failed for EnergyMeters and TableName='Annual and Peak Values - Other' AND RowName='Generators:FuelOil#2' AND ColumnName='Annual Value'
+[06:37:33.251214 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses By Subcategory' AND RowName='Exterior Equipment:Electric Vehicles' AND ColumnName='Electricity'
+[06:37:33.264061 WARN] Query failed for Economics Results Summary Report and TableName='Annual Cost' AND RowName='Cost' AND ColumnName='Total'
+[06:37:33.270385 WARN] Query failed for Economics Results Summary Report and TableName='Annual Cost' AND RowName='Cost' AND ColumnName='Electric'
+[06:37:33.277115 WARN] Query failed for Economics Results Summary Report and TableName='Annual Cost' AND RowName='Cost' AND ColumnName='Gas'

@@ -1,0 +1,8 @@
+{
+  "SetRunPeriod": {
+    "timesteps_per_hour": 1,
+    "begin_date": "2017-01-01",
+    "end_date": "2017-12-31",
+    "applicable": true
+  }
+}
