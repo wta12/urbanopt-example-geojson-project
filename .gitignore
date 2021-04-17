@@ -34,6 +34,7 @@ runner.conf
 data_point_reports.zip
 data_point.zip
 *.sql
+/bundle_install/*
 
 
 
