@@ -2,30 +2,30 @@
   "seed_file": null,
   "weather_file": null,
   "measure_paths": [
-    "/home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/mappers/../measures/",
-    "/home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/mappers/../resources/hpxml-measures",
-    "/home/ubuntu/UCI/Github/urbanopt-geojson-gem/lib/measures",
-    "/home/ubuntu/UCI/Github/urbanopt-reopt-gem/lib/measures",
-    "/home/ubuntu/UCI/Github/urbanopt-reporting-gem/lib/measures",
-    "/home/ubuntu/UCI/Github/urbanopt-scenario-gem/lib/measures",
-    "/var/lib/gems/2.5.0/gems/openstudio-calibration-0.3.1/lib/measures",
-    "/var/lib/gems/2.5.0/gems/openstudio-common-measures-0.3.2/lib/measures",
-    "/var/lib/gems/2.5.0/gems/openstudio-ee-0.3.2/lib/measures",
-    "/var/lib/gems/2.5.0/gems/openstudio-extension-0.3.2/lib/measures",
-    "/var/lib/gems/2.5.0/gems/openstudio-load-flexibility-measures-0.2.1/lib/measures",
-    "/var/lib/gems/2.5.0/gems/openstudio-model-articulation-0.3.1/lib/measures"
+    "/Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-example-geojson-project/example_project_docker/mappers/../measures/",
+    "/Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-example-geojson-project/example_project_docker/mappers/../resources/hpxml-measures",
+    "/Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/openstudio-calibration-0.3.1/lib/measures",
+    "/Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/openstudio-common-measures-0.3.2/lib/measures",
+    "/Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/openstudio-ee-0.3.2/lib/measures",
+    "/Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/openstudio-extension-0.3.2/lib/measures",
+    "/Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/openstudio-load-flexibility-measures-0.2.1/lib/measures",
+    "/Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/openstudio-model-articulation-0.3.1/lib/measures",
+    "/Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/urbanopt-geojson-0.5.3/lib/measures",
+    "/Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/urbanopt-reopt-0.5.7/lib/measures",
+    "/Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/urbanopt-reporting-0.3.7/lib/measures",
+    "/Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-scenario-gem/lib/measures"
   ],
   "file_paths": [
-    "/home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/mappers/../weather/",
-    "/home/ubuntu/UCI/Github/urbanopt-reopt-gem/lib/files",
-    "/var/lib/gems/2.5.0/gems/openstudio-calibration-0.3.1/lib/files",
-    "/var/lib/gems/2.5.0/gems/openstudio-common-measures-0.3.2/lib/files",
-    "/var/lib/gems/2.5.0/gems/openstudio-ee-0.3.2/lib/files",
-    "/var/lib/gems/2.5.0/gems/openstudio-extension-0.3.2/lib/files",
-    "/var/lib/gems/2.5.0/gems/openstudio-load-flexibility-measures-0.2.1/lib/files",
-    "/var/lib/gems/2.5.0/gems/openstudio-model-articulation-0.3.1/lib/files"
+    "/Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-example-geojson-project/example_project_docker/mappers/../weather/",
+    "/Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/openstudio-calibration-0.3.1/lib/files",
+    "/Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/openstudio-common-measures-0.3.2/lib/files",
+    "/Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/openstudio-ee-0.3.2/lib/files",
+    "/Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/openstudio-extension-0.3.2/lib/files",
+    "/Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/openstudio-load-flexibility-measures-0.2.1/lib/files",
+    "/Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/openstudio-model-articulation-0.3.1/lib/files",
+    "/Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/urbanopt-reopt-0.5.7/lib/files"
   ],
-  "run_directory": "/home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/run/baseline_scenario_test/12",
+  "run_directory": "/Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-example-geojson-project/example_project_docker/run/baseline_scenario_test/12",
   "steps": [
     {
       "measure_dir_name": "BuildResidentialModel",
@@ -99,7 +99,7 @@
       "measure_dir_name": "urban_geometry_creation_zoning",
       "arguments": {
         "__SKIP__": false,
-        "geojson_file": "/home/ubuntu/UCI/Github/urbanopt-example-geojson-project/example_project_docker/example_project_combined.json",
+        "geojson_file": "/Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-example-geojson-project/example_project_docker/example_project_with_electric_network.json",
         "feature_id": "12",
         "surrounding_buildings": "ShadingOnly"
       }
@@ -179,7 +179,7 @@
         "feature_id": "12",
         "feature_name": "Mall 1",
         "feature_type": "Building",
-        "feature_location": "[-78.84827121830484, 42.817900060746815]"
+        "feature_location": "[42.817900101570714, -78.84827120955761]"
       }
     },
     {

@@ -1,0 +1,4 @@
+New Loadshape.feature_1 npts= 8759 interval=1.0 mult = (file=../profiles/load_1_pu.csv)
+
+New Loadshape.feature_12 npts= 8759 interval=1.0 mult = (file=../profiles/load_12_pu.csv)
+

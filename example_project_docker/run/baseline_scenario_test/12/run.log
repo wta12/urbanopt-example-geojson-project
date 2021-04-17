@@ -1,0 +1,79 @@
+[02:44:28.439981 WARN] No valid weather file defined in either the osm or osw.
+[02:44:33.154760 WARN] User-defined single floor area was used for calculation of total building floor area
+[02:44:33.154792 WARN] Cannot use custom height bar with single floor area method, will not create custom height bar.
+[02:44:36.002105 WARN] [openstudio.standards.Construction] Can only set the u-value of opaque constructions or simple glazing. U 0.48 SHGC 0.40 Dbl Ref-D Clr 6mm/13mm is not opaque or simple glazing.
+[02:44:36.002275 WARN] [openstudio.standards.Construction] Can only set the u-value of opaque constructions or simple glazing. U 0.44 SHGC 0.26 Dbl Ref-B-H Clr 6mm/13mm Air is not opaque or simple glazing.
+[02:44:36.002396 WARN] [openstudio.standards.Construction] Can only set the u-value of opaque constructions or simple glazing. Window_U_0.50_SHGC_0.40_Skylight_Frame_Width_0.430_in is not opaque or simple glazing.
+[02:44:36.003725 WARN] [openstudio.model.Model] In model_add_typical, num_water_heaters = 42
+[02:44:36.003803 WARN] [openstudio.model.Model] In model_add_typical, num_water_heaters = 42
+[02:44:36.003874 WARN] [openstudio.model.Model] In model_add_typical, num_water_heaters = 83
+[02:44:37.585443 WARN] Surface elevation not set for building 'Mall 1'
+[02:44:37.646307 WARN] building_features[:features] size:19
+[02:44:37.646562 WARN] Reversing floor print
+[02:44:37.651331 WARN] Reversing floor print
+[02:44:37.652065 WARN] Reversing floor print
+[02:44:37.654317 WARN] Reversing floor print
+[02:44:37.655255 WARN] Reversing floor print
+[02:44:37.655555 WARN] Reversing floor print
+[02:44:37.664160 WARN] Reversing floor print
+[02:44:37.664402 WARN] Reversing floor print
+[02:44:37.675869 WARN] Reversing floor print
+[02:44:37.676287 WARN] [geojson process_other_buildings] Unable to include feature 3f960177-51b5-4a0b-9c35-41da085597fc in shading calculations: no 'number of stories' data
+[02:44:37.676299 WARN] [geojson process_other_buildings] Unable to include feature 897530f5-a6d6-446f-94fd-4087196fceaf in shading calculations: no 'number of stories' data
+[02:44:37.676323 WARN] [geojson process_other_buildings] Unable to include feature b02e3fe9-77d0-47f9-86cb-e4db960afd62 in shading calculations: no 'number of stories' data
+[02:44:37.676331 WARN] [geojson process_other_buildings] Unable to include feature 54cd0a5a-2ebe-4b39-936a-f238b503c221 in shading calculations: no 'number of stories' data
+[02:44:37.676339 WARN] [geojson process_other_buildings] Unable to include feature 1b4b5dcf-8d18-4954-b655-a93634542733 in shading calculations: no 'number of stories' data
+[02:44:37.676348 WARN] [geojson process_other_buildings] Unable to include feature 502e96e3-853a-4b3d-b88d-fe59af4d7b65 in shading calculations: no 'number of stories' data
+[02:44:48.447314 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:48.447401 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:48.447463 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:48.447502 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:48.447548 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:48.447794 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:48.447832 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:48.447871 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:48.447907 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:48.447951 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:48.448256 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:48.448298 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:48.448327 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:48.448373 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:48.448413 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:49.382998 WARN] Reporting Measure at /Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/urbanopt-reporting-0.3.7/lib/measures/default_feature_reports/measure.rb is using the old format where the 'arguments' method does not take model. Please consider updating this to `def arguments(model)`.
+[02:45:45.675656 WARN] Reporting Measure at /Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/urbanopt-reporting-0.3.7/lib/measures/default_feature_reports/measure.rb is using the old format where the 'arguments' method does not take model. Please consider updating this to `def arguments(model)`.
+[02:45:46.909463 WARN] Query failed for Life-Cycle Cost Report and TableName='Present Value for Recurring, Nonrecurring and Energy Costs (Before Tax)' AND RowName='LCC_MAT - BUILDING - LIFE CYCLE COSTS' AND ColumnName='Cost'
+[02:45:46.909535 WARN] Query failed for Packaged Ice Thermal Storage Capacity
+[02:45:46.909619 WARN] Query failed for Ice Thermal Storage Capacity
+[02:45:46.918701 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Total End Uses' AND ColumnName='Steam'
+[02:45:46.940914 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Heating' AND ColumnName='Fuel Oil #2'
+[02:45:46.943223 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Cooling' AND ColumnName='Fuel Oil #2'
+[02:45:46.945561 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Interior Lighting' AND ColumnName='Fuel Oil #2'
+[02:45:46.947794 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Exterior Lighting' AND ColumnName='Fuel Oil #2'
+[02:45:46.950013 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Interior Equipment' AND ColumnName='Fuel Oil #2'
+[02:45:46.952190 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Exterior Equipment' AND ColumnName='Fuel Oil #2'
+[02:45:46.954337 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Fans' AND ColumnName='Fuel Oil #2'
+[02:45:46.956475 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Pumps' AND ColumnName='Fuel Oil #2'
+[02:45:46.958655 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Heat Rejection' AND ColumnName='Fuel Oil #2'
+[02:45:46.961102 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Humidification' AND ColumnName='Fuel Oil #2'
+[02:45:46.963619 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Heat Recovery' AND ColumnName='Fuel Oil #2'
+[02:45:46.965894 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Water Systems' AND ColumnName='Fuel Oil #2'
+[02:45:46.968143 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Refrigeration' AND ColumnName='Fuel Oil #2'
+[02:45:46.970316 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Generators' AND ColumnName='Fuel Oil #2'
+[02:45:47.008498 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Heating' AND ColumnName='Steam'
+[02:45:47.013322 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Cooling' AND ColumnName='Steam'
+[02:45:47.017870 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Interior Lighting' AND ColumnName='Steam'
+[02:45:47.022567 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Exterior Lighting' AND ColumnName='Steam'
+[02:45:47.028557 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Interior Equipment' AND ColumnName='Steam'
+[02:45:47.034430 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Exterior Equipment' AND ColumnName='Steam'
+[02:45:47.039298 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Fans' AND ColumnName='Steam'
+[02:45:47.047075 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Pumps' AND ColumnName='Steam'
+[02:45:47.055726 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Heat Rejection' AND ColumnName='Steam'
+[02:45:47.063684 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Humidification' AND ColumnName='Steam'
+[02:45:47.068616 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Heat Recovery' AND ColumnName='Steam'
+[02:45:47.073153 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Water Systems' AND ColumnName='Steam'
+[02:45:47.077856 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Refrigeration' AND ColumnName='Steam'
+[02:45:47.082630 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Generators' AND ColumnName='Steam'
+[02:45:47.084400 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses By Subcategory' AND RowName='Exterior Equipment:Electric Vehicles' AND ColumnName='Electricity'
+[02:45:47.086648 WARN] Query failed for Economics Results Summary Report and TableName='Annual Cost' AND RowName='Cost' AND ColumnName='Total'
+[02:45:47.088255 WARN] Query failed for Economics Results Summary Report and TableName='Annual Cost' AND RowName='Cost' AND ColumnName='Electric'
+[02:45:47.089944 WARN] Query failed for Economics Results Summary Report and TableName='Annual Cost' AND RowName='Cost' AND ColumnName='Natural Gas'

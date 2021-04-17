@@ -1,0 +1,15 @@
+{
+  "timestamp": "2021-04-17T 2:50:03.683",
+  "results": [
+    {
+      "id": "1",
+      "status": "Complete",
+      "mapper_class": "URBANopt::Scenario::BaselineMapper"
+    },
+    {
+      "id": "12",
+      "status": "Complete",
+      "mapper_class": "URBANopt::Scenario::BaselineMapper"
+    }
+  ]
+}

@@ -1,0 +1,910 @@
+Shadowing Combinations
+..Solar Distribution=FullExterior
+..In the following, only the first 10 reference surfaces will be shown.
+..But all surfaces are used in the calculations.
+==================================
+Surface=UNIT 2 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=1
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=23
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-UNIT 2 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT SHADING SURFACE
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=UNIT 2 SURFACE SURFACE_3_-_WINDOW_1_BACK
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=25
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 2 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=13
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=UNIT 2 SURFACE SURFACE_3_-_WINDOW_1_BACK
+..Surface=UNIT 2 SURFACE_3
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-UNIT 2 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=11
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT SHADING SURFACE
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=SURFACE SURFACE_3_-_WINDOW_1_BACK
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=13
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=UNIT 2 SURFACE SURFACE_3_-_WINDOW_1_BACK
+..Surface=UNIT 2 SURFACE_3
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=11
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT SHADING SURFACE
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=SURFACE SURFACE_3_-_WINDOW_1_BACK
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=3
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=24
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-UNIT 2 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT SHADING SURFACE
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=1
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=23
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-UNIT 2 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT SHADING SURFACE
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_2_-_WINDOW_1_LEFT SHADING SURFACE is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=UNIT 2 SURFACE SURFACE_3_-_WINDOW_1_BACK
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT SHADING SURFACE is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=25
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 2 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=13
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=UNIT 2 SURFACE SURFACE_3_-_WINDOW_1_BACK
+..Surface=UNIT 2 SURFACE_3
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=11
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT SHADING SURFACE
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=SURFACE SURFACE_3_-_WINDOW_1_BACK
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=1
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=23
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-UNIT 2 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT SHADING SURFACE
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=SURFACE_2
+..Surface=SURFACE_3
+..Surface=UNIT 2 SURFACE_3
+..Surface=UNIT 2 SURFACE_4
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 3 SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=SURFACE_2
+..Surface=SURFACE_3
+..Surface=UNIT 2 SURFACE_3
+..Surface=UNIT 2 SURFACE_4
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 3 SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_3_-_WINDOW_1_BACK - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=SURFACE_3
+..Surface=UNIT 2 SURFACE_3
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 3 SURFACE_4
+..Surface=UNIT 3 SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=SURFACE_3
+..Surface=UNIT 2 SURFACE_3
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 3 SURFACE_4
+..Surface=UNIT 3 SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=SURFACE_5
+..Surface=UNIT 2 SURFACE_3
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 3 SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=SURFACE_5
+..Surface=UNIT 2 SURFACE_3
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 3 SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=SURFACE_2
+..Surface=SURFACE_3
+..Surface=UNIT 2 SURFACE_3
+..Surface=UNIT 2 SURFACE_4
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 3 SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=SURFACE_2
+..Surface=SURFACE_3
+..Surface=UNIT 2 SURFACE_3
+..Surface=UNIT 2 SURFACE_4
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 3 SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=SURFACE_2
+..Surface=SURFACE_3
+..Surface=UNIT 2 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 2 SURFACE_4
+..Surface=UNIT 2 SURFACE_5
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 3 SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=SURFACE_2
+..Surface=SURFACE_3
+..Surface=UNIT 2 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 2 SURFACE_4
+..Surface=UNIT 2 SURFACE_5
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 3 SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=SURFACE_3
+..Surface=UNIT 2 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 2 SURFACE_5
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 3 SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-UNIT 2 SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=SURFACE_3
+..Surface=UNIT 2 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 2 SURFACE_5
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 3 SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=SURFACE_3
+..Surface=UNIT 2 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 2 SURFACE_5
+..Surface=UNIT 3 SURFACE_3
+..Surface=UNIT 3 SURFACE_4
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=SURFACE_3
+..Surface=UNIT 2 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 2 SURFACE_5
+..Surface=UNIT 3 SURFACE_3
+..Surface=UNIT 3 SURFACE_4
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=SURFACE_3
+..Surface=UNIT 2 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 2 SURFACE_5
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 3 SURFACE_4
+..Surface=UNIT 3 SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=SURFACE_3
+..Surface=UNIT 2 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 2 SURFACE_5
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 3 SURFACE_4
+..Surface=UNIT 3 SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=SURFACE_3
+..Surface=UNIT 2 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 2 SURFACE_5
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 3 SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=SURFACE_3
+..Surface=UNIT 2 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 2 SURFACE_5
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 3 SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_10 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_11 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_8 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_9 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_7 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_12 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE SURFACE_2_-_WINDOW_1_LEFT is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=UNIT 2 SURFACE SURFACE_3_-_WINDOW_1_BACK
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SURFACE_2_-_WINDOW_1_LEFT
+==================================
+Surface=SURFACE_2_-_WINDOW_1_LEFT is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE SURFACE_3_-_WINDOW_1_BACK is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=18
+..Surface=Mir-UNIT 2 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SURFACE_3_-_WINDOW_1_BACK
+==================================
+Surface=SURFACE_3_-_WINDOW_1_BACK is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE SURFACE_5_-_DOOR_FRONT is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=4
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SURFACE_5_-_DOOR_FRONT
+==================================
+Surface=SURFACE_5_-_DOOR_FRONT is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE SURFACE_5_-_WINDOW_1_FRONT is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=4
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=SURFACE_5_-_WINDOW_1_FRONT
+==================================
+Surface=SURFACE_5_-_WINDOW_1_FRONT is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=UNIT 2 SURFACE SURFACE_3_-_WINDOW_1_BACK
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=16
+..Surface=Mir-UNIT 2 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_5 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=4
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SURFACE_6 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FURNITURE MASS LIVING SPACE LIVING is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=LIVING SPACE LIVING PARTITION is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 SURFACE_10 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 SURFACE_11 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 SURFACE_8 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 SURFACE_9 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 SURFACE_7 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 SURFACE_12 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 SURFACE SURFACE_3_-_WINDOW_1_BACK is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=19
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=UNIT 2 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=UNIT 3 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=SURFACE_2_-_WINDOW_1_LEFT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT SHADING SURFACE
+..Surface=SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=UNIT 2 SURFACE_3_-_WINDOW_1_BACK
+==================================
+Surface=UNIT 2 SURFACE_3_-_WINDOW_1_BACK is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 SURFACE SURFACE_4_-_WINDOW_1_RIGHT is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT
+==================================
+Surface=UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 SURFACE SURFACE_5_-_DOOR_FRONT is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=10
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=UNIT 3 SURFACE SURFACE_4_-_WINDOW_1_RIGHT
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 3 SURFACE SURFACE_5_-_WINDOW_1_FRONT
+..Surface=UNIT 3 SURFACE_4
+..Surface=UNIT 3 SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=UNIT 2 SURFACE_5_-_DOOR_FRONT
+==================================
+Surface=UNIT 2 SURFACE_5_-_DOOR_FRONT is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 SURFACE SURFACE_5_-_WINDOW_1_FRONT is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=8
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 3 SURFACE SURFACE_5_-_WINDOW_1_FRONT
+..Surface=UNIT 3 SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=UNIT 2 SURFACE_5_-_WINDOW_1_FRONT
+==================================
+Surface=UNIT 2 SURFACE_5_-_WINDOW_1_FRONT is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 SURFACE_2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 SURFACE_3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=15
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=UNIT 2 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=UNIT 3 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT SHADING SURFACE
+..Surface=SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 SURFACE_4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 SURFACE_5 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=8
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=Mir-UNIT 2 SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT - OVERHANGS
+..Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT
+..Surface=UNIT 3 SURFACE SURFACE_5_-_WINDOW_1_FRONT
+..Surface=UNIT 3 SURFACE_5
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 SURFACE_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 SURFACE_6 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 FURNITURE MASS LIVING SPACE LIVING is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 2 LIVING SPACE LIVING PARTITION is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE_10 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE_11 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE_8 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE_9 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE_7 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE_12 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE SURFACE_3_-_WINDOW_1_BACK is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=1
+..Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=UNIT 3 SURFACE_3_-_WINDOW_1_BACK
+==================================
+Surface=UNIT 3 SURFACE_3_-_WINDOW_1_BACK is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE SURFACE_4_-_WINDOW_1_RIGHT is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=SURFACE SURFACE_3_-_WINDOW_1_BACK
+..Surface=UNIT 2 SURFACE SURFACE_5_-_DOOR_FRONT
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT
+==================================
+Surface=UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE SURFACE_5_-_DOOR_FRONT is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=28
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=UNIT 2 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=UNIT 3 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=SURFACE_2_-_WINDOW_1_LEFT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT SHADING SURFACE
+..Surface=SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=UNIT 3 SURFACE_5_-_DOOR_FRONT
+==================================
+Surface=UNIT 3 SURFACE_5_-_DOOR_FRONT is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE SURFACE_5_-_WINDOW_1_FRONT is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=22
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=UNIT 2 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=UNIT 3 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT SHADING SURFACE
+..Surface=SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=UNIT 3 SURFACE_5_-_WINDOW_1_FRONT
+==================================
+Surface=UNIT 3 SURFACE_5_-_WINDOW_1_FRONT is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE_2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE_3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=1
+..Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE_4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_3_-_WINDOW_1_BACK - OVERHANGS
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT - OVERHANGS
+..Surface=SURFACE SURFACE_3_-_WINDOW_1_BACK
+..Surface=UNIT 2 SURFACE SURFACE_5_-_DOOR_FRONT
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE_5 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=22
+..Surface=Mir-UNIT 2 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 2 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=UNIT 2 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=UNIT 3 SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_4_-_WINDOW_1_RIGHT SHADING SURFACE
+..Surface=Mir-UNIT 3 SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT SHADING SURFACE
+..Surface=SURFACE_3_-_WINDOW_1_BACK SHADING SURFACE
+..Surface=Mir-SURFACE_5_-_WINDOW_1_FRONT SHADING SURFACE
+..Surface=Mir-SURFACE_2_-_WINDOW_1_LEFT - OVERHANGS
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 SURFACE_6 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 FURNITURE MASS LIVING SPACE LIVING is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=UNIT 3 LIVING SPACE LIVING PARTITION is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0

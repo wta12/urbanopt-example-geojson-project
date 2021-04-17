@@ -1,0 +1,48 @@
+[04:40:28.816977 WARN] No valid weather file defined in either the osm or osw.
+[04:40:54.161479 WARN] Specified incompatible corridor; setting corridor position to 'Single Exterior (Front)'.
+[04:40:54.161512 WARN] Could not load nokogiri, no HPXML validation performed.
+[04:40:55.235356 WARN] The model contains existing objects and is being reset.
+[04:41:22.023153 WARN] Specified incompatible corridor; setting corridor position to 'Single Exterior (Front)'.
+[04:41:22.023187 WARN] Could not load nokogiri, no HPXML validation performed.
+[04:41:22.670205 WARN] The model contains existing objects and is being reset.
+[04:41:47.270094 WARN] Specified incompatible corridor; setting corridor position to 'Single Exterior (Front)'.
+[04:41:47.270119 WARN] Could not load nokogiri, no HPXML validation performed.
+[04:41:47.843037 WARN] The model contains existing objects and is being reset.
+[04:41:51.784749 WARN] Reporting Measure at /Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/urbanopt-reporting-0.3.7/lib/measures/default_feature_reports/measure.rb is using the old format where the 'arguments' method does not take model. Please consider updating this to `def arguments(model)`.
+[04:42:01.204415 WARN] Reporting Measure at /Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/urbanopt-reporting-0.3.7/lib/measures/default_feature_reports/measure.rb is using the old format where the 'arguments' method does not take model. Please consider updating this to `def arguments(model)`.
+[04:42:01.552197 WARN] Query failed for Life-Cycle Cost Report and TableName='Present Value for Recurring, Nonrecurring and Energy Costs (Before Tax)' AND RowName='LCC_MAT - BUILDING - LIFE CYCLE COSTS' AND ColumnName='Cost'
+[04:42:01.552247 WARN] Query failed for Packaged Ice Thermal Storage Capacity
+[04:42:01.552304 WARN] Query failed for Ice Thermal Storage Capacity
+[04:42:01.560461 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Total End Uses' AND ColumnName='Steam'
+[04:42:01.581381 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Heating' AND ColumnName='Fuel Oil #2'
+[04:42:01.582924 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Cooling' AND ColumnName='Fuel Oil #2'
+[04:42:01.584387 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Interior Lighting' AND ColumnName='Fuel Oil #2'
+[04:42:01.585842 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Exterior Lighting' AND ColumnName='Fuel Oil #2'
+[04:42:01.587298 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Interior Equipment' AND ColumnName='Fuel Oil #2'
+[04:42:01.588809 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Exterior Equipment' AND ColumnName='Fuel Oil #2'
+[04:42:01.590342 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Fans' AND ColumnName='Fuel Oil #2'
+[04:42:01.591751 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Pumps' AND ColumnName='Fuel Oil #2'
+[04:42:01.593510 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Heat Rejection' AND ColumnName='Fuel Oil #2'
+[04:42:01.595229 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Humidification' AND ColumnName='Fuel Oil #2'
+[04:42:01.596691 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Heat Recovery' AND ColumnName='Fuel Oil #2'
+[04:42:01.598241 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Water Systems' AND ColumnName='Fuel Oil #2'
+[04:42:01.599639 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Refrigeration' AND ColumnName='Fuel Oil #2'
+[04:42:01.601087 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Generators' AND ColumnName='Fuel Oil #2'
+[04:42:01.647365 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Heating' AND ColumnName='Steam'
+[04:42:01.653333 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Cooling' AND ColumnName='Steam'
+[04:42:01.658676 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Interior Lighting' AND ColumnName='Steam'
+[04:42:01.663453 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Exterior Lighting' AND ColumnName='Steam'
+[04:42:01.668179 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Interior Equipment' AND ColumnName='Steam'
+[04:42:01.673399 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Exterior Equipment' AND ColumnName='Steam'
+[04:42:01.678836 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Fans' AND ColumnName='Steam'
+[04:42:01.684366 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Pumps' AND ColumnName='Steam'
+[04:42:01.688892 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Heat Rejection' AND ColumnName='Steam'
+[04:42:01.692362 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Humidification' AND ColumnName='Steam'
+[04:42:01.696380 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Heat Recovery' AND ColumnName='Steam'
+[04:42:01.700329 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Water Systems' AND ColumnName='Steam'
+[04:42:01.704314 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Refrigeration' AND ColumnName='Steam'
+[04:42:01.708283 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Generators' AND ColumnName='Steam'
+[04:42:01.709277 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses By Subcategory' AND RowName='Exterior Equipment:Electric Vehicles' AND ColumnName='Electricity'
+[04:42:01.710832 WARN] Query failed for Economics Results Summary Report and TableName='Annual Cost' AND RowName='Cost' AND ColumnName='Total'
+[04:42:01.711763 WARN] Query failed for Economics Results Summary Report and TableName='Annual Cost' AND RowName='Cost' AND ColumnName='Electric'
+[04:42:01.712701 WARN] Query failed for Economics Results Summary Report and TableName='Annual Cost' AND RowName='Cost' AND ColumnName='Natural Gas'

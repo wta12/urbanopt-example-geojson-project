@@ -1,0 +1,13 @@
+Checking system.....
+...Python >= 3.7 found (Python 3.7.3)
+...pip found
+System check done.
+Checking for urbanopt-ditto-reader...
+...path: /Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-ditto-reader
+...Found urbanopt-ditto-reader version 0.3.9
+urbanopt-ditto-reader check done. 
+
+ditto_reader_cli run-opendss --config /Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-example-geojson-project/UCI_MultiFamily_test/opendss/opendss_config.json
+CONFIGS used: {'urbanopt_scenario_file': '/Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-example-geojson-project/UCI_MultiFamily_test/baseline_scenario_res_test.csv', 'equipment_file': '/Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-example-geojson-project/UCI_MultiFamily_test/opendss/electrical_database.json', 'opendss_folder': '/Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-example-geojson-project/UCI_MultiFamily_test/run/baseline_scenario_res_test/opendss', 'urbanopt_geojson_file': '/Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-example-geojson-project/UCI_MultiFamily_test/OV_Buildings_Update_090420_res_multi_test.json', 'use_reopt': False, 'start_time': '2017/01/15 01:00:00', 'end_time': '2017/01/16 01:00:00', 'timestep': 120}
+
+FeatureFile is missing components. Are all electrical features included?

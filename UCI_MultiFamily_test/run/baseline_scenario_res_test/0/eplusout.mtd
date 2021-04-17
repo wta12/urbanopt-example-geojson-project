@@ -1,0 +1,2220 @@
+
+ Meters for 11,EXTERIOR LIGHTING:Exterior Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=ExteriorLights:Electricity [J]
+  OnMeter=exterior lighting:ExteriorLights:Electricity [J]
+
+ Meters for 48,UNIT 2 EXTERIOR LIGHTING:Exterior Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=ExteriorLights:Electricity [J]
+  OnMeter=exterior lighting:ExteriorLights:Electricity [J]
+
+ Meters for 49,UNIT 3 EXTERIOR LIGHTING:Exterior Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=ExteriorLights:Electricity [J]
+  OnMeter=exterior lighting:ExteriorLights:Electricity [J]
+
+ Meters for 53,INTERIOR LIGHTING:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LIVING SPACE [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:LIVING SPACE [J]
+  OnMeter=interior lighting:InteriorLights:Electricity [J]
+
+ Meters for 114,UNIT 2 INTERIOR LIGHTING:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=interior lighting:InteriorLights:Electricity [J]
+
+ Meters for 139,UNIT 3 INTERIOR LIGHTING:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=interior lighting:InteriorLights:Electricity [J]
+
+ Meters for 164,CEILING FAN:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:LIVING SPACE [J]
+  OnMeter=ceiling fan:InteriorEquipment:Electricity [J]
+
+ Meters for 201,CLOTHES DRYER:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:LIVING SPACE [J]
+  OnMeter=clothes dryer:InteriorEquipment:Electricity [J]
+
+ Meters for 214,CLOTHES WASHER:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:LIVING SPACE [J]
+  OnMeter=clothes washer:InteriorEquipment:Electricity [J]
+
+ Meters for 227,COOKING RANGE:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:LIVING SPACE [J]
+  OnMeter=cooking range:InteriorEquipment:Electricity [J]
+
+ Meters for 240,DISHWASHER:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:LIVING SPACE [J]
+  OnMeter=dishwasher:InteriorEquipment:Electricity [J]
+
+ Meters for 253,FREEZER:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:LIVING SPACE [J]
+  OnMeter=freezer:InteriorEquipment:Electricity [J]
+
+ Meters for 266,FRIDGE:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:LIVING SPACE [J]
+  OnMeter=fridge:InteriorEquipment:Electricity [J]
+
+ Meters for 279,FRIDGE 1:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:LIVING SPACE [J]
+  OnMeter=fridge:InteriorEquipment:Electricity [J]
+
+ Meters for 280,MECH VENT BATH FAN 0:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:LIVING SPACE [J]
+  OnMeter=mech vent:InteriorEquipment:Electricity [J]
+
+ Meters for 293,MECH VENT HOUSE FAN:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:LIVING SPACE [J]
+  OnMeter=mech vent:InteriorEquipment:Electricity [J]
+
+ Meters for 294,MECH VENT HOUSE FAN CFIS:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:LIVING SPACE [J]
+  OnMeter=mech vent:InteriorEquipment:Electricity [J]
+
+ Meters for 295,MECH VENT RANGE FAN 0:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:LIVING SPACE [J]
+  OnMeter=mech vent:InteriorEquipment:Electricity [J]
+
+ Meters for 296,MISC PLUG LOADS:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:LIVING SPACE [J]
+  OnMeter=misc plug loads:InteriorEquipment:Electricity [J]
+
+ Meters for 309,MISC TV:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:LIVING SPACE [J]
+  OnMeter=misc tv:InteriorEquipment:Electricity [J]
+
+ Meters for 322,WHOLE HOUSE FAN:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:LIVING SPACE [J]
+  OnMeter=whole house fan:InteriorEquipment:Electricity [J]
+
+ Meters for 335,UNIT 2 CEILING FAN:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=ceiling fan:InteriorEquipment:Electricity [J]
+
+ Meters for 348,UNIT 2 CLOTHES DRYER:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=clothes dryer:InteriorEquipment:Electricity [J]
+
+ Meters for 349,UNIT 2 CLOTHES WASHER:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=clothes washer:InteriorEquipment:Electricity [J]
+
+ Meters for 350,UNIT 2 COOKING RANGE:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=cooking range:InteriorEquipment:Electricity [J]
+
+ Meters for 351,UNIT 2 DISHWASHER:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=dishwasher:InteriorEquipment:Electricity [J]
+
+ Meters for 352,UNIT 2 FREEZER:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=freezer:InteriorEquipment:Electricity [J]
+
+ Meters for 353,UNIT 2 FRIDGE:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=fridge:InteriorEquipment:Electricity [J]
+
+ Meters for 354,UNIT 2 FRIDGE 1:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=fridge:InteriorEquipment:Electricity [J]
+
+ Meters for 355,UNIT 2 MECH VENT BATH FAN 0:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=mech vent:InteriorEquipment:Electricity [J]
+
+ Meters for 356,UNIT 2 MECH VENT HOUSE FAN:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=mech vent:InteriorEquipment:Electricity [J]
+
+ Meters for 357,UNIT 2 MECH VENT HOUSE FAN CFIS:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=mech vent:InteriorEquipment:Electricity [J]
+
+ Meters for 358,UNIT 2 MECH VENT RANGE FAN 0:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=mech vent:InteriorEquipment:Electricity [J]
+
+ Meters for 359,UNIT 2 MISC PLUG LOADS:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=misc plug loads:InteriorEquipment:Electricity [J]
+
+ Meters for 360,UNIT 2 MISC TV:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=misc tv:InteriorEquipment:Electricity [J]
+
+ Meters for 361,UNIT 2 WHOLE HOUSE FAN:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=whole house fan:InteriorEquipment:Electricity [J]
+
+ Meters for 362,UNIT 3 CEILING FAN:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=ceiling fan:InteriorEquipment:Electricity [J]
+
+ Meters for 375,UNIT 3 CLOTHES DRYER:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=clothes dryer:InteriorEquipment:Electricity [J]
+
+ Meters for 376,UNIT 3 CLOTHES WASHER:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=clothes washer:InteriorEquipment:Electricity [J]
+
+ Meters for 377,UNIT 3 COOKING RANGE:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=cooking range:InteriorEquipment:Electricity [J]
+
+ Meters for 378,UNIT 3 DISHWASHER:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=dishwasher:InteriorEquipment:Electricity [J]
+
+ Meters for 379,UNIT 3 FREEZER:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=freezer:InteriorEquipment:Electricity [J]
+
+ Meters for 380,UNIT 3 FRIDGE:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=fridge:InteriorEquipment:Electricity [J]
+
+ Meters for 381,UNIT 3 FRIDGE 1:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=fridge:InteriorEquipment:Electricity [J]
+
+ Meters for 382,UNIT 3 MECH VENT BATH FAN 0:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=mech vent:InteriorEquipment:Electricity [J]
+
+ Meters for 383,UNIT 3 MECH VENT HOUSE FAN:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=mech vent:InteriorEquipment:Electricity [J]
+
+ Meters for 384,UNIT 3 MECH VENT HOUSE FAN CFIS:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=mech vent:InteriorEquipment:Electricity [J]
+
+ Meters for 385,UNIT 3 MECH VENT RANGE FAN 0:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=mech vent:InteriorEquipment:Electricity [J]
+
+ Meters for 386,UNIT 3 MISC PLUG LOADS:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=misc plug loads:InteriorEquipment:Electricity [J]
+
+ Meters for 387,UNIT 3 MISC TV:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=misc tv:InteriorEquipment:Electricity [J]
+
+ Meters for 388,UNIT 3 WHOLE HOUSE FAN:Electric Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=whole house fan:InteriorEquipment:Electricity [J]
+
+ Meters for 389,CLOTHES DRYER 1:Other Equipment NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:Building [J]
+  OnMeter=NaturalGas:Zone:LIVING SPACE [J]
+  OnMeter=InteriorEquipment:NaturalGas [J]
+  OnMeter=InteriorEquipment:NaturalGas:Zone:LIVING SPACE [J]
+  OnMeter=clothes dryer:InteriorEquipment:NaturalGas [J]
+
+ Meters for 462,COOKING RANGE 1:Other Equipment NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:Building [J]
+  OnMeter=NaturalGas:Zone:LIVING SPACE [J]
+  OnMeter=InteriorEquipment:NaturalGas [J]
+  OnMeter=InteriorEquipment:NaturalGas:Zone:LIVING SPACE [J]
+  OnMeter=cooking range:InteriorEquipment:NaturalGas [J]
+
+ Meters for 475,WATER HEATER EC ADJUSTMENT:Other Equipment NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:Building [J]
+  OnMeter=NaturalGas:Zone:LIVING SPACE [J]
+  OnMeter=InteriorEquipment:NaturalGas [J]
+  OnMeter=InteriorEquipment:NaturalGas:Zone:LIVING SPACE [J]
+  OnMeter=water heater EC adjustment:InteriorEquipment:NaturalGas [J]
+
+ Meters for 488,UNIT 2 CLOTHES DRYER 1:Other Equipment NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:Building [J]
+  OnMeter=NaturalGas:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:NaturalGas [J]
+  OnMeter=InteriorEquipment:NaturalGas:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=clothes dryer:InteriorEquipment:NaturalGas [J]
+
+ Meters for 513,UNIT 2 COOKING RANGE 1:Other Equipment NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:Building [J]
+  OnMeter=NaturalGas:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:NaturalGas [J]
+  OnMeter=InteriorEquipment:NaturalGas:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=cooking range:InteriorEquipment:NaturalGas [J]
+
+ Meters for 514,UNIT 2 WATER HEATER EC ADJUSTMENT:Other Equipment NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:Building [J]
+  OnMeter=NaturalGas:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:NaturalGas [J]
+  OnMeter=InteriorEquipment:NaturalGas:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=water heater EC adjustment:InteriorEquipment:NaturalGas [J]
+
+ Meters for 515,UNIT 3 CLOTHES DRYER 1:Other Equipment NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:Building [J]
+  OnMeter=NaturalGas:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:NaturalGas [J]
+  OnMeter=InteriorEquipment:NaturalGas:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=clothes dryer:InteriorEquipment:NaturalGas [J]
+
+ Meters for 540,UNIT 3 COOKING RANGE 1:Other Equipment NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:Building [J]
+  OnMeter=NaturalGas:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:NaturalGas [J]
+  OnMeter=InteriorEquipment:NaturalGas:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=cooking range:InteriorEquipment:NaturalGas [J]
+
+ Meters for 541,UNIT 3 WATER HEATER EC ADJUSTMENT:Other Equipment NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:Building [J]
+  OnMeter=NaturalGas:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=InteriorEquipment:NaturalGas [J]
+  OnMeter=InteriorEquipment:NaturalGas:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=water heater EC adjustment:InteriorEquipment:NaturalGas [J]
+
+ Meters for 551,CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 624,CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 663,LIVING SPACE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:LIVING SPACE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:LIVING SPACE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 688,LIVING SPACE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:LIVING SPACE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:LIVING SPACE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 704,UNIT 2 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:UNIT 2 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:UNIT 2 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 729,UNIT 2 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:UNIT 2 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:UNIT 2 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 744,UNIT 2 LIVING SPACE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 769,UNIT 2 LIVING SPACE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:UNIT 2 LIVING SPACE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 785,UNIT 3 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:UNIT 3 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:UNIT 3 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 810,UNIT 3 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:UNIT 3 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:UNIT 3 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 825,UNIT 3 LIVING SPACE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+
+ Meters for 850,UNIT 3 LIVING SPACE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:UNIT 3 LIVING SPACE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+
+ Meters for 866,IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+  OnMeter=General:Heating:DistrictHeating [J]
+
+ Meters for 915,IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+  OnMeter=General:Cooling:DistrictCooling [J]
+
+ Meters for 964,UNIT 2 IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+  OnMeter=General:Heating:DistrictHeating [J]
+
+ Meters for 965,UNIT 2 IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+  OnMeter=General:Cooling:DistrictCooling [J]
+
+ Meters for 966,UNIT 3 IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+  OnMeter=General:Heating:DistrictHeating [J]
+
+ Meters for 967,UNIT 3 IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+  OnMeter=General:Cooling:DistrictCooling [J]
+
+ Meters for 968,CENTRAL AC AND FURNACE SUPPLY FAN:Fan Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=supply fan:Fans:Electricity [J]
+
+ Meters for 1005,UNIT 2 CENTRAL AC AND FURNACE SUPPLY FAN:Fan Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=supply fan:Fans:Electricity [J]
+
+ Meters for 1006,UNIT 3 CENTRAL AC AND FURNACE SUPPLY FAN:Fan Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=supply fan:Fans:Electricity [J]
+
+ Meters for 1010,CENTRAL AC AND FURNACE HTG COIL:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1037,CENTRAL AC AND FURNACE HTG COIL:Heating Coil NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:HVAC [J]
+  OnMeter=Heating:NaturalGas [J]
+  OnMeter=General:Heating:NaturalGas [J]
+
+ Meters for 1074,CENTRAL AC AND FURNACE HTG COIL:Heating Coil Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 1099,CENTRAL AC AND FURNACE HTG COIL:Heating Coil Ancillary NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:HVAC [J]
+  OnMeter=Heating:NaturalGas [J]
+  OnMeter=General:Heating:NaturalGas [J]
+
+ Meters for 1100,UNIT 2 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1103,UNIT 2 CENTRAL AC AND FURNACE HTG COIL:Heating Coil NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:HVAC [J]
+  OnMeter=Heating:NaturalGas [J]
+  OnMeter=General:Heating:NaturalGas [J]
+
+ Meters for 1104,UNIT 2 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 1105,UNIT 2 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Ancillary NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:HVAC [J]
+  OnMeter=Heating:NaturalGas [J]
+  OnMeter=General:Heating:NaturalGas [J]
+
+ Meters for 1106,UNIT 3 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 1109,UNIT 3 CENTRAL AC AND FURNACE HTG COIL:Heating Coil NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:HVAC [J]
+  OnMeter=Heating:NaturalGas [J]
+  OnMeter=General:Heating:NaturalGas [J]
+
+ Meters for 1110,UNIT 3 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 1111,UNIT 3 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Ancillary NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:HVAC [J]
+  OnMeter=Heating:NaturalGas [J]
+  OnMeter=General:Heating:NaturalGas [J]
+
+ Meters for 1113,CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 1126,CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+  OnMeter=General:Cooling:Electricity [J]
+
+ Meters for 1152,UNIT 2 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 1153,UNIT 2 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+  OnMeter=General:Cooling:Electricity [J]
+
+ Meters for 1155,UNIT 3 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 1156,UNIT 3 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+  OnMeter=General:Cooling:Electricity [J]
+
+ Meters for 1157,CENTRAL AC AND FURNACE UNITARY SYSTEM:Unitary System Heating Ancillary Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 1158,UNIT 2 CENTRAL AC AND FURNACE UNITARY SYSTEM:Unitary System Heating Ancillary Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 1159,UNIT 3 CENTRAL AC AND FURNACE UNITARY SYSTEM:Unitary System Heating Ancillary Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=General:Heating:Electricity [J]
+
+ Meters for 1160,Whole Building:Facility Total Purchased Electricity Energy [J]
+  OnMeter=ElectricityPurchased:Facility [J]
+  OnMeter=ElectricityPurchased:Plant [J]
+  OnMeter=Cogeneration:ElectricityPurchased [J]
+  OnMeter=General:Cogeneration:ElectricityPurchased [J]
+
+ Meters for 1209,Whole Building:Facility Total Surplus Electricity Energy [J]
+  OnMeter=ElectricitySurplusSold:Facility [J]
+  OnMeter=ElectricitySurplusSold:Plant [J]
+  OnMeter=Cogeneration:ElectricitySurplusSold [J]
+  OnMeter=General:Cogeneration:ElectricitySurplusSold [J]
+
+ Meters for 1258,Whole Building:Facility Net Purchased Electricity Energy [J]
+  OnMeter=ElectricityNet:Facility [J]
+  OnMeter=ElectricityNet:Plant [J]
+  OnMeter=Cogeneration:ElectricityNet [J]
+  OnMeter=General:Cogeneration:ElectricityNet [J]
+
+ Meters for 1307,PUMP VARIABLE SPEED 1:Pump Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Pumps:Electricity [J]
+  OnMeter=General:Pumps:Electricity [J]
+
+ Meters for 1344,UNIT 2 PUMP VARIABLE SPEED 1:Pump Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Pumps:Electricity [J]
+  OnMeter=General:Pumps:Electricity [J]
+
+ Meters for 1345,UNIT 3 PUMP VARIABLE SPEED 1:Pump Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Pumps:Electricity [J]
+  OnMeter=General:Pumps:Electricity [J]
+
+ Meters for 1346,DHW FIXTURES:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=dhw fixtures:WaterSystems:Water [m3]
+
+ Meters for 1395,DHW FIXTURES:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=dhw fixtures:WaterSystems:MainsWater [m3]
+
+ Meters for 1444,DHW FIXTURES:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=dhw fixtures:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1481,DHW DISTRIBUTION WASTE:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=dhw distribution waste:WaterSystems:Water [m3]
+
+ Meters for 1494,DHW DISTRIBUTION WASTE:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=dhw distribution waste:WaterSystems:MainsWater [m3]
+
+ Meters for 1507,DHW DISTRIBUTION WASTE:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=dhw distribution waste:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1520,CLOTHES WASHER:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=clothes washer:WaterSystems:Water [m3]
+
+ Meters for 1533,CLOTHES WASHER:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=clothes washer:WaterSystems:MainsWater [m3]
+
+ Meters for 1546,CLOTHES WASHER:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=clothes washer:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1559,DISHWASHER:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=dishwasher:WaterSystems:Water [m3]
+
+ Meters for 1572,DISHWASHER:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=dishwasher:WaterSystems:MainsWater [m3]
+
+ Meters for 1585,DISHWASHER:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=dishwasher:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1598,UNIT 2 DHW FIXTURES:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=dhw fixtures:WaterSystems:Water [m3]
+
+ Meters for 1599,UNIT 2 DHW FIXTURES:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=dhw fixtures:WaterSystems:MainsWater [m3]
+
+ Meters for 1600,UNIT 2 DHW FIXTURES:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=dhw fixtures:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1601,UNIT 2 DHW DISTRIBUTION WASTE:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=dhw distribution waste:WaterSystems:Water [m3]
+
+ Meters for 1602,UNIT 2 DHW DISTRIBUTION WASTE:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=dhw distribution waste:WaterSystems:MainsWater [m3]
+
+ Meters for 1603,UNIT 2 DHW DISTRIBUTION WASTE:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=dhw distribution waste:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1604,UNIT 2 CLOTHES WASHER:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=clothes washer:WaterSystems:Water [m3]
+
+ Meters for 1605,UNIT 2 CLOTHES WASHER:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=clothes washer:WaterSystems:MainsWater [m3]
+
+ Meters for 1606,UNIT 2 CLOTHES WASHER:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=clothes washer:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1607,UNIT 2 DISHWASHER:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=dishwasher:WaterSystems:Water [m3]
+
+ Meters for 1608,UNIT 2 DISHWASHER:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=dishwasher:WaterSystems:MainsWater [m3]
+
+ Meters for 1609,UNIT 2 DISHWASHER:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=dishwasher:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1610,UNIT 3 DHW FIXTURES:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=dhw fixtures:WaterSystems:Water [m3]
+
+ Meters for 1611,UNIT 3 DHW FIXTURES:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=dhw fixtures:WaterSystems:MainsWater [m3]
+
+ Meters for 1612,UNIT 3 DHW FIXTURES:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=dhw fixtures:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1613,UNIT 3 DHW DISTRIBUTION WASTE:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=dhw distribution waste:WaterSystems:Water [m3]
+
+ Meters for 1614,UNIT 3 DHW DISTRIBUTION WASTE:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=dhw distribution waste:WaterSystems:MainsWater [m3]
+
+ Meters for 1615,UNIT 3 DHW DISTRIBUTION WASTE:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=dhw distribution waste:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1616,UNIT 3 CLOTHES WASHER:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=clothes washer:WaterSystems:Water [m3]
+
+ Meters for 1617,UNIT 3 CLOTHES WASHER:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=clothes washer:WaterSystems:MainsWater [m3]
+
+ Meters for 1618,UNIT 3 CLOTHES WASHER:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=clothes washer:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1619,UNIT 3 DISHWASHER:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=dishwasher:WaterSystems:Water [m3]
+
+ Meters for 1620,UNIT 3 DISHWASHER:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=dishwasher:WaterSystems:MainsWater [m3]
+
+ Meters for 1621,UNIT 3 DISHWASHER:Water Use Equipment Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=WaterSystems:EnergyTransfer [J]
+  OnMeter=dishwasher:WaterSystems:EnergyTransfer [J]
+
+ Meters for 1622,WATER USE CONNECTIONS 1:Water Use Connections Plant Hot Water Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+  OnMeter=General:WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 1671,UNIT 2 WATER USE CONNECTIONS 1:Water Use Connections Plant Hot Water Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+  OnMeter=General:WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 1672,UNIT 3 WATER USE CONNECTIONS 1:Water Use Connections Plant Hot Water Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+  OnMeter=General:WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 1673,WATER HEATER:Water Heater Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+  OnMeter=General:WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 1675,WATER HEATER:Water Heater NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:Plant [J]
+  OnMeter=WaterSystems:NaturalGas [J]
+  OnMeter=General:WaterSystems:NaturalGas [J]
+
+ Meters for 1713,WATER HEATER:Water Heater Off Cycle Parasitic Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 1739,WATER HEATER:Water Heater On Cycle Parasitic Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 1740,WATER HEATER:Water Heater Water Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=General:WaterSystems:Water [m3]
+
+ Meters for 1753,WATER HEATER:Water Heater Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=General:WaterSystems:MainsWater [m3]
+
+ Meters for 1766,UNIT 2 WATER HEATER:Water Heater Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+  OnMeter=General:WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 1768,UNIT 2 WATER HEATER:Water Heater NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:Plant [J]
+  OnMeter=WaterSystems:NaturalGas [J]
+  OnMeter=General:WaterSystems:NaturalGas [J]
+
+ Meters for 1770,UNIT 2 WATER HEATER:Water Heater Off Cycle Parasitic Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 1772,UNIT 2 WATER HEATER:Water Heater On Cycle Parasitic Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 1773,UNIT 2 WATER HEATER:Water Heater Water Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=General:WaterSystems:Water [m3]
+
+ Meters for 1774,UNIT 2 WATER HEATER:Water Heater Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=General:WaterSystems:MainsWater [m3]
+
+ Meters for 1775,UNIT 3 WATER HEATER:Water Heater Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:Plant [J]
+  OnMeter=WaterSystems:PlantLoopHeatingDemand [J]
+  OnMeter=General:WaterSystems:PlantLoopHeatingDemand [J]
+
+ Meters for 1777,UNIT 3 WATER HEATER:Water Heater NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:Plant [J]
+  OnMeter=WaterSystems:NaturalGas [J]
+  OnMeter=General:WaterSystems:NaturalGas [J]
+
+ Meters for 1779,UNIT 3 WATER HEATER:Water Heater Off Cycle Parasitic Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 1781,UNIT 3 WATER HEATER:Water Heater On Cycle Parasitic Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=WaterSystems:Electricity [J]
+  OnMeter=General:WaterSystems:Electricity [J]
+
+ Meters for 1782,UNIT 3 WATER HEATER:Water Heater Water Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=General:WaterSystems:Water [m3]
+
+ Meters for 1783,UNIT 3 WATER HEATER:Water Heater Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=General:WaterSystems:MainsWater [m3]
+
+ Meters for 1784,CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Crankcase Heater Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+  OnMeter=General:Cooling:Electricity [J]
+
+ Meters for 1785,UNIT 2 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Crankcase Heater Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+  OnMeter=General:Cooling:Electricity [J]
+
+ Meters for 1786,UNIT 3 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Crankcase Heater Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Cooling:Electricity [J]
+  OnMeter=General:Cooling:Electricity [J]
+
+ Meters for 1826,Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 1851,Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 1852,Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ For Meter=Electricity:Facility [J], ResourceType=Electricity, contents are:
+  EXTERIOR LIGHTING:Exterior Lights Electricity Energy
+  UNIT 2 EXTERIOR LIGHTING:Exterior Lights Electricity Energy
+  UNIT 3 EXTERIOR LIGHTING:Exterior Lights Electricity Energy
+  INTERIOR LIGHTING:Lights Electricity Energy
+  UNIT 2 INTERIOR LIGHTING:Lights Electricity Energy
+  UNIT 3 INTERIOR LIGHTING:Lights Electricity Energy
+  CEILING FAN:Electric Equipment Electricity Energy
+  CLOTHES DRYER:Electric Equipment Electricity Energy
+  CLOTHES WASHER:Electric Equipment Electricity Energy
+  COOKING RANGE:Electric Equipment Electricity Energy
+  DISHWASHER:Electric Equipment Electricity Energy
+  FREEZER:Electric Equipment Electricity Energy
+  FRIDGE:Electric Equipment Electricity Energy
+  FRIDGE 1:Electric Equipment Electricity Energy
+  MECH VENT BATH FAN 0:Electric Equipment Electricity Energy
+  MECH VENT HOUSE FAN:Electric Equipment Electricity Energy
+  MECH VENT HOUSE FAN CFIS:Electric Equipment Electricity Energy
+  MECH VENT RANGE FAN 0:Electric Equipment Electricity Energy
+  MISC PLUG LOADS:Electric Equipment Electricity Energy
+  MISC TV:Electric Equipment Electricity Energy
+  WHOLE HOUSE FAN:Electric Equipment Electricity Energy
+  UNIT 2 CEILING FAN:Electric Equipment Electricity Energy
+  UNIT 2 CLOTHES DRYER:Electric Equipment Electricity Energy
+  UNIT 2 CLOTHES WASHER:Electric Equipment Electricity Energy
+  UNIT 2 COOKING RANGE:Electric Equipment Electricity Energy
+  UNIT 2 DISHWASHER:Electric Equipment Electricity Energy
+  UNIT 2 FREEZER:Electric Equipment Electricity Energy
+  UNIT 2 FRIDGE:Electric Equipment Electricity Energy
+  UNIT 2 FRIDGE 1:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT BATH FAN 0:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT HOUSE FAN:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT HOUSE FAN CFIS:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT RANGE FAN 0:Electric Equipment Electricity Energy
+  UNIT 2 MISC PLUG LOADS:Electric Equipment Electricity Energy
+  UNIT 2 MISC TV:Electric Equipment Electricity Energy
+  UNIT 2 WHOLE HOUSE FAN:Electric Equipment Electricity Energy
+  UNIT 3 CEILING FAN:Electric Equipment Electricity Energy
+  UNIT 3 CLOTHES DRYER:Electric Equipment Electricity Energy
+  UNIT 3 CLOTHES WASHER:Electric Equipment Electricity Energy
+  UNIT 3 COOKING RANGE:Electric Equipment Electricity Energy
+  UNIT 3 DISHWASHER:Electric Equipment Electricity Energy
+  UNIT 3 FREEZER:Electric Equipment Electricity Energy
+  UNIT 3 FRIDGE:Electric Equipment Electricity Energy
+  UNIT 3 FRIDGE 1:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT BATH FAN 0:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT HOUSE FAN:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT HOUSE FAN CFIS:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT RANGE FAN 0:Electric Equipment Electricity Energy
+  UNIT 3 MISC PLUG LOADS:Electric Equipment Electricity Energy
+  UNIT 3 MISC TV:Electric Equipment Electricity Energy
+  UNIT 3 WHOLE HOUSE FAN:Electric Equipment Electricity Energy
+  CENTRAL AC AND FURNACE SUPPLY FAN:Fan Electricity Energy
+  UNIT 2 CENTRAL AC AND FURNACE SUPPLY FAN:Fan Electricity Energy
+  UNIT 3 CENTRAL AC AND FURNACE SUPPLY FAN:Fan Electricity Energy
+  CENTRAL AC AND FURNACE HTG COIL:Heating Coil Electricity Energy
+  UNIT 2 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Electricity Energy
+  UNIT 3 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Electricity Energy
+  CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Electricity Energy
+  UNIT 2 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Electricity Energy
+  UNIT 3 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Electricity Energy
+  CENTRAL AC AND FURNACE UNITARY SYSTEM:Unitary System Heating Ancillary Electricity Energy
+  UNIT 2 CENTRAL AC AND FURNACE UNITARY SYSTEM:Unitary System Heating Ancillary Electricity Energy
+  UNIT 3 CENTRAL AC AND FURNACE UNITARY SYSTEM:Unitary System Heating Ancillary Electricity Energy
+  PUMP VARIABLE SPEED 1:Pump Electricity Energy
+  UNIT 2 PUMP VARIABLE SPEED 1:Pump Electricity Energy
+  UNIT 3 PUMP VARIABLE SPEED 1:Pump Electricity Energy
+  WATER HEATER:Water Heater Off Cycle Parasitic Electricity Energy
+  WATER HEATER:Water Heater On Cycle Parasitic Electricity Energy
+  UNIT 2 WATER HEATER:Water Heater Off Cycle Parasitic Electricity Energy
+  UNIT 2 WATER HEATER:Water Heater On Cycle Parasitic Electricity Energy
+  UNIT 3 WATER HEATER:Water Heater Off Cycle Parasitic Electricity Energy
+  UNIT 3 WATER HEATER:Water Heater On Cycle Parasitic Electricity Energy
+  CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Crankcase Heater Electricity Energy
+  UNIT 2 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Crankcase Heater Electricity Energy
+  UNIT 3 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Crankcase Heater Electricity Energy
+
+ For Meter=ExteriorLights:Electricity [J], ResourceType=Electricity, EndUse=ExteriorLights, contents are:
+  EXTERIOR LIGHTING:Exterior Lights Electricity Energy
+  UNIT 2 EXTERIOR LIGHTING:Exterior Lights Electricity Energy
+  UNIT 3 EXTERIOR LIGHTING:Exterior Lights Electricity Energy
+
+ For Meter=exterior lighting:ExteriorLights:Electricity [J], ResourceType=Electricity, EndUse=ExteriorLights, contents are:
+  EXTERIOR LIGHTING:Exterior Lights Electricity Energy
+  UNIT 2 EXTERIOR LIGHTING:Exterior Lights Electricity Energy
+  UNIT 3 EXTERIOR LIGHTING:Exterior Lights Electricity Energy
+
+ For Meter=Electricity:Building [J], ResourceType=Electricity, Group=Building, contents are:
+  INTERIOR LIGHTING:Lights Electricity Energy
+  UNIT 2 INTERIOR LIGHTING:Lights Electricity Energy
+  UNIT 3 INTERIOR LIGHTING:Lights Electricity Energy
+  CEILING FAN:Electric Equipment Electricity Energy
+  CLOTHES DRYER:Electric Equipment Electricity Energy
+  CLOTHES WASHER:Electric Equipment Electricity Energy
+  COOKING RANGE:Electric Equipment Electricity Energy
+  DISHWASHER:Electric Equipment Electricity Energy
+  FREEZER:Electric Equipment Electricity Energy
+  FRIDGE:Electric Equipment Electricity Energy
+  FRIDGE 1:Electric Equipment Electricity Energy
+  MECH VENT BATH FAN 0:Electric Equipment Electricity Energy
+  MECH VENT HOUSE FAN:Electric Equipment Electricity Energy
+  MECH VENT HOUSE FAN CFIS:Electric Equipment Electricity Energy
+  MECH VENT RANGE FAN 0:Electric Equipment Electricity Energy
+  MISC PLUG LOADS:Electric Equipment Electricity Energy
+  MISC TV:Electric Equipment Electricity Energy
+  WHOLE HOUSE FAN:Electric Equipment Electricity Energy
+  UNIT 2 CEILING FAN:Electric Equipment Electricity Energy
+  UNIT 2 CLOTHES DRYER:Electric Equipment Electricity Energy
+  UNIT 2 CLOTHES WASHER:Electric Equipment Electricity Energy
+  UNIT 2 COOKING RANGE:Electric Equipment Electricity Energy
+  UNIT 2 DISHWASHER:Electric Equipment Electricity Energy
+  UNIT 2 FREEZER:Electric Equipment Electricity Energy
+  UNIT 2 FRIDGE:Electric Equipment Electricity Energy
+  UNIT 2 FRIDGE 1:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT BATH FAN 0:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT HOUSE FAN:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT HOUSE FAN CFIS:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT RANGE FAN 0:Electric Equipment Electricity Energy
+  UNIT 2 MISC PLUG LOADS:Electric Equipment Electricity Energy
+  UNIT 2 MISC TV:Electric Equipment Electricity Energy
+  UNIT 2 WHOLE HOUSE FAN:Electric Equipment Electricity Energy
+  UNIT 3 CEILING FAN:Electric Equipment Electricity Energy
+  UNIT 3 CLOTHES DRYER:Electric Equipment Electricity Energy
+  UNIT 3 CLOTHES WASHER:Electric Equipment Electricity Energy
+  UNIT 3 COOKING RANGE:Electric Equipment Electricity Energy
+  UNIT 3 DISHWASHER:Electric Equipment Electricity Energy
+  UNIT 3 FREEZER:Electric Equipment Electricity Energy
+  UNIT 3 FRIDGE:Electric Equipment Electricity Energy
+  UNIT 3 FRIDGE 1:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT BATH FAN 0:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT HOUSE FAN:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT HOUSE FAN CFIS:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT RANGE FAN 0:Electric Equipment Electricity Energy
+  UNIT 3 MISC PLUG LOADS:Electric Equipment Electricity Energy
+  UNIT 3 MISC TV:Electric Equipment Electricity Energy
+  UNIT 3 WHOLE HOUSE FAN:Electric Equipment Electricity Energy
+
+ For Meter=Electricity:Zone:LIVING SPACE [J], ResourceType=Electricity, Group=Zone, contents are:
+  INTERIOR LIGHTING:Lights Electricity Energy
+  CEILING FAN:Electric Equipment Electricity Energy
+  CLOTHES DRYER:Electric Equipment Electricity Energy
+  CLOTHES WASHER:Electric Equipment Electricity Energy
+  COOKING RANGE:Electric Equipment Electricity Energy
+  DISHWASHER:Electric Equipment Electricity Energy
+  FREEZER:Electric Equipment Electricity Energy
+  FRIDGE:Electric Equipment Electricity Energy
+  FRIDGE 1:Electric Equipment Electricity Energy
+  MECH VENT BATH FAN 0:Electric Equipment Electricity Energy
+  MECH VENT HOUSE FAN:Electric Equipment Electricity Energy
+  MECH VENT HOUSE FAN CFIS:Electric Equipment Electricity Energy
+  MECH VENT RANGE FAN 0:Electric Equipment Electricity Energy
+  MISC PLUG LOADS:Electric Equipment Electricity Energy
+  MISC TV:Electric Equipment Electricity Energy
+  WHOLE HOUSE FAN:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  INTERIOR LIGHTING:Lights Electricity Energy
+  UNIT 2 INTERIOR LIGHTING:Lights Electricity Energy
+  UNIT 3 INTERIOR LIGHTING:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:LIVING SPACE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  INTERIOR LIGHTING:Lights Electricity Energy
+
+ For Meter=interior lighting:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  INTERIOR LIGHTING:Lights Electricity Energy
+  UNIT 2 INTERIOR LIGHTING:Lights Electricity Energy
+  UNIT 3 INTERIOR LIGHTING:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:UNIT 2 LIVING SPACE [J], ResourceType=Electricity, Group=Zone, contents are:
+  UNIT 2 INTERIOR LIGHTING:Lights Electricity Energy
+  UNIT 2 CEILING FAN:Electric Equipment Electricity Energy
+  UNIT 2 CLOTHES DRYER:Electric Equipment Electricity Energy
+  UNIT 2 CLOTHES WASHER:Electric Equipment Electricity Energy
+  UNIT 2 COOKING RANGE:Electric Equipment Electricity Energy
+  UNIT 2 DISHWASHER:Electric Equipment Electricity Energy
+  UNIT 2 FREEZER:Electric Equipment Electricity Energy
+  UNIT 2 FRIDGE:Electric Equipment Electricity Energy
+  UNIT 2 FRIDGE 1:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT BATH FAN 0:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT HOUSE FAN:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT HOUSE FAN CFIS:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT RANGE FAN 0:Electric Equipment Electricity Energy
+  UNIT 2 MISC PLUG LOADS:Electric Equipment Electricity Energy
+  UNIT 2 MISC TV:Electric Equipment Electricity Energy
+  UNIT 2 WHOLE HOUSE FAN:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:UNIT 2 LIVING SPACE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  UNIT 2 INTERIOR LIGHTING:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:UNIT 3 LIVING SPACE [J], ResourceType=Electricity, Group=Zone, contents are:
+  UNIT 3 INTERIOR LIGHTING:Lights Electricity Energy
+  UNIT 3 CEILING FAN:Electric Equipment Electricity Energy
+  UNIT 3 CLOTHES DRYER:Electric Equipment Electricity Energy
+  UNIT 3 CLOTHES WASHER:Electric Equipment Electricity Energy
+  UNIT 3 COOKING RANGE:Electric Equipment Electricity Energy
+  UNIT 3 DISHWASHER:Electric Equipment Electricity Energy
+  UNIT 3 FREEZER:Electric Equipment Electricity Energy
+  UNIT 3 FRIDGE:Electric Equipment Electricity Energy
+  UNIT 3 FRIDGE 1:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT BATH FAN 0:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT HOUSE FAN:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT HOUSE FAN CFIS:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT RANGE FAN 0:Electric Equipment Electricity Energy
+  UNIT 3 MISC PLUG LOADS:Electric Equipment Electricity Energy
+  UNIT 3 MISC TV:Electric Equipment Electricity Energy
+  UNIT 3 WHOLE HOUSE FAN:Electric Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:UNIT 3 LIVING SPACE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  UNIT 3 INTERIOR LIGHTING:Lights Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  CEILING FAN:Electric Equipment Electricity Energy
+  CLOTHES DRYER:Electric Equipment Electricity Energy
+  CLOTHES WASHER:Electric Equipment Electricity Energy
+  COOKING RANGE:Electric Equipment Electricity Energy
+  DISHWASHER:Electric Equipment Electricity Energy
+  FREEZER:Electric Equipment Electricity Energy
+  FRIDGE:Electric Equipment Electricity Energy
+  FRIDGE 1:Electric Equipment Electricity Energy
+  MECH VENT BATH FAN 0:Electric Equipment Electricity Energy
+  MECH VENT HOUSE FAN:Electric Equipment Electricity Energy
+  MECH VENT HOUSE FAN CFIS:Electric Equipment Electricity Energy
+  MECH VENT RANGE FAN 0:Electric Equipment Electricity Energy
+  MISC PLUG LOADS:Electric Equipment Electricity Energy
+  MISC TV:Electric Equipment Electricity Energy
+  WHOLE HOUSE FAN:Electric Equipment Electricity Energy
+  UNIT 2 CEILING FAN:Electric Equipment Electricity Energy
+  UNIT 2 CLOTHES DRYER:Electric Equipment Electricity Energy
+  UNIT 2 CLOTHES WASHER:Electric Equipment Electricity Energy
+  UNIT 2 COOKING RANGE:Electric Equipment Electricity Energy
+  UNIT 2 DISHWASHER:Electric Equipment Electricity Energy
+  UNIT 2 FREEZER:Electric Equipment Electricity Energy
+  UNIT 2 FRIDGE:Electric Equipment Electricity Energy
+  UNIT 2 FRIDGE 1:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT BATH FAN 0:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT HOUSE FAN:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT HOUSE FAN CFIS:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT RANGE FAN 0:Electric Equipment Electricity Energy
+  UNIT 2 MISC PLUG LOADS:Electric Equipment Electricity Energy
+  UNIT 2 MISC TV:Electric Equipment Electricity Energy
+  UNIT 2 WHOLE HOUSE FAN:Electric Equipment Electricity Energy
+  UNIT 3 CEILING FAN:Electric Equipment Electricity Energy
+  UNIT 3 CLOTHES DRYER:Electric Equipment Electricity Energy
+  UNIT 3 CLOTHES WASHER:Electric Equipment Electricity Energy
+  UNIT 3 COOKING RANGE:Electric Equipment Electricity Energy
+  UNIT 3 DISHWASHER:Electric Equipment Electricity Energy
+  UNIT 3 FREEZER:Electric Equipment Electricity Energy
+  UNIT 3 FRIDGE:Electric Equipment Electricity Energy
+  UNIT 3 FRIDGE 1:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT BATH FAN 0:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT HOUSE FAN:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT HOUSE FAN CFIS:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT RANGE FAN 0:Electric Equipment Electricity Energy
+  UNIT 3 MISC PLUG LOADS:Electric Equipment Electricity Energy
+  UNIT 3 MISC TV:Electric Equipment Electricity Energy
+  UNIT 3 WHOLE HOUSE FAN:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:LIVING SPACE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  CEILING FAN:Electric Equipment Electricity Energy
+  CLOTHES DRYER:Electric Equipment Electricity Energy
+  CLOTHES WASHER:Electric Equipment Electricity Energy
+  COOKING RANGE:Electric Equipment Electricity Energy
+  DISHWASHER:Electric Equipment Electricity Energy
+  FREEZER:Electric Equipment Electricity Energy
+  FRIDGE:Electric Equipment Electricity Energy
+  FRIDGE 1:Electric Equipment Electricity Energy
+  MECH VENT BATH FAN 0:Electric Equipment Electricity Energy
+  MECH VENT HOUSE FAN:Electric Equipment Electricity Energy
+  MECH VENT HOUSE FAN CFIS:Electric Equipment Electricity Energy
+  MECH VENT RANGE FAN 0:Electric Equipment Electricity Energy
+  MISC PLUG LOADS:Electric Equipment Electricity Energy
+  MISC TV:Electric Equipment Electricity Energy
+  WHOLE HOUSE FAN:Electric Equipment Electricity Energy
+
+ For Meter=ceiling fan:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  CEILING FAN:Electric Equipment Electricity Energy
+  UNIT 2 CEILING FAN:Electric Equipment Electricity Energy
+  UNIT 3 CEILING FAN:Electric Equipment Electricity Energy
+
+ For Meter=clothes dryer:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  CLOTHES DRYER:Electric Equipment Electricity Energy
+  UNIT 2 CLOTHES DRYER:Electric Equipment Electricity Energy
+  UNIT 3 CLOTHES DRYER:Electric Equipment Electricity Energy
+
+ For Meter=clothes washer:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  CLOTHES WASHER:Electric Equipment Electricity Energy
+  UNIT 2 CLOTHES WASHER:Electric Equipment Electricity Energy
+  UNIT 3 CLOTHES WASHER:Electric Equipment Electricity Energy
+
+ For Meter=cooking range:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  COOKING RANGE:Electric Equipment Electricity Energy
+  UNIT 2 COOKING RANGE:Electric Equipment Electricity Energy
+  UNIT 3 COOKING RANGE:Electric Equipment Electricity Energy
+
+ For Meter=dishwasher:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  DISHWASHER:Electric Equipment Electricity Energy
+  UNIT 2 DISHWASHER:Electric Equipment Electricity Energy
+  UNIT 3 DISHWASHER:Electric Equipment Electricity Energy
+
+ For Meter=freezer:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  FREEZER:Electric Equipment Electricity Energy
+  UNIT 2 FREEZER:Electric Equipment Electricity Energy
+  UNIT 3 FREEZER:Electric Equipment Electricity Energy
+
+ For Meter=fridge:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  FRIDGE:Electric Equipment Electricity Energy
+  FRIDGE 1:Electric Equipment Electricity Energy
+  UNIT 2 FRIDGE:Electric Equipment Electricity Energy
+  UNIT 2 FRIDGE 1:Electric Equipment Electricity Energy
+  UNIT 3 FRIDGE:Electric Equipment Electricity Energy
+  UNIT 3 FRIDGE 1:Electric Equipment Electricity Energy
+
+ For Meter=mech vent:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  MECH VENT BATH FAN 0:Electric Equipment Electricity Energy
+  MECH VENT HOUSE FAN:Electric Equipment Electricity Energy
+  MECH VENT HOUSE FAN CFIS:Electric Equipment Electricity Energy
+  MECH VENT RANGE FAN 0:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT BATH FAN 0:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT HOUSE FAN:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT HOUSE FAN CFIS:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT RANGE FAN 0:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT BATH FAN 0:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT HOUSE FAN:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT HOUSE FAN CFIS:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT RANGE FAN 0:Electric Equipment Electricity Energy
+
+ For Meter=misc plug loads:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  MISC PLUG LOADS:Electric Equipment Electricity Energy
+  UNIT 2 MISC PLUG LOADS:Electric Equipment Electricity Energy
+  UNIT 3 MISC PLUG LOADS:Electric Equipment Electricity Energy
+
+ For Meter=misc tv:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  MISC TV:Electric Equipment Electricity Energy
+  UNIT 2 MISC TV:Electric Equipment Electricity Energy
+  UNIT 3 MISC TV:Electric Equipment Electricity Energy
+
+ For Meter=whole house fan:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  WHOLE HOUSE FAN:Electric Equipment Electricity Energy
+  UNIT 2 WHOLE HOUSE FAN:Electric Equipment Electricity Energy
+  UNIT 3 WHOLE HOUSE FAN:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:UNIT 2 LIVING SPACE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  UNIT 2 CEILING FAN:Electric Equipment Electricity Energy
+  UNIT 2 CLOTHES DRYER:Electric Equipment Electricity Energy
+  UNIT 2 CLOTHES WASHER:Electric Equipment Electricity Energy
+  UNIT 2 COOKING RANGE:Electric Equipment Electricity Energy
+  UNIT 2 DISHWASHER:Electric Equipment Electricity Energy
+  UNIT 2 FREEZER:Electric Equipment Electricity Energy
+  UNIT 2 FRIDGE:Electric Equipment Electricity Energy
+  UNIT 2 FRIDGE 1:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT BATH FAN 0:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT HOUSE FAN:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT HOUSE FAN CFIS:Electric Equipment Electricity Energy
+  UNIT 2 MECH VENT RANGE FAN 0:Electric Equipment Electricity Energy
+  UNIT 2 MISC PLUG LOADS:Electric Equipment Electricity Energy
+  UNIT 2 MISC TV:Electric Equipment Electricity Energy
+  UNIT 2 WHOLE HOUSE FAN:Electric Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:UNIT 3 LIVING SPACE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  UNIT 3 CEILING FAN:Electric Equipment Electricity Energy
+  UNIT 3 CLOTHES DRYER:Electric Equipment Electricity Energy
+  UNIT 3 CLOTHES WASHER:Electric Equipment Electricity Energy
+  UNIT 3 COOKING RANGE:Electric Equipment Electricity Energy
+  UNIT 3 DISHWASHER:Electric Equipment Electricity Energy
+  UNIT 3 FREEZER:Electric Equipment Electricity Energy
+  UNIT 3 FRIDGE:Electric Equipment Electricity Energy
+  UNIT 3 FRIDGE 1:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT BATH FAN 0:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT HOUSE FAN:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT HOUSE FAN CFIS:Electric Equipment Electricity Energy
+  UNIT 3 MECH VENT RANGE FAN 0:Electric Equipment Electricity Energy
+  UNIT 3 MISC PLUG LOADS:Electric Equipment Electricity Energy
+  UNIT 3 MISC TV:Electric Equipment Electricity Energy
+  UNIT 3 WHOLE HOUSE FAN:Electric Equipment Electricity Energy
+
+ For Meter=NaturalGas:Facility [J], ResourceType=NaturalGas, contents are:
+  CLOTHES DRYER 1:Other Equipment NaturalGas Energy
+  COOKING RANGE 1:Other Equipment NaturalGas Energy
+  WATER HEATER EC ADJUSTMENT:Other Equipment NaturalGas Energy
+  UNIT 2 CLOTHES DRYER 1:Other Equipment NaturalGas Energy
+  UNIT 2 COOKING RANGE 1:Other Equipment NaturalGas Energy
+  UNIT 2 WATER HEATER EC ADJUSTMENT:Other Equipment NaturalGas Energy
+  UNIT 3 CLOTHES DRYER 1:Other Equipment NaturalGas Energy
+  UNIT 3 COOKING RANGE 1:Other Equipment NaturalGas Energy
+  UNIT 3 WATER HEATER EC ADJUSTMENT:Other Equipment NaturalGas Energy
+  CENTRAL AC AND FURNACE HTG COIL:Heating Coil NaturalGas Energy
+  CENTRAL AC AND FURNACE HTG COIL:Heating Coil Ancillary NaturalGas Energy
+  UNIT 2 CENTRAL AC AND FURNACE HTG COIL:Heating Coil NaturalGas Energy
+  UNIT 2 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Ancillary NaturalGas Energy
+  UNIT 3 CENTRAL AC AND FURNACE HTG COIL:Heating Coil NaturalGas Energy
+  UNIT 3 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Ancillary NaturalGas Energy
+  WATER HEATER:Water Heater NaturalGas Energy
+  UNIT 2 WATER HEATER:Water Heater NaturalGas Energy
+  UNIT 3 WATER HEATER:Water Heater NaturalGas Energy
+
+ For Meter=NaturalGas:Building [J], ResourceType=NaturalGas, Group=Building, contents are:
+  CLOTHES DRYER 1:Other Equipment NaturalGas Energy
+  COOKING RANGE 1:Other Equipment NaturalGas Energy
+  WATER HEATER EC ADJUSTMENT:Other Equipment NaturalGas Energy
+  UNIT 2 CLOTHES DRYER 1:Other Equipment NaturalGas Energy
+  UNIT 2 COOKING RANGE 1:Other Equipment NaturalGas Energy
+  UNIT 2 WATER HEATER EC ADJUSTMENT:Other Equipment NaturalGas Energy
+  UNIT 3 CLOTHES DRYER 1:Other Equipment NaturalGas Energy
+  UNIT 3 COOKING RANGE 1:Other Equipment NaturalGas Energy
+  UNIT 3 WATER HEATER EC ADJUSTMENT:Other Equipment NaturalGas Energy
+
+ For Meter=NaturalGas:Zone:LIVING SPACE [J], ResourceType=NaturalGas, Group=Zone, contents are:
+  CLOTHES DRYER 1:Other Equipment NaturalGas Energy
+  COOKING RANGE 1:Other Equipment NaturalGas Energy
+  WATER HEATER EC ADJUSTMENT:Other Equipment NaturalGas Energy
+
+ For Meter=InteriorEquipment:NaturalGas [J], ResourceType=NaturalGas, EndUse=InteriorEquipment, contents are:
+  CLOTHES DRYER 1:Other Equipment NaturalGas Energy
+  COOKING RANGE 1:Other Equipment NaturalGas Energy
+  WATER HEATER EC ADJUSTMENT:Other Equipment NaturalGas Energy
+  UNIT 2 CLOTHES DRYER 1:Other Equipment NaturalGas Energy
+  UNIT 2 COOKING RANGE 1:Other Equipment NaturalGas Energy
+  UNIT 2 WATER HEATER EC ADJUSTMENT:Other Equipment NaturalGas Energy
+  UNIT 3 CLOTHES DRYER 1:Other Equipment NaturalGas Energy
+  UNIT 3 COOKING RANGE 1:Other Equipment NaturalGas Energy
+  UNIT 3 WATER HEATER EC ADJUSTMENT:Other Equipment NaturalGas Energy
+
+ For Meter=InteriorEquipment:NaturalGas:Zone:LIVING SPACE [J], ResourceType=NaturalGas, EndUse=InteriorEquipment, Group=Zone, contents are:
+  CLOTHES DRYER 1:Other Equipment NaturalGas Energy
+  COOKING RANGE 1:Other Equipment NaturalGas Energy
+  WATER HEATER EC ADJUSTMENT:Other Equipment NaturalGas Energy
+
+ For Meter=clothes dryer:InteriorEquipment:NaturalGas [J], ResourceType=NaturalGas, EndUse=InteriorEquipment, contents are:
+  CLOTHES DRYER 1:Other Equipment NaturalGas Energy
+  UNIT 2 CLOTHES DRYER 1:Other Equipment NaturalGas Energy
+  UNIT 3 CLOTHES DRYER 1:Other Equipment NaturalGas Energy
+
+ For Meter=cooking range:InteriorEquipment:NaturalGas [J], ResourceType=NaturalGas, EndUse=InteriorEquipment, contents are:
+  COOKING RANGE 1:Other Equipment NaturalGas Energy
+  UNIT 2 COOKING RANGE 1:Other Equipment NaturalGas Energy
+  UNIT 3 COOKING RANGE 1:Other Equipment NaturalGas Energy
+
+ For Meter=water heater EC adjustment:InteriorEquipment:NaturalGas [J], ResourceType=NaturalGas, EndUse=InteriorEquipment, contents are:
+  WATER HEATER EC ADJUSTMENT:Other Equipment NaturalGas Energy
+  UNIT 2 WATER HEATER EC ADJUSTMENT:Other Equipment NaturalGas Energy
+  UNIT 3 WATER HEATER EC ADJUSTMENT:Other Equipment NaturalGas Energy
+
+ For Meter=NaturalGas:Zone:UNIT 2 LIVING SPACE [J], ResourceType=NaturalGas, Group=Zone, contents are:
+  UNIT 2 CLOTHES DRYER 1:Other Equipment NaturalGas Energy
+  UNIT 2 COOKING RANGE 1:Other Equipment NaturalGas Energy
+  UNIT 2 WATER HEATER EC ADJUSTMENT:Other Equipment NaturalGas Energy
+
+ For Meter=InteriorEquipment:NaturalGas:Zone:UNIT 2 LIVING SPACE [J], ResourceType=NaturalGas, EndUse=InteriorEquipment, Group=Zone, contents are:
+  UNIT 2 CLOTHES DRYER 1:Other Equipment NaturalGas Energy
+  UNIT 2 COOKING RANGE 1:Other Equipment NaturalGas Energy
+  UNIT 2 WATER HEATER EC ADJUSTMENT:Other Equipment NaturalGas Energy
+
+ For Meter=NaturalGas:Zone:UNIT 3 LIVING SPACE [J], ResourceType=NaturalGas, Group=Zone, contents are:
+  UNIT 3 CLOTHES DRYER 1:Other Equipment NaturalGas Energy
+  UNIT 3 COOKING RANGE 1:Other Equipment NaturalGas Energy
+  UNIT 3 WATER HEATER EC ADJUSTMENT:Other Equipment NaturalGas Energy
+
+ For Meter=InteriorEquipment:NaturalGas:Zone:UNIT 3 LIVING SPACE [J], ResourceType=NaturalGas, EndUse=InteriorEquipment, Group=Zone, contents are:
+  UNIT 3 CLOTHES DRYER 1:Other Equipment NaturalGas Energy
+  UNIT 3 COOKING RANGE 1:Other Equipment NaturalGas Energy
+  UNIT 3 WATER HEATER EC ADJUSTMENT:Other Equipment NaturalGas Energy
+
+ For Meter=EnergyTransfer:Facility [J], ResourceType=EnergyTransfer, contents are:
+  CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Heating Energy
+  CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Cooling Energy
+  LIVING SPACE:Zone Air System Sensible Heating Energy
+  LIVING SPACE:Zone Air System Sensible Cooling Energy
+  UNIT 2 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Heating Energy
+  UNIT 2 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Cooling Energy
+  UNIT 2 LIVING SPACE:Zone Air System Sensible Heating Energy
+  UNIT 2 LIVING SPACE:Zone Air System Sensible Cooling Energy
+  UNIT 3 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Heating Energy
+  UNIT 3 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Cooling Energy
+  UNIT 3 LIVING SPACE:Zone Air System Sensible Heating Energy
+  UNIT 3 LIVING SPACE:Zone Air System Sensible Cooling Energy
+  CENTRAL AC AND FURNACE HTG COIL:Heating Coil Heating Energy
+  UNIT 2 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Heating Energy
+  UNIT 3 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Heating Energy
+  CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Total Cooling Energy
+  UNIT 2 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Total Cooling Energy
+  UNIT 3 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Total Cooling Energy
+  DHW FIXTURES:Water Use Equipment Heating Energy
+  DHW DISTRIBUTION WASTE:Water Use Equipment Heating Energy
+  CLOTHES WASHER:Water Use Equipment Heating Energy
+  DISHWASHER:Water Use Equipment Heating Energy
+  UNIT 2 DHW FIXTURES:Water Use Equipment Heating Energy
+  UNIT 2 DHW DISTRIBUTION WASTE:Water Use Equipment Heating Energy
+  UNIT 2 CLOTHES WASHER:Water Use Equipment Heating Energy
+  UNIT 2 DISHWASHER:Water Use Equipment Heating Energy
+  UNIT 3 DHW FIXTURES:Water Use Equipment Heating Energy
+  UNIT 3 DHW DISTRIBUTION WASTE:Water Use Equipment Heating Energy
+  UNIT 3 CLOTHES WASHER:Water Use Equipment Heating Energy
+  UNIT 3 DISHWASHER:Water Use Equipment Heating Energy
+
+ For Meter=EnergyTransfer:Building [J], ResourceType=EnergyTransfer, Group=Building, contents are:
+  CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Heating Energy
+  CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Cooling Energy
+  LIVING SPACE:Zone Air System Sensible Heating Energy
+  LIVING SPACE:Zone Air System Sensible Cooling Energy
+  UNIT 2 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Heating Energy
+  UNIT 2 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Cooling Energy
+  UNIT 2 LIVING SPACE:Zone Air System Sensible Heating Energy
+  UNIT 2 LIVING SPACE:Zone Air System Sensible Cooling Energy
+  UNIT 3 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Heating Energy
+  UNIT 3 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Cooling Energy
+  UNIT 3 LIVING SPACE:Zone Air System Sensible Heating Energy
+  UNIT 3 LIVING SPACE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Heating Energy
+  CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Heating Energy
+  LIVING SPACE:Zone Air System Sensible Heating Energy
+  UNIT 2 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Heating Energy
+  UNIT 2 LIVING SPACE:Zone Air System Sensible Heating Energy
+  UNIT 3 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Heating Energy
+  UNIT 3 LIVING SPACE:Zone Air System Sensible Heating Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Heating Energy
+  LIVING SPACE:Zone Air System Sensible Heating Energy
+  UNIT 2 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Heating Energy
+  UNIT 2 LIVING SPACE:Zone Air System Sensible Heating Energy
+  UNIT 3 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Heating Energy
+  UNIT 3 LIVING SPACE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Cooling Energy
+  LIVING SPACE:Zone Air System Sensible Cooling Energy
+  UNIT 2 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Cooling Energy
+  UNIT 2 LIVING SPACE:Zone Air System Sensible Cooling Energy
+  UNIT 3 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Cooling Energy
+  UNIT 3 LIVING SPACE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Cooling Energy
+  LIVING SPACE:Zone Air System Sensible Cooling Energy
+  UNIT 2 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Cooling Energy
+  UNIT 2 LIVING SPACE:Zone Air System Sensible Cooling Energy
+  UNIT 3 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Cooling Energy
+  UNIT 3 LIVING SPACE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:LIVING SPACE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  LIVING SPACE:Zone Air System Sensible Heating Energy
+  LIVING SPACE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:LIVING SPACE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  LIVING SPACE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:LIVING SPACE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  LIVING SPACE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:UNIT 2 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  UNIT 2 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Heating Energy
+  UNIT 2 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:UNIT 2 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  UNIT 2 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:UNIT 2 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  UNIT 2 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:UNIT 2 LIVING SPACE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  UNIT 2 LIVING SPACE:Zone Air System Sensible Heating Energy
+  UNIT 2 LIVING SPACE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:UNIT 2 LIVING SPACE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  UNIT 2 LIVING SPACE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:UNIT 2 LIVING SPACE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  UNIT 2 LIVING SPACE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:UNIT 3 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  UNIT 3 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Heating Energy
+  UNIT 3 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:UNIT 3 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  UNIT 3 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:UNIT 3 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  UNIT 3 CENTRAL AC AND FURNACE AIRLOOP RET AIR ZONE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:UNIT 3 LIVING SPACE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  UNIT 3 LIVING SPACE:Zone Air System Sensible Heating Energy
+  UNIT 3 LIVING SPACE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:UNIT 3 LIVING SPACE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  UNIT 3 LIVING SPACE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:UNIT 3 LIVING SPACE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  UNIT 3 LIVING SPACE:Zone Air System Sensible Cooling Energy
+
+ For Meter=DistrictHeating:Facility [J], ResourceType=DistrictHeating, contents are:
+  IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Heating Energy
+  UNIT 2 IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Heating Energy
+  UNIT 3 IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Heating Energy
+
+ For Meter=DistrictHeating:HVAC [J], ResourceType=DistrictHeating, Group=HVAC, contents are:
+  IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Heating Energy
+  UNIT 2 IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Heating Energy
+  UNIT 3 IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Heating Energy
+
+ For Meter=Heating:DistrictHeating [J], ResourceType=DistrictHeating, EndUse=Heating, contents are:
+  IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Heating Energy
+  UNIT 2 IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Heating Energy
+  UNIT 3 IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Heating Energy
+
+ For Meter=General:Heating:DistrictHeating [J], ResourceType=DistrictHeating, EndUse=Heating, contents are:
+  IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Heating Energy
+  UNIT 2 IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Heating Energy
+  UNIT 3 IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Heating Energy
+
+ For Meter=DistrictCooling:Facility [J], ResourceType=DistrictCooling, contents are:
+  IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Cooling Energy
+  UNIT 2 IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Cooling Energy
+  UNIT 3 IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Cooling Energy
+
+ For Meter=DistrictCooling:HVAC [J], ResourceType=DistrictCooling, Group=HVAC, contents are:
+  IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Cooling Energy
+  UNIT 2 IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Cooling Energy
+  UNIT 3 IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Cooling Energy
+
+ For Meter=Cooling:DistrictCooling [J], ResourceType=DistrictCooling, EndUse=Cooling, contents are:
+  IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Cooling Energy
+  UNIT 2 IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Cooling Energy
+  UNIT 3 IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Cooling Energy
+
+ For Meter=General:Cooling:DistrictCooling [J], ResourceType=DistrictCooling, EndUse=Cooling, contents are:
+  IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Cooling Energy
+  UNIT 2 IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Cooling Energy
+  UNIT 3 IDEAL RESIDUAL:Zone Ideal Loads Supply Air Total Cooling Energy
+
+ For Meter=Electricity:HVAC [J], ResourceType=Electricity, Group=HVAC, contents are:
+  CENTRAL AC AND FURNACE SUPPLY FAN:Fan Electricity Energy
+  UNIT 2 CENTRAL AC AND FURNACE SUPPLY FAN:Fan Electricity Energy
+  UNIT 3 CENTRAL AC AND FURNACE SUPPLY FAN:Fan Electricity Energy
+  CENTRAL AC AND FURNACE HTG COIL:Heating Coil Electricity Energy
+  UNIT 2 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Electricity Energy
+  UNIT 3 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Electricity Energy
+  CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Electricity Energy
+  UNIT 2 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Electricity Energy
+  UNIT 3 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Electricity Energy
+  CENTRAL AC AND FURNACE UNITARY SYSTEM:Unitary System Heating Ancillary Electricity Energy
+  UNIT 2 CENTRAL AC AND FURNACE UNITARY SYSTEM:Unitary System Heating Ancillary Electricity Energy
+  UNIT 3 CENTRAL AC AND FURNACE UNITARY SYSTEM:Unitary System Heating Ancillary Electricity Energy
+  CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Crankcase Heater Electricity Energy
+  UNIT 2 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Crankcase Heater Electricity Energy
+  UNIT 3 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Crankcase Heater Electricity Energy
+
+ For Meter=Fans:Electricity [J], ResourceType=Electricity, EndUse=Fans, contents are:
+  CENTRAL AC AND FURNACE SUPPLY FAN:Fan Electricity Energy
+  UNIT 2 CENTRAL AC AND FURNACE SUPPLY FAN:Fan Electricity Energy
+  UNIT 3 CENTRAL AC AND FURNACE SUPPLY FAN:Fan Electricity Energy
+
+ For Meter=supply fan:Fans:Electricity [J], ResourceType=Electricity, EndUse=Fans, contents are:
+  CENTRAL AC AND FURNACE SUPPLY FAN:Fan Electricity Energy
+  UNIT 2 CENTRAL AC AND FURNACE SUPPLY FAN:Fan Electricity Energy
+  UNIT 3 CENTRAL AC AND FURNACE SUPPLY FAN:Fan Electricity Energy
+
+ For Meter=EnergyTransfer:HVAC [J], ResourceType=EnergyTransfer, Group=HVAC, contents are:
+  CENTRAL AC AND FURNACE HTG COIL:Heating Coil Heating Energy
+  UNIT 2 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Heating Energy
+  UNIT 3 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Heating Energy
+  CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Total Cooling Energy
+  UNIT 2 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Total Cooling Energy
+  UNIT 3 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Total Cooling Energy
+
+ For Meter=HeatingCoils:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=HeatingCoils, contents are:
+  CENTRAL AC AND FURNACE HTG COIL:Heating Coil Heating Energy
+  UNIT 2 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Heating Energy
+  UNIT 3 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Heating Energy
+
+ For Meter=NaturalGas:HVAC [J], ResourceType=NaturalGas, Group=HVAC, contents are:
+  CENTRAL AC AND FURNACE HTG COIL:Heating Coil NaturalGas Energy
+  CENTRAL AC AND FURNACE HTG COIL:Heating Coil Ancillary NaturalGas Energy
+  UNIT 2 CENTRAL AC AND FURNACE HTG COIL:Heating Coil NaturalGas Energy
+  UNIT 2 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Ancillary NaturalGas Energy
+  UNIT 3 CENTRAL AC AND FURNACE HTG COIL:Heating Coil NaturalGas Energy
+  UNIT 3 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Ancillary NaturalGas Energy
+
+ For Meter=Heating:NaturalGas [J], ResourceType=NaturalGas, EndUse=Heating, contents are:
+  CENTRAL AC AND FURNACE HTG COIL:Heating Coil NaturalGas Energy
+  CENTRAL AC AND FURNACE HTG COIL:Heating Coil Ancillary NaturalGas Energy
+  UNIT 2 CENTRAL AC AND FURNACE HTG COIL:Heating Coil NaturalGas Energy
+  UNIT 2 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Ancillary NaturalGas Energy
+  UNIT 3 CENTRAL AC AND FURNACE HTG COIL:Heating Coil NaturalGas Energy
+  UNIT 3 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Ancillary NaturalGas Energy
+
+ For Meter=General:Heating:NaturalGas [J], ResourceType=NaturalGas, EndUse=Heating, contents are:
+  CENTRAL AC AND FURNACE HTG COIL:Heating Coil NaturalGas Energy
+  CENTRAL AC AND FURNACE HTG COIL:Heating Coil Ancillary NaturalGas Energy
+  UNIT 2 CENTRAL AC AND FURNACE HTG COIL:Heating Coil NaturalGas Energy
+  UNIT 2 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Ancillary NaturalGas Energy
+  UNIT 3 CENTRAL AC AND FURNACE HTG COIL:Heating Coil NaturalGas Energy
+  UNIT 3 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Ancillary NaturalGas Energy
+
+ For Meter=Heating:Electricity [J], ResourceType=Electricity, EndUse=Heating, contents are:
+  CENTRAL AC AND FURNACE HTG COIL:Heating Coil Electricity Energy
+  UNIT 2 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Electricity Energy
+  UNIT 3 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Electricity Energy
+  CENTRAL AC AND FURNACE UNITARY SYSTEM:Unitary System Heating Ancillary Electricity Energy
+  UNIT 2 CENTRAL AC AND FURNACE UNITARY SYSTEM:Unitary System Heating Ancillary Electricity Energy
+  UNIT 3 CENTRAL AC AND FURNACE UNITARY SYSTEM:Unitary System Heating Ancillary Electricity Energy
+
+ For Meter=General:Heating:Electricity [J], ResourceType=Electricity, EndUse=Heating, contents are:
+  CENTRAL AC AND FURNACE HTG COIL:Heating Coil Electricity Energy
+  UNIT 2 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Electricity Energy
+  UNIT 3 CENTRAL AC AND FURNACE HTG COIL:Heating Coil Electricity Energy
+  CENTRAL AC AND FURNACE UNITARY SYSTEM:Unitary System Heating Ancillary Electricity Energy
+  UNIT 2 CENTRAL AC AND FURNACE UNITARY SYSTEM:Unitary System Heating Ancillary Electricity Energy
+  UNIT 3 CENTRAL AC AND FURNACE UNITARY SYSTEM:Unitary System Heating Ancillary Electricity Energy
+
+ For Meter=CoolingCoils:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=CoolingCoils, contents are:
+  CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Total Cooling Energy
+  UNIT 2 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Total Cooling Energy
+  UNIT 3 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Total Cooling Energy
+
+ For Meter=Cooling:Electricity [J], ResourceType=Electricity, EndUse=Cooling, contents are:
+  CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Electricity Energy
+  UNIT 2 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Electricity Energy
+  UNIT 3 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Electricity Energy
+  CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Crankcase Heater Electricity Energy
+  UNIT 2 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Crankcase Heater Electricity Energy
+  UNIT 3 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Crankcase Heater Electricity Energy
+
+ For Meter=General:Cooling:Electricity [J], ResourceType=Electricity, EndUse=Cooling, contents are:
+  CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Electricity Energy
+  UNIT 2 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Electricity Energy
+  UNIT 3 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Electricity Energy
+  CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Crankcase Heater Electricity Energy
+  UNIT 2 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Crankcase Heater Electricity Energy
+  UNIT 3 CENTRAL AC AND FURNACE CLG COIL:Cooling Coil Crankcase Heater Electricity Energy
+
+ For Meter=ElectricityPurchased:Facility [J], ResourceType=ElectricityPurchased, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=ElectricityPurchased:Plant [J], ResourceType=ElectricityPurchased, Group=Plant, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=Cogeneration:ElectricityPurchased [J], ResourceType=ElectricityPurchased, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=General:Cogeneration:ElectricityPurchased [J], ResourceType=ElectricityPurchased, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=ElectricitySurplusSold:Facility [J], ResourceType=ElectricitySurplusSold, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=ElectricitySurplusSold:Plant [J], ResourceType=ElectricitySurplusSold, Group=Plant, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=Cogeneration:ElectricitySurplusSold [J], ResourceType=ElectricitySurplusSold, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=General:Cogeneration:ElectricitySurplusSold [J], ResourceType=ElectricitySurplusSold, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=ElectricityNet:Facility [J], ResourceType=ElectricityNet, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=ElectricityNet:Plant [J], ResourceType=ElectricityNet, Group=Plant, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=Cogeneration:ElectricityNet [J], ResourceType=ElectricityNet, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=General:Cogeneration:ElectricityNet [J], ResourceType=ElectricityNet, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=Electricity:Plant [J], ResourceType=Electricity, Group=Plant, contents are:
+  PUMP VARIABLE SPEED 1:Pump Electricity Energy
+  UNIT 2 PUMP VARIABLE SPEED 1:Pump Electricity Energy
+  UNIT 3 PUMP VARIABLE SPEED 1:Pump Electricity Energy
+  WATER HEATER:Water Heater Off Cycle Parasitic Electricity Energy
+  WATER HEATER:Water Heater On Cycle Parasitic Electricity Energy
+  UNIT 2 WATER HEATER:Water Heater Off Cycle Parasitic Electricity Energy
+  UNIT 2 WATER HEATER:Water Heater On Cycle Parasitic Electricity Energy
+  UNIT 3 WATER HEATER:Water Heater Off Cycle Parasitic Electricity Energy
+  UNIT 3 WATER HEATER:Water Heater On Cycle Parasitic Electricity Energy
+
+ For Meter=Pumps:Electricity [J], ResourceType=Electricity, EndUse=Pumps, contents are:
+  PUMP VARIABLE SPEED 1:Pump Electricity Energy
+  UNIT 2 PUMP VARIABLE SPEED 1:Pump Electricity Energy
+  UNIT 3 PUMP VARIABLE SPEED 1:Pump Electricity Energy
+
+ For Meter=General:Pumps:Electricity [J], ResourceType=Electricity, EndUse=Pumps, contents are:
+  PUMP VARIABLE SPEED 1:Pump Electricity Energy
+  UNIT 2 PUMP VARIABLE SPEED 1:Pump Electricity Energy
+  UNIT 3 PUMP VARIABLE SPEED 1:Pump Electricity Energy
+
+ For Meter=Water:Facility [m3], ResourceType=Water, contents are:
+  DHW FIXTURES:Water Use Equipment Total Volume
+  DHW DISTRIBUTION WASTE:Water Use Equipment Total Volume
+  CLOTHES WASHER:Water Use Equipment Total Volume
+  DISHWASHER:Water Use Equipment Total Volume
+  UNIT 2 DHW FIXTURES:Water Use Equipment Total Volume
+  UNIT 2 DHW DISTRIBUTION WASTE:Water Use Equipment Total Volume
+  UNIT 2 CLOTHES WASHER:Water Use Equipment Total Volume
+  UNIT 2 DISHWASHER:Water Use Equipment Total Volume
+  UNIT 3 DHW FIXTURES:Water Use Equipment Total Volume
+  UNIT 3 DHW DISTRIBUTION WASTE:Water Use Equipment Total Volume
+  UNIT 3 CLOTHES WASHER:Water Use Equipment Total Volume
+  UNIT 3 DISHWASHER:Water Use Equipment Total Volume
+  WATER HEATER:Water Heater Water Volume
+  UNIT 2 WATER HEATER:Water Heater Water Volume
+  UNIT 3 WATER HEATER:Water Heater Water Volume
+
+ For Meter=Water:Plant [m3], ResourceType=Water, Group=Plant, contents are:
+  DHW FIXTURES:Water Use Equipment Total Volume
+  DHW DISTRIBUTION WASTE:Water Use Equipment Total Volume
+  CLOTHES WASHER:Water Use Equipment Total Volume
+  DISHWASHER:Water Use Equipment Total Volume
+  UNIT 2 DHW FIXTURES:Water Use Equipment Total Volume
+  UNIT 2 DHW DISTRIBUTION WASTE:Water Use Equipment Total Volume
+  UNIT 2 CLOTHES WASHER:Water Use Equipment Total Volume
+  UNIT 2 DISHWASHER:Water Use Equipment Total Volume
+  UNIT 3 DHW FIXTURES:Water Use Equipment Total Volume
+  UNIT 3 DHW DISTRIBUTION WASTE:Water Use Equipment Total Volume
+  UNIT 3 CLOTHES WASHER:Water Use Equipment Total Volume
+  UNIT 3 DISHWASHER:Water Use Equipment Total Volume
+  WATER HEATER:Water Heater Water Volume
+  UNIT 2 WATER HEATER:Water Heater Water Volume
+  UNIT 3 WATER HEATER:Water Heater Water Volume
+
+ For Meter=WaterSystems:Water [m3], ResourceType=Water, EndUse=WaterSystems, contents are:
+  DHW FIXTURES:Water Use Equipment Total Volume
+  DHW DISTRIBUTION WASTE:Water Use Equipment Total Volume
+  CLOTHES WASHER:Water Use Equipment Total Volume
+  DISHWASHER:Water Use Equipment Total Volume
+  UNIT 2 DHW FIXTURES:Water Use Equipment Total Volume
+  UNIT 2 DHW DISTRIBUTION WASTE:Water Use Equipment Total Volume
+  UNIT 2 CLOTHES WASHER:Water Use Equipment Total Volume
+  UNIT 2 DISHWASHER:Water Use Equipment Total Volume
+  UNIT 3 DHW FIXTURES:Water Use Equipment Total Volume
+  UNIT 3 DHW DISTRIBUTION WASTE:Water Use Equipment Total Volume
+  UNIT 3 CLOTHES WASHER:Water Use Equipment Total Volume
+  UNIT 3 DISHWASHER:Water Use Equipment Total Volume
+  WATER HEATER:Water Heater Water Volume
+  UNIT 2 WATER HEATER:Water Heater Water Volume
+  UNIT 3 WATER HEATER:Water Heater Water Volume
+
+ For Meter=dhw fixtures:WaterSystems:Water [m3], ResourceType=Water, EndUse=WaterSystems, contents are:
+  DHW FIXTURES:Water Use Equipment Total Volume
+  UNIT 2 DHW FIXTURES:Water Use Equipment Total Volume
+  UNIT 3 DHW FIXTURES:Water Use Equipment Total Volume
+
+ For Meter=MainsWater:Facility [m3], ResourceType=MainsWater, contents are:
+  DHW FIXTURES:Water Use Equipment Mains Water Volume
+  DHW DISTRIBUTION WASTE:Water Use Equipment Mains Water Volume
+  CLOTHES WASHER:Water Use Equipment Mains Water Volume
+  DISHWASHER:Water Use Equipment Mains Water Volume
+  UNIT 2 DHW FIXTURES:Water Use Equipment Mains Water Volume
+  UNIT 2 DHW DISTRIBUTION WASTE:Water Use Equipment Mains Water Volume
+  UNIT 2 CLOTHES WASHER:Water Use Equipment Mains Water Volume
+  UNIT 2 DISHWASHER:Water Use Equipment Mains Water Volume
+  UNIT 3 DHW FIXTURES:Water Use Equipment Mains Water Volume
+  UNIT 3 DHW DISTRIBUTION WASTE:Water Use Equipment Mains Water Volume
+  UNIT 3 CLOTHES WASHER:Water Use Equipment Mains Water Volume
+  UNIT 3 DISHWASHER:Water Use Equipment Mains Water Volume
+  WATER HEATER:Water Heater Mains Water Volume
+  UNIT 2 WATER HEATER:Water Heater Mains Water Volume
+  UNIT 3 WATER HEATER:Water Heater Mains Water Volume
+
+ For Meter=MainsWater:Plant [m3], ResourceType=MainsWater, Group=Plant, contents are:
+  DHW FIXTURES:Water Use Equipment Mains Water Volume
+  DHW DISTRIBUTION WASTE:Water Use Equipment Mains Water Volume
+  CLOTHES WASHER:Water Use Equipment Mains Water Volume
+  DISHWASHER:Water Use Equipment Mains Water Volume
+  UNIT 2 DHW FIXTURES:Water Use Equipment Mains Water Volume
+  UNIT 2 DHW DISTRIBUTION WASTE:Water Use Equipment Mains Water Volume
+  UNIT 2 CLOTHES WASHER:Water Use Equipment Mains Water Volume
+  UNIT 2 DISHWASHER:Water Use Equipment Mains Water Volume
+  UNIT 3 DHW FIXTURES:Water Use Equipment Mains Water Volume
+  UNIT 3 DHW DISTRIBUTION WASTE:Water Use Equipment Mains Water Volume
+  UNIT 3 CLOTHES WASHER:Water Use Equipment Mains Water Volume
+  UNIT 3 DISHWASHER:Water Use Equipment Mains Water Volume
+  WATER HEATER:Water Heater Mains Water Volume
+  UNIT 2 WATER HEATER:Water Heater Mains Water Volume
+  UNIT 3 WATER HEATER:Water Heater Mains Water Volume
+
+ For Meter=WaterSystems:MainsWater [m3], ResourceType=MainsWater, EndUse=WaterSystems, contents are:
+  DHW FIXTURES:Water Use Equipment Mains Water Volume
+  DHW DISTRIBUTION WASTE:Water Use Equipment Mains Water Volume
+  CLOTHES WASHER:Water Use Equipment Mains Water Volume
+  DISHWASHER:Water Use Equipment Mains Water Volume
+  UNIT 2 DHW FIXTURES:Water Use Equipment Mains Water Volume
+  UNIT 2 DHW DISTRIBUTION WASTE:Water Use Equipment Mains Water Volume
+  UNIT 2 CLOTHES WASHER:Water Use Equipment Mains Water Volume
+  UNIT 2 DISHWASHER:Water Use Equipment Mains Water Volume
+  UNIT 3 DHW FIXTURES:Water Use Equipment Mains Water Volume
+  UNIT 3 DHW DISTRIBUTION WASTE:Water Use Equipment Mains Water Volume
+  UNIT 3 CLOTHES WASHER:Water Use Equipment Mains Water Volume
+  UNIT 3 DISHWASHER:Water Use Equipment Mains Water Volume
+  WATER HEATER:Water Heater Mains Water Volume
+  UNIT 2 WATER HEATER:Water Heater Mains Water Volume
+  UNIT 3 WATER HEATER:Water Heater Mains Water Volume
+
+ For Meter=dhw fixtures:WaterSystems:MainsWater [m3], ResourceType=MainsWater, EndUse=WaterSystems, contents are:
+  DHW FIXTURES:Water Use Equipment Mains Water Volume
+  UNIT 2 DHW FIXTURES:Water Use Equipment Mains Water Volume
+  UNIT 3 DHW FIXTURES:Water Use Equipment Mains Water Volume
+
+ For Meter=EnergyTransfer:Plant [J], ResourceType=EnergyTransfer, Group=Plant, contents are:
+  DHW FIXTURES:Water Use Equipment Heating Energy
+  DHW DISTRIBUTION WASTE:Water Use Equipment Heating Energy
+  CLOTHES WASHER:Water Use Equipment Heating Energy
+  DISHWASHER:Water Use Equipment Heating Energy
+  UNIT 2 DHW FIXTURES:Water Use Equipment Heating Energy
+  UNIT 2 DHW DISTRIBUTION WASTE:Water Use Equipment Heating Energy
+  UNIT 2 CLOTHES WASHER:Water Use Equipment Heating Energy
+  UNIT 2 DISHWASHER:Water Use Equipment Heating Energy
+  UNIT 3 DHW FIXTURES:Water Use Equipment Heating Energy
+  UNIT 3 DHW DISTRIBUTION WASTE:Water Use Equipment Heating Energy
+  UNIT 3 CLOTHES WASHER:Water Use Equipment Heating Energy
+  UNIT 3 DISHWASHER:Water Use Equipment Heating Energy
+
+ For Meter=WaterSystems:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=WaterSystems, contents are:
+  DHW FIXTURES:Water Use Equipment Heating Energy
+  DHW DISTRIBUTION WASTE:Water Use Equipment Heating Energy
+  CLOTHES WASHER:Water Use Equipment Heating Energy
+  DISHWASHER:Water Use Equipment Heating Energy
+  UNIT 2 DHW FIXTURES:Water Use Equipment Heating Energy
+  UNIT 2 DHW DISTRIBUTION WASTE:Water Use Equipment Heating Energy
+  UNIT 2 CLOTHES WASHER:Water Use Equipment Heating Energy
+  UNIT 2 DISHWASHER:Water Use Equipment Heating Energy
+  UNIT 3 DHW FIXTURES:Water Use Equipment Heating Energy
+  UNIT 3 DHW DISTRIBUTION WASTE:Water Use Equipment Heating Energy
+  UNIT 3 CLOTHES WASHER:Water Use Equipment Heating Energy
+  UNIT 3 DISHWASHER:Water Use Equipment Heating Energy
+
+ For Meter=dhw fixtures:WaterSystems:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=WaterSystems, contents are:
+  DHW FIXTURES:Water Use Equipment Heating Energy
+  UNIT 2 DHW FIXTURES:Water Use Equipment Heating Energy
+  UNIT 3 DHW FIXTURES:Water Use Equipment Heating Energy
+
+ For Meter=dhw distribution waste:WaterSystems:Water [m3], ResourceType=Water, EndUse=WaterSystems, contents are:
+  DHW DISTRIBUTION WASTE:Water Use Equipment Total Volume
+  UNIT 2 DHW DISTRIBUTION WASTE:Water Use Equipment Total Volume
+  UNIT 3 DHW DISTRIBUTION WASTE:Water Use Equipment Total Volume
+
+ For Meter=dhw distribution waste:WaterSystems:MainsWater [m3], ResourceType=MainsWater, EndUse=WaterSystems, contents are:
+  DHW DISTRIBUTION WASTE:Water Use Equipment Mains Water Volume
+  UNIT 2 DHW DISTRIBUTION WASTE:Water Use Equipment Mains Water Volume
+  UNIT 3 DHW DISTRIBUTION WASTE:Water Use Equipment Mains Water Volume
+
+ For Meter=dhw distribution waste:WaterSystems:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=WaterSystems, contents are:
+  DHW DISTRIBUTION WASTE:Water Use Equipment Heating Energy
+  UNIT 2 DHW DISTRIBUTION WASTE:Water Use Equipment Heating Energy
+  UNIT 3 DHW DISTRIBUTION WASTE:Water Use Equipment Heating Energy
+
+ For Meter=clothes washer:WaterSystems:Water [m3], ResourceType=Water, EndUse=WaterSystems, contents are:
+  CLOTHES WASHER:Water Use Equipment Total Volume
+  UNIT 2 CLOTHES WASHER:Water Use Equipment Total Volume
+  UNIT 3 CLOTHES WASHER:Water Use Equipment Total Volume
+
+ For Meter=clothes washer:WaterSystems:MainsWater [m3], ResourceType=MainsWater, EndUse=WaterSystems, contents are:
+  CLOTHES WASHER:Water Use Equipment Mains Water Volume
+  UNIT 2 CLOTHES WASHER:Water Use Equipment Mains Water Volume
+  UNIT 3 CLOTHES WASHER:Water Use Equipment Mains Water Volume
+
+ For Meter=clothes washer:WaterSystems:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=WaterSystems, contents are:
+  CLOTHES WASHER:Water Use Equipment Heating Energy
+  UNIT 2 CLOTHES WASHER:Water Use Equipment Heating Energy
+  UNIT 3 CLOTHES WASHER:Water Use Equipment Heating Energy
+
+ For Meter=dishwasher:WaterSystems:Water [m3], ResourceType=Water, EndUse=WaterSystems, contents are:
+  DISHWASHER:Water Use Equipment Total Volume
+  UNIT 2 DISHWASHER:Water Use Equipment Total Volume
+  UNIT 3 DISHWASHER:Water Use Equipment Total Volume
+
+ For Meter=dishwasher:WaterSystems:MainsWater [m3], ResourceType=MainsWater, EndUse=WaterSystems, contents are:
+  DISHWASHER:Water Use Equipment Mains Water Volume
+  UNIT 2 DISHWASHER:Water Use Equipment Mains Water Volume
+  UNIT 3 DISHWASHER:Water Use Equipment Mains Water Volume
+
+ For Meter=dishwasher:WaterSystems:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=WaterSystems, contents are:
+  DISHWASHER:Water Use Equipment Heating Energy
+  UNIT 2 DISHWASHER:Water Use Equipment Heating Energy
+  UNIT 3 DISHWASHER:Water Use Equipment Heating Energy
+
+ For Meter=PlantLoopHeatingDemand:Facility [J], ResourceType=PlantLoopHeatingDemand, contents are:
+  WATER USE CONNECTIONS 1:Water Use Connections Plant Hot Water Energy
+  UNIT 2 WATER USE CONNECTIONS 1:Water Use Connections Plant Hot Water Energy
+  UNIT 3 WATER USE CONNECTIONS 1:Water Use Connections Plant Hot Water Energy
+  WATER HEATER:Water Heater Source Side Heat Transfer Energy
+  UNIT 2 WATER HEATER:Water Heater Source Side Heat Transfer Energy
+  UNIT 3 WATER HEATER:Water Heater Source Side Heat Transfer Energy
+
+ For Meter=PlantLoopHeatingDemand:Plant [J], ResourceType=PlantLoopHeatingDemand, Group=Plant, contents are:
+  WATER USE CONNECTIONS 1:Water Use Connections Plant Hot Water Energy
+  UNIT 2 WATER USE CONNECTIONS 1:Water Use Connections Plant Hot Water Energy
+  UNIT 3 WATER USE CONNECTIONS 1:Water Use Connections Plant Hot Water Energy
+  WATER HEATER:Water Heater Source Side Heat Transfer Energy
+  UNIT 2 WATER HEATER:Water Heater Source Side Heat Transfer Energy
+  UNIT 3 WATER HEATER:Water Heater Source Side Heat Transfer Energy
+
+ For Meter=WaterSystems:PlantLoopHeatingDemand [J], ResourceType=PlantLoopHeatingDemand, EndUse=WaterSystems, contents are:
+  WATER USE CONNECTIONS 1:Water Use Connections Plant Hot Water Energy
+  UNIT 2 WATER USE CONNECTIONS 1:Water Use Connections Plant Hot Water Energy
+  UNIT 3 WATER USE CONNECTIONS 1:Water Use Connections Plant Hot Water Energy
+  WATER HEATER:Water Heater Source Side Heat Transfer Energy
+  UNIT 2 WATER HEATER:Water Heater Source Side Heat Transfer Energy
+  UNIT 3 WATER HEATER:Water Heater Source Side Heat Transfer Energy
+
+ For Meter=General:WaterSystems:PlantLoopHeatingDemand [J], ResourceType=PlantLoopHeatingDemand, EndUse=WaterSystems, contents are:
+  WATER USE CONNECTIONS 1:Water Use Connections Plant Hot Water Energy
+  UNIT 2 WATER USE CONNECTIONS 1:Water Use Connections Plant Hot Water Energy
+  UNIT 3 WATER USE CONNECTIONS 1:Water Use Connections Plant Hot Water Energy
+  WATER HEATER:Water Heater Source Side Heat Transfer Energy
+  UNIT 2 WATER HEATER:Water Heater Source Side Heat Transfer Energy
+  UNIT 3 WATER HEATER:Water Heater Source Side Heat Transfer Energy
+
+ For Meter=NaturalGas:Plant [J], ResourceType=NaturalGas, Group=Plant, contents are:
+  WATER HEATER:Water Heater NaturalGas Energy
+  UNIT 2 WATER HEATER:Water Heater NaturalGas Energy
+  UNIT 3 WATER HEATER:Water Heater NaturalGas Energy
+
+ For Meter=WaterSystems:NaturalGas [J], ResourceType=NaturalGas, EndUse=WaterSystems, contents are:
+  WATER HEATER:Water Heater NaturalGas Energy
+  UNIT 2 WATER HEATER:Water Heater NaturalGas Energy
+  UNIT 3 WATER HEATER:Water Heater NaturalGas Energy
+
+ For Meter=General:WaterSystems:NaturalGas [J], ResourceType=NaturalGas, EndUse=WaterSystems, contents are:
+  WATER HEATER:Water Heater NaturalGas Energy
+  UNIT 2 WATER HEATER:Water Heater NaturalGas Energy
+  UNIT 3 WATER HEATER:Water Heater NaturalGas Energy
+
+ For Meter=WaterSystems:Electricity [J], ResourceType=Electricity, EndUse=WaterSystems, contents are:
+  WATER HEATER:Water Heater Off Cycle Parasitic Electricity Energy
+  WATER HEATER:Water Heater On Cycle Parasitic Electricity Energy
+  UNIT 2 WATER HEATER:Water Heater Off Cycle Parasitic Electricity Energy
+  UNIT 2 WATER HEATER:Water Heater On Cycle Parasitic Electricity Energy
+  UNIT 3 WATER HEATER:Water Heater Off Cycle Parasitic Electricity Energy
+  UNIT 3 WATER HEATER:Water Heater On Cycle Parasitic Electricity Energy
+
+ For Meter=General:WaterSystems:Electricity [J], ResourceType=Electricity, EndUse=WaterSystems, contents are:
+  WATER HEATER:Water Heater Off Cycle Parasitic Electricity Energy
+  WATER HEATER:Water Heater On Cycle Parasitic Electricity Energy
+  UNIT 2 WATER HEATER:Water Heater Off Cycle Parasitic Electricity Energy
+  UNIT 2 WATER HEATER:Water Heater On Cycle Parasitic Electricity Energy
+  UNIT 3 WATER HEATER:Water Heater Off Cycle Parasitic Electricity Energy
+  UNIT 3 WATER HEATER:Water Heater On Cycle Parasitic Electricity Energy
+
+ For Meter=General:WaterSystems:Water [m3], ResourceType=Water, EndUse=WaterSystems, contents are:
+  WATER HEATER:Water Heater Water Volume
+  UNIT 2 WATER HEATER:Water Heater Water Volume
+  UNIT 3 WATER HEATER:Water Heater Water Volume
+
+ For Meter=General:WaterSystems:MainsWater [m3], ResourceType=MainsWater, EndUse=WaterSystems, contents are:
+  WATER HEATER:Water Heater Mains Water Volume
+  UNIT 2 WATER HEATER:Water Heater Mains Water Volume
+  UNIT 3 WATER HEATER:Water Heater Mains Water Volume
+
+ For Meter=Carbon Equivalent:Facility [kg], ResourceType=Carbon Equivalent, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
+
+ For Meter=CarbonEquivalentEmissions:Carbon Equivalent [kg], ResourceType=Carbon Equivalent, EndUse=CarbonEquivalentEmissions, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass

@@ -1,0 +1,299 @@
+Program Version,EnergyPlus, Version 9.4.0-998c4b761e, YMD=2021.04.17 02:44,
+   ** Warning ** Timestep: Requested number (1) is less than the suggested minimum of 4.
+   **   ~~~   ** Please see entry for Timestep in Input/Output Reference for discussion of considerations.
+   ************* Beginning Zone Sizing Calculations
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="33 SPACE(S) OCC SCH DEFAULT", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="33 SPACE(S) OCC SCH FRIDAY", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="33 SPACE(S) OCC SCH SATURDAY", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="33 SPACE(S) OCC SCH SUMMER DESIGN DAY", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="33 SPACE(S) OCC SCH SUNDAY", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="33 SPACE(S) OCC SCH WINTER DESIGN DAY", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="ELEVATOR SCHEDULE", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Constant="ALWAYS OFF DISCRETE", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Constant="ALWAYS ON CONTINUOUS", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** GetHTSurfaceData: Surfaces with interface to Ground found but no "Ground Temperatures" were input.
+   **   ~~~   ** Found first in surface=SURFACE 1
+   **   ~~~   ** Defaults, constant throughout the year of (18.0) will be used.
+   ** Warning ** CheckUsedConstructions: There are 10 nominally unused constructions in input.
+   **   ~~~   ** For explicit details on each unused construction, use Output:Diagnostics,DisplayExtraWarnings;
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 1 PEOPLE 1" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 1 PEOPLE 1" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 1 PEOPLE 1" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 1 PEOPLE 1" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 1 PEOPLE 1" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 2 PEOPLE 1" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 2 PEOPLE 1" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 2 PEOPLE 1" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 2 PEOPLE 1" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 2 PEOPLE 1" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 2 PEOPLE 2" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 2 PEOPLE 2" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 2 PEOPLE 2" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 2 PEOPLE 2" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 2 PEOPLE 2" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 3 PEOPLE 1" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 3 PEOPLE 1" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 3 PEOPLE 1" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 3 PEOPLE 1" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 3 PEOPLE 1" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 3 PEOPLE 2" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 3 PEOPLE 2" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 3 PEOPLE 2" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 3 PEOPLE 2" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="STRIPMALL STRIP MALL - TYPE 3 PEOPLE 2" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** DetermineShadowingCombinations: There are 2 surfaces which are receiving surfaces and are non-convex.
+   **   ~~~   ** ...Shadowing values may be inaccurate. Check .shd report file for more surface shading details
+   **   ~~~   ** ...Add Output:Diagnostics,DisplayExtraWarnings; to see individual warnings for each surface.
+   ** Warning ** GetSimpleAirModelInputs: ZoneInfiltration:DesignFlowRate="BUILDING STORY 1 THERMALZONE STRIPMALL STRIP MALL - TYPE 1 A  - STORY GROUND INFILTRATION", Design Flow Rate Calculation Method specifies Flow per Exterior Surface Area, but Exterior Surface Area = 0.  0 Infiltration will result.
+   ** Warning ** GetSimpleAirModelInputs: ZoneInfiltration:DesignFlowRate="BUILDING STORY 1 THERMALZONE STRIPMALL STRIP MALL - TYPE 1 A END_A - STORY GROUND INFILTRATION", Design Flow Rate Calculation Method specifies Flow per Exterior Surface Area, but Exterior Surface Area = 0.  0 Infiltration will result.
+   ** Warning ** GetSimpleAirModelInputs: ZoneInfiltration:DesignFlowRate="BUILDING STORY 1 THERMALZONE STRIPMALL STRIP MALL - TYPE 1 B END_A - STORY GROUND INFILTRATION", Design Flow Rate Calculation Method specifies Flow per Exterior Surface Area, but Exterior Surface Area = 0.  0 Infiltration will result.
+   ** Warning ** GetSimpleAirModelInputs: ZoneInfiltration:DesignFlowRate="BUILDING STORY 1 THERMALZONE STRIPMALL STRIP MALL - TYPE 1 C  - STORY GROUND INFILTRATION", Design Flow Rate Calculation Method specifies Flow per Exterior Surface Area, but Exterior Surface Area = 0.  0 Infiltration will result.
+   ** Warning ** GetSimpleAirModelInputs: ZoneInfiltration:DesignFlowRate="BUILDING STORY 1 THERMALZONE STRIPMALL STRIP MALL - TYPE 1 C END_A - STORY GROUND INFILTRATION", Design Flow Rate Calculation Method specifies Flow per Exterior Surface Area, but Exterior Surface Area = 0.  0 Infiltration will result.
+   ** Warning ** GetSimpleAirModelInputs: ZoneInfiltration:DesignFlowRate="BUILDING STORY 1 THERMALZONE STRIPMALL STRIP MALL - TYPE 2 A  - STORY GROUND INFILTRATION", Design Flow Rate Calculation Method specifies Flow per Exterior Surface Area, but Exterior Surface Area = 0.  0 Infiltration will result.
+   ** Warning ** GetSimpleAirModelInputs: ZoneInfiltration:DesignFlowRate="BUILDING STORY 1 THERMALZONE STRIPMALL STRIP MALL - TYPE 2 A END_B - STORY GROUND INFILTRATION", Design Flow Rate Calculation Method specifies Flow per Exterior Surface Area, but Exterior Surface Area = 0.  0 Infiltration will result.
+   ** Warning ** GetSimpleAirModelInputs: ZoneInfiltration:DesignFlowRate="BUILDING STORY 1 THERMALZONE STRIPMALL STRIP MALL - TYPE 2 B END_B - STORY GROUND INFILTRATION", Design Flow Rate Calculation Method specifies Flow per Exterior Surface Area, but Exterior Surface Area = 0.  0 Infiltration will result.
+   ** Warning ** GetSimpleAirModelInputs: ZoneInfiltration:DesignFlowRate="BUILDING STORY 1 THERMALZONE STRIPMALL STRIP MALL - TYPE 2 C  - STORY GROUND INFILTRATION", Design Flow Rate Calculation Method specifies Flow per Exterior Surface Area, but Exterior Surface Area = 0.  0 Infiltration will result.
+   ** Warning ** GetSimpleAirModelInputs: ZoneInfiltration:DesignFlowRate="BUILDING STORY 1 THERMALZONE STRIPMALL STRIP MALL - TYPE 2 C END_B - STORY GROUND INFILTRATION", Design Flow Rate Calculation Method specifies Flow per Exterior Surface Area, but Exterior Surface Area = 0.  0 Infiltration will result.
+   ** Warning ** GetSimpleAirModelInputs: ZoneInfiltration:DesignFlowRate="BUILDING STORY 2 THERMALZONE STRIPMALL STRIP MALL - TYPE 2 A  - STORY MID INFILTRATION", Design Flow Rate Calculation Method specifies Flow per Exterior Surface Area, but Exterior Surface Area = 0.  0 Infiltration will result.
+   ** Warning ** GetSimpleAirModelInputs: ZoneInfiltration:DesignFlowRate="BUILDING STORY 2 THERMALZONE STRIPMALL STRIP MALL - TYPE 2 A END_B - STORY MID INFILTRATION", Design Flow Rate Calculation Method specifies Flow per Exterior Surface Area, but Exterior Surface Area = 0.  0 Infiltration will result.
+   ** Warning ** GetSimpleAirModelInputs: ZoneInfiltration:DesignFlowRate="BUILDING STORY 2 THERMALZONE STRIPMALL STRIP MALL - TYPE 2 B END_B - STORY MID INFILTRATION", Design Flow Rate Calculation Method specifies Flow per Exterior Surface Area, but Exterior Surface Area = 0.  0 Infiltration will result.
+   ** Warning ** GetSimpleAirModelInputs: ZoneInfiltration:DesignFlowRate="BUILDING STORY 2 THERMALZONE STRIPMALL STRIP MALL - TYPE 2 C  - STORY MID INFILTRATION", Design Flow Rate Calculation Method specifies Flow per Exterior Surface Area, but Exterior Surface Area = 0.  0 Infiltration will result.
+   ** Warning ** GetSimpleAirModelInputs: ZoneInfiltration:DesignFlowRate="BUILDING STORY 2 THERMALZONE STRIPMALL STRIP MALL - TYPE 2 C END_B - STORY MID INFILTRATION", Design Flow Rate Calculation Method specifies Flow per Exterior Surface Area, but Exterior Surface Area = 0.  0 Infiltration will result.
+   ** Warning ** GetSimpleAirModelInputs: ZoneInfiltration:DesignFlowRate="BUILDING STORY 2 THERMALZONE STRIPMALL STRIP MALL - TYPE 3 A  - STORY MID INFILTRATION", Design Flow Rate Calculation Method specifies Flow per Exterior Surface Area, but Exterior Surface Area = 0.  0 Infiltration will result.
+   ** Warning ** GetSimpleAirModelInputs: ZoneInfiltration:DesignFlowRate="BUILDING STORY 2 THERMALZONE STRIPMALL STRIP MALL - TYPE 3 A END_A - STORY MID INFILTRATION", Design Flow Rate Calculation Method specifies Flow per Exterior Surface Area, but Exterior Surface Area = 0.  0 Infiltration will result.
+   ** Warning ** GetSimpleAirModelInputs: ZoneInfiltration:DesignFlowRate="BUILDING STORY 2 THERMALZONE STRIPMALL STRIP MALL - TYPE 3 B END_A - STORY MID INFILTRATION", Design Flow Rate Calculation Method specifies Flow per Exterior Surface Area, but Exterior Surface Area = 0.  0 Infiltration will result.
+   ** Warning ** GetSimpleAirModelInputs: ZoneInfiltration:DesignFlowRate="BUILDING STORY 2 THERMALZONE STRIPMALL STRIP MALL - TYPE 3 C  - STORY MID INFILTRATION", Design Flow Rate Calculation Method specifies Flow per Exterior Surface Area, but Exterior Surface Area = 0.  0 Infiltration will result.
+   ** Warning ** GetSimpleAirModelInputs: ZoneInfiltration:DesignFlowRate="BUILDING STORY 2 THERMALZONE STRIPMALL STRIP MALL - TYPE 3 C END_A - STORY MID INFILTRATION", Design Flow Rate Calculation Method specifies Flow per Exterior Surface Area, but Exterior Surface Area = 0.  0 Infiltration will result.
+   ** Warning ** Calculated design heating load for zone=BUILDING STORY 2 THERMALZONE is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ************* Beginning System Sizing Calculations
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 1 THERMALZONE VAV TERMINAL
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 1 THERMALZONE 1 VAV TERMINAL
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 1 THERMALZONE 2 VAV TERMINAL
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 1 THERMALZONE 3 VAV TERMINAL
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 1 THERMALZONE 4 VAV TERMINAL
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 2 THERMALZONE VAV TERMINAL
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 2 THERMALZONE 1 VAV TERMINAL
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 2 THERMALZONE 2 VAV TERMINAL
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 2 THERMALZONE 3 VAV TERMINAL
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 2 THERMALZONE 4 VAV TERMINAL
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 3 THERMALZONE VAV TERMINAL
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 3 THERMALZONE 1 VAV TERMINAL
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 3 THERMALZONE 2 VAV TERMINAL
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 3 THERMALZONE 3 VAV TERMINAL
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:Reheat = BUILDING STORY 3 THERMALZONE 4 VAV TERMINAL
+   ************* Beginning Plant Sizing Calculations
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="5 ZONE VAV VENT CONTROLLER
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="BUILDING STORY 1 THERMALZONE".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="5 ZONE VAV VENT CONTROLLER
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="BUILDING STORY 1 THERMALZONE 1".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="5 ZONE VAV VENT CONTROLLER
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="BUILDING STORY 1 THERMALZONE 2".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="5 ZONE VAV VENT CONTROLLER
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="BUILDING STORY 1 THERMALZONE 3".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="5 ZONE VAV VENT CONTROLLER
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="BUILDING STORY 1 THERMALZONE 4".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="5 ZONE VAV 1 VENT CONTROLLER
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="BUILDING STORY 2 THERMALZONE".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="5 ZONE VAV 1 VENT CONTROLLER
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="BUILDING STORY 2 THERMALZONE 1".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="5 ZONE VAV 1 VENT CONTROLLER
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="BUILDING STORY 2 THERMALZONE 2".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="5 ZONE VAV 1 VENT CONTROLLER
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="BUILDING STORY 2 THERMALZONE 3".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="5 ZONE VAV 1 VENT CONTROLLER
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="BUILDING STORY 2 THERMALZONE 4".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="5 ZONE VAV 2 VENT CONTROLLER
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="BUILDING STORY 3 THERMALZONE".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="5 ZONE VAV 2 VENT CONTROLLER
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="BUILDING STORY 3 THERMALZONE 1".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="5 ZONE VAV 2 VENT CONTROLLER
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="BUILDING STORY 3 THERMALZONE 2".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="5 ZONE VAV 2 VENT CONTROLLER
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="BUILDING STORY 3 THERMALZONE 3".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** GetOAControllerInputs: Controller:MechanicalVentilation="5 ZONE VAV 2 VENT CONTROLLER
+   **   ~~~   ** Cannot locate a matching DesignSpecification:ZoneAirDistribution object for Zone="BUILDING STORY 3 THERMALZONE 4".
+   **   ~~~   ** Using default zone air distribution effectiveness of 1.0 for heating and cooling.
+   ** Warning ** Water heater = 42X 50GAL NATURALGAS WATER HEATER - 20KBTU/HR:  Recovery Efficiency and Energy Factor could not be calculated during the test for standard ratings
+   **   ~~~   ** Setpoint was never recovered and/or heater never turned on
+   ** Warning ** Water heater = 42X 50GAL NATURALGAS WATER HEATER - 20KBTU/HR 1:  Recovery Efficiency and Energy Factor could not be calculated during the test for standard ratings
+   **   ~~~   ** Setpoint was never recovered and/or heater never turned on
+   ** Warning ** Water heater = 83X 50GAL NATURALGAS WATER HEATER - 20KBTU/HR:  Recovery Efficiency and Energy Factor could not be calculated during the test for standard ratings
+   **   ~~~   ** Setpoint was never recovered and/or heater never turned on
+   ** Warning ** Missing temperature setpoint for LeavingSetpointModulated mode Boiler named BOILER
+   **   ~~~   **   A temperature setpoint is needed at the outlet node of a boiler in variable flow mode, use a SetpointManager
+   **   ~~~   **   The overall loop setpoint will be assumed for Boiler. The simulation continues ... 
+   ** Warning ** Output:Meter: invalid Key Name="DISTRICTCOOLING:FACILITY" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="DISTRICTHEATING:FACILITY" - not found.
+   ** Warning ** Output:Meter:MeterFileOnly requested for "Electricity:Facility" (TimeStep), already on "Output:Meter". Will report to both eplusout.eso and eplusout.mtr
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ** Warning ** Output:Table:Monthly requested with SimulationControl Run Simulation for Weather File Run Periods set to No so Output:Table:Monthly will not be generated
+   ** Warning ** CoolingTower:VariableSpeed "PROPELLER OR AXIAL VARIABLE SPEED FAN OPEN COOLING TOWER" - Water flow rate ratio is outside model boundaries at 1.25.
+   **   ~~~   **  ...Valid range = 0.75 to 1.25. Occurrence info = BUFFALO NIAGARA INTL AP ANN CLG .4% CONDNS DB=>MWB 1 HVAC Sizing Pass 1, 07/21 09:00 - 09:09
+   **   ~~~   **  ...Water flow rate ratio passed to the model = 1.25000
+   **   ~~~   **  ...Water flow rate ratios outside model boundaries may not adversely affect tower performance.
+   ** Warning ** CoolingTower:VariableSpeed "PROPELLER OR AXIAL VARIABLE SPEED FAN OPEN COOLING TOWER" - Water flow rate ratio is outside model boundaries at 1.25.
+   **   ~~~   **  ...Valid range = 0.75 to 1.25. Occurrence info = BUFFALO NIAGARA INTL AP ANN CLG .4% CONDNS DB=>MWB 1 HVAC Sizing Pass 1, 07/21 09:09 - 09:17
+   **   ~~~   **  ...Water flow rate ratio passed to the model = 1.25000
+   **   ~~~   **  ...Water flow rate ratios outside model boundaries may not adversely affect tower performance.
+   ** Warning ** CoolingTower:VariableSpeed "PROPELLER OR AXIAL VARIABLE SPEED FAN OPEN COOLING TOWER" - Water flow rate ratio is outside model boundaries at 1.25.
+   **   ~~~   **  ...Valid range = 0.75 to 1.25. Occurrence info = BUFFALO NIAGARA INTL AP ANN CLG .4% CONDNS DB=>MWB 1 HVAC Sizing Pass 1, 07/21 09:17 - 09:26
+   **   ~~~   **  ...Water flow rate ratio passed to the model = 1.25000
+   **   ~~~   **  ...Water flow rate ratios outside model boundaries may not adversely affect tower performance.
+   ** Warning ** CoolingTower:VariableSpeed "PROPELLER OR AXIAL VARIABLE SPEED FAN OPEN COOLING TOWER" - Water flow rate ratio is outside model boundaries at 1.25.
+   **   ~~~   **  ...Valid range = 0.75 to 1.25. Occurrence info = BUFFALO NIAGARA INTL AP ANN CLG .4% CONDNS DB=>MWB 1 HVAC Sizing Pass 1, 07/21 09:26 - 09:34
+   **   ~~~   **  ...Water flow rate ratio passed to the model = 1.25000
+   **   ~~~   **  ...Water flow rate ratios outside model boundaries may not adversely affect tower performance.
+   ** Warning ** CoolingTower:VariableSpeed "PROPELLER OR AXIAL VARIABLE SPEED FAN OPEN COOLING TOWER" - Water flow rate ratio is outside model boundaries at 1.25.
+   **   ~~~   **  ...Valid range = 0.75 to 1.25. Occurrence info = BUFFALO NIAGARA INTL AP ANN CLG .4% CONDNS DB=>MWB 1 HVAC Sizing Pass 1, 07/21 09:34 - 09:43
+   **   ~~~   **  ...Water flow rate ratio passed to the model = 1.25000
+   **   ~~~   **  ...Water flow rate ratios outside model boundaries may not adversely affect tower performance.
+   ** Warning ** SimHVAC: Maximum iterations (20) exceeded for all HVAC loops, at BUFFALO NIAGARA INTL AP ANN HTG 99.6% CONDNS DB 1 HVAC Sizing Pass 1, 01/21 12:00 - 13:00
+   **   ~~~   ** The solution for one or more of the Air Loop HVAC systems did not appear to converge
+   **   ~~~   ** ...use Output:Diagnostics,DisplayExtraWarnings; to show more details on each max iteration exceeded.
+   ************* Beginning Simulation
+   ** Warning ** CoolingTower:VariableSpeed "PROPELLER OR AXIAL VARIABLE SPEED FAN OPEN COOLING TOWER" - Tower range temperature is outside model boundaries at 1.08.
+   **   ~~~   **  ...Valid range = 1.11 to 11.11. Occurrence info = BUFFALO NIAGARA INTL AP ANN CLG .4% CONDNS WB=>MDB 1, 07/21 07:00 - 07:10
+   **   ~~~   **  ...Tower range temperature passed to the model = 1.07956
+   **   ~~~   **  ...Range temperatures outside model boundaries may not adversely affect tower performance.
+   **   ~~~   **  ...This is not an unexpected occurrence when simulating actual conditions.
+   ** Warning ** SimHVAC: Maximum iterations (20) exceeded for all HVAC loops, at BUFFALO NIAGARA INTL AP ANN HTG 99.6% CONDNS DB 1, 01/21 12:00 - 13:00
+   **   ~~~   ** The solution for one or more of the Air Loop HVAC systems did not appear to converge
+   ************* Simulation Error Summary *************
+   ************* There are 8 unused objects in input.
+   ************* Use Output:Diagnostics,DisplayUnusedObjects; to see them.
+   ************* There are 11 unused schedules in input.
+   ************* There are 11 unused week schedules in input.
+   ************* There are 37 unused day schedules in input.
+   ************* Use Output:Diagnostics,DisplayUnusedSchedules; to see them.
+   *************
+   ************* ===== Recurring Error Summary =====
+   ************* The following recurring error messages occurred.
+   *************
+   *************  ** Warning ** CoolingTower:VariableSpeed "PROPELLER OR AXIAL VARIABLE SPEED FAN OPEN COOLING TOWER" - Water flow rate ratio is out of range error continues...
+   *************  **   ~~~   **   This error occurred 70 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=1.251769  Min=1.250003
+   *************
+   *************
+   ************* ===== Final Error Summary =====
+   ************* The following error categories occurred.  Consider correcting or noting.
+   ************* Nominally Unused Constructions
+   ************* ..The nominally unused constructions warning is provided to alert you to potential conditions that can cause
+   ************* ..extra time during simulation. Each construction is calculated by the algorithm indicated in the HeatBalanceAlgorithm
+   ************* ..object. You may remove the constructions indicated (when you use the DisplayExtraWarnings option).
+   *************
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 72 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 176 Warning; 0 Severe Errors; Elapsed Time=00hr 00min  6.38sec

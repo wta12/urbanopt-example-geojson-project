@@ -1,0 +1,122 @@
+[02:44:28.437112 WARN] No valid weather file defined in either the osm or osw.
+[02:44:33.156018 WARN] User-defined single floor area was used for calculation of total building floor area
+[02:44:33.156045 WARN] Cannot use custom height bar with single floor area method, will not create custom height bar.
+[02:44:36.585430 WARN] [openstudio.standards.Construction] Can only set the u-value of opaque constructions or simple glazing. U 0.48 SHGC 0.40 Dbl Ref-D Clr 6mm/13mm is not opaque or simple glazing.
+[02:44:36.585585 WARN] [openstudio.standards.Construction] Can only set the u-value of opaque constructions or simple glazing. U 0.44 SHGC 0.26 Dbl Ref-B-H Clr 6mm/13mm Air is not opaque or simple glazing.
+[02:44:36.585692 WARN] [openstudio.standards.Construction] Can only set the u-value of opaque constructions or simple glazing. Window_U_0.50_SHGC_0.40_Skylight_Frame_Width_0.430_in is not opaque or simple glazing.
+[02:44:36.586945 WARN] [openstudio.model.Model] Model has zone with
+[02:44:36.587026 WARN] [openstudio.model.Model] Model has zone with
+[02:44:36.587178 WARN] [openstudio.model.Model] Model has zone with
+[02:44:36.587388 WARN] [openstudio.model.Model] In model_add_typical, num_water_heaters = 1
+[02:44:36.739120 WARN] Office WholeBuilding - Lg Office C  - Story Ground has one or more daylighting controls. Lighting loads from blended space type may affect lighting reduction from daylighting controls.
+[02:44:36.739262 WARN] Office WholeBuilding - Lg Office B end_a - Story Ground has one or more daylighting controls. Lighting loads from blended space type may affect lighting reduction from daylighting controls.
+[02:44:36.739490 WARN] Office WholeBuilding - Lg Office A  - Story Ground has one or more daylighting controls. Lighting loads from blended space type may affect lighting reduction from daylighting controls.
+[02:44:36.739804 WARN] Office OfficeLarge Main Data Center B  - Story Ground has one or more daylighting controls. Lighting loads from blended space type may affect lighting reduction from daylighting controls.
+[02:44:36.750198 WARN] Office WholeBuilding - Lg Office C  - Story Mid has one or more daylighting controls. Lighting loads from blended space type may affect lighting reduction from daylighting controls.
+[02:44:36.750322 WARN] Office WholeBuilding - Lg Office A  - Story Mid has one or more daylighting controls. Lighting loads from blended space type may affect lighting reduction from daylighting controls.
+[02:44:36.750841 WARN] Office WholeBuilding - Lg Office B end_b - Story Mid has one or more daylighting controls. Lighting loads from blended space type may affect lighting reduction from daylighting controls.
+[02:44:36.751145 WARN] Office WholeBuilding - Lg Office B end_a - Story Mid has one or more daylighting controls. Lighting loads from blended space type may affect lighting reduction from daylighting controls.
+[02:44:36.757461 WARN] FullServiceRestaurant Kitchen C  - Story Mid2 has one or more daylighting controls. Lighting loads from blended space type may affect lighting reduction from daylighting controls.
+[02:44:36.757674 WARN] FullServiceRestaurant Kitchen A  - Story Mid2 has one or more daylighting controls. Lighting loads from blended space type may affect lighting reduction from daylighting controls.
+[02:44:36.757978 WARN] FullServiceRestaurant Kitchen B end_a - Story Mid2 has one or more daylighting controls. Lighting loads from blended space type may affect lighting reduction from daylighting controls.
+[02:44:36.758095 WARN] FullServiceRestaurant Dining B end_b - Story Mid2 has one or more daylighting controls. Lighting loads from blended space type may affect lighting reduction from daylighting controls.
+[02:44:36.758303 WARN] FullServiceRestaurant Dining C  - Story Mid2 has one or more daylighting controls. Lighting loads from blended space type may affect lighting reduction from daylighting controls.
+[02:44:36.758607 WARN] FullServiceRestaurant Dining A  - Story Mid2 has one or more daylighting controls. Lighting loads from blended space type may affect lighting reduction from daylighting controls.
+[02:44:36.765048 WARN] FullServiceRestaurant Dining A  - Story Top has one or more daylighting controls. Lighting loads from blended space type may affect lighting reduction from daylighting controls.
+[02:44:36.765271 WARN] FullServiceRestaurant Dining B end_a - Story Top has one or more daylighting controls. Lighting loads from blended space type may affect lighting reduction from daylighting controls.
+[02:44:36.765503 WARN] FullServiceRestaurant Dining B end_b - Story Top has one or more daylighting controls. Lighting loads from blended space type may affect lighting reduction from daylighting controls.
+[02:44:36.765625 WARN] FullServiceRestaurant Dining C  - Story Top has one or more daylighting controls. Lighting loads from blended space type may affect lighting reduction from daylighting controls.
+[02:44:38.226732 WARN] Surface elevation not set for building 'Mixed_use 1'
+[02:44:38.226972 WARN] Reversing floor print
+[02:44:38.255364 WARN] Reversing floor print
+[02:44:38.287192 WARN] Reversing floor print
+[02:44:38.322926 WARN] Reversing floor print
+[02:44:38.363959 WARN] building_features[:features] size:19
+[02:44:38.364132 WARN] Reversing floor print
+[02:44:38.365086 WARN] Reversing floor print
+[02:44:38.365281 WARN] Reversing floor print
+[02:44:38.369952 WARN] Reversing floor print
+[02:44:38.370220 WARN] Reversing floor print
+[02:44:38.378866 WARN] Reversing floor print
+[02:44:38.379034 WARN] Reversing floor print
+[02:44:38.383136 WARN] Reversing floor print
+[02:44:38.383494 WARN] Reversing floor print
+[02:44:38.394805 WARN] Reversing floor print
+[02:44:38.395187 WARN] Reversing floor print
+[02:44:38.410236 WARN] Reversing floor print
+[02:44:38.410936 WARN] [geojson process_other_buildings] Unable to include feature 3f960177-51b5-4a0b-9c35-41da085597fc in shading calculations: no 'number of stories' data
+[02:44:38.410948 WARN] [geojson process_other_buildings] Unable to include feature 897530f5-a6d6-446f-94fd-4087196fceaf in shading calculations: no 'number of stories' data
+[02:44:38.410956 WARN] [geojson process_other_buildings] Unable to include feature b02e3fe9-77d0-47f9-86cb-e4db960afd62 in shading calculations: no 'number of stories' data
+[02:44:38.410963 WARN] [geojson process_other_buildings] Unable to include feature 54cd0a5a-2ebe-4b39-936a-f238b503c221 in shading calculations: no 'number of stories' data
+[02:44:38.410971 WARN] [geojson process_other_buildings] Unable to include feature 1b4b5dcf-8d18-4954-b655-a93634542733 in shading calculations: no 'number of stories' data
+[02:44:38.411005 WARN] [geojson process_other_buildings] Unable to include feature 502e96e3-853a-4b3d-b88d-fe59af4d7b65 in shading calculations: no 'number of stories' data
+[02:44:58.728423 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.728488 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.728519 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.728548 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.728578 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.728606 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.728641 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.728667 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.729006 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.729136 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.729170 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.729229 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.729259 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.729304 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.729332 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.729362 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.729626 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.729728 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.729757 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.729843 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.729934 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.729965 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.730037 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.730065 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.730350 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.730381 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.730408 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.730456 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.730484 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.730594 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.730624 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:44:58.730703 WARN] [openstudio.model.AirTerminalSingleDuctVAVReheat] setZoneMinimumAirFlowMethod is deprecated, please use setZoneMinimumAirFlowInputMethod
+[02:45:00.047130 WARN] Reporting Measure at /Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/urbanopt-reporting-0.3.7/lib/measures/default_feature_reports/measure.rb is using the old format where the 'arguments' method does not take model. Please consider updating this to `def arguments(model)`.
+[02:48:24.545035 WARN] Reporting Measure at /Users/kcu/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/urbanopt-reporting-0.3.7/lib/measures/default_feature_reports/measure.rb is using the old format where the 'arguments' method does not take model. Please consider updating this to `def arguments(model)`.
+[02:48:26.636671 WARN] Query failed for Life-Cycle Cost Report and TableName='Present Value for Recurring, Nonrecurring and Energy Costs (Before Tax)' AND RowName='LCC_MAT - BUILDING - LIFE CYCLE COSTS' AND ColumnName='Cost'
+[02:48:26.636747 WARN] Query failed for Packaged Ice Thermal Storage Capacity
+[02:48:26.636843 WARN] Query failed for Ice Thermal Storage Capacity
+[02:48:26.646473 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Total End Uses' AND ColumnName='Steam'
+[02:48:26.668736 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Heating' AND ColumnName='Fuel Oil #2'
+[02:48:26.672156 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Cooling' AND ColumnName='Fuel Oil #2'
+[02:48:26.675434 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Interior Lighting' AND ColumnName='Fuel Oil #2'
+[02:48:26.678835 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Exterior Lighting' AND ColumnName='Fuel Oil #2'
+[02:48:26.682266 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Interior Equipment' AND ColumnName='Fuel Oil #2'
+[02:48:26.685632 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Exterior Equipment' AND ColumnName='Fuel Oil #2'
+[02:48:26.689002 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Fans' AND ColumnName='Fuel Oil #2'
+[02:48:26.692339 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Pumps' AND ColumnName='Fuel Oil #2'
+[02:48:26.695687 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Heat Rejection' AND ColumnName='Fuel Oil #2'
+[02:48:26.699199 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Humidification' AND ColumnName='Fuel Oil #2'
+[02:48:26.702683 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Heat Recovery' AND ColumnName='Fuel Oil #2'
+[02:48:26.706069 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Water Systems' AND ColumnName='Fuel Oil #2'
+[02:48:26.709410 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Refrigeration' AND ColumnName='Fuel Oil #2'
+[02:48:26.712753 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Generators' AND ColumnName='Fuel Oil #2'
+[02:48:26.752880 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Heating' AND ColumnName='Steam'
+[02:48:26.758660 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Cooling' AND ColumnName='Steam'
+[02:48:26.764383 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Interior Lighting' AND ColumnName='Steam'
+[02:48:26.770197 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Exterior Lighting' AND ColumnName='Steam'
+[02:48:26.775760 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Interior Equipment' AND ColumnName='Steam'
+[02:48:26.781466 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Exterior Equipment' AND ColumnName='Steam'
+[02:48:26.787052 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Fans' AND ColumnName='Steam'
+[02:48:26.792808 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Pumps' AND ColumnName='Steam'
+[02:48:26.798864 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Heat Rejection' AND ColumnName='Steam'
+[02:48:26.804738 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Humidification' AND ColumnName='Steam'
+[02:48:26.810505 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Heat Recovery' AND ColumnName='Steam'
+[02:48:26.816720 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Water Systems' AND ColumnName='Steam'
+[02:48:26.822487 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Refrigeration' AND ColumnName='Steam'
+[02:48:26.828185 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses' AND RowName='Generators' AND ColumnName='Steam'
+[02:48:26.831088 WARN] Query failed for AnnualBuildingUtilityPerformanceSummary and TableName='End Uses By Subcategory' AND RowName='Exterior Equipment:Electric Vehicles' AND ColumnName='Electricity'
+[02:48:26.834575 WARN] Query failed for Economics Results Summary Report and TableName='Annual Cost' AND RowName='Cost' AND ColumnName='Total'
+[02:48:26.837353 WARN] Query failed for Economics Results Summary Report and TableName='Annual Cost' AND RowName='Cost' AND ColumnName='Electric'
+[02:48:26.840123 WARN] Query failed for Economics Results Summary Report and TableName='Annual Cost' AND RowName='Cost' AND ColumnName='Natural Gas'

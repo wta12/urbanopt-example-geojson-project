@@ -1,0 +1,3 @@
+Feature Id,Feature Name,Mapper Class
+0,Koledo Ln 17402 ,URBANopt::Scenario::UCIBaselineMapper
+20,Queens Ln 17411 ,URBANopt::Scenario::UCIBaselineMapper

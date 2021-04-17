@@ -1,0 +1,10 @@
+{
+  "urbanopt_scenario_file": "/Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-example-geojson-project/UCI_MultiFamily_test/baseline_scenario_res_test.csv",
+  "equipment_file": "/Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-example-geojson-project/UCI_MultiFamily_test/opendss/electrical_database.json",
+  "opendss_folder": "/Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-example-geojson-project/UCI_MultiFamily_test/run/baseline_scenario_res_test/opendss",
+  "urbanopt_geojson_file": "/Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-example-geojson-project/UCI_MultiFamily_test/OV_Buildings_Update_090420_res_multi_test.json",
+  "use_reopt": false,
+  "start_time": "2017/01/15 01:00:00",
+  "end_time": "2017/01/16 01:00:00",
+  "timestep": 120
+}

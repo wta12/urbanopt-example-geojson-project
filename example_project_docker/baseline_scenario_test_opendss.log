@@ -1,0 +1,75 @@
+Checking system.....
+...Python >= 3.7 found (Python 3.7.3)
+...pip found
+System check done.
+Checking for urbanopt-ditto-reader...
+...path: /Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-ditto-reader
+...Found urbanopt-ditto-reader version 0.3.9
+urbanopt-ditto-reader check done. 
+
+ditto_reader_cli run-opendss --config /Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-example-geojson-project/example_project_docker/opendss/opendss_config.json
+CONFIGS used: {'urbanopt_scenario_file': '/Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-example-geojson-project/example_project_docker/baseline_scenario_test.csv', 'equipment_file': '/Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-example-geojson-project/example_project_docker/opendss/electrical_database.json', 'opendss_folder': '/Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-example-geojson-project/example_project_docker/run/baseline_scenario_test/opendss', 'urbanopt_geojson_file': '/Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-example-geojson-project/example_project_docker/example_project_with_electric_network.json', 'use_reopt': False, 'start_time': '2017/01/15 01:00:00', 'end_time': '2017/01/16 01:00:00', 'timestep': 120}
+Load information missing for 2
+Load information missing for 3
+Load information missing for 4
+Load information missing for 5
+Load information missing for 6
+Load information missing for 7
+Load information missing for 8
+Load information missing for 9
+Load information missing for 10
+Load information missing for 11
+Load information missing for 13
+Check no loops:
+Checking loops for source ps_source
+Result: [92m PASS [0m
+
+Check loads connected to source:
+Result: [92m PASS [0m
+
+Check unique path from each load to source:
+Result: [92m PASS [0m
+
+Check that phases on either side of transformer are correct:
+Result: [92m PASS [0m
+
+Check that phases from transformer to load and source are correct:
+Load 4 has connected transformer of 502e96e3-853a-4b3d-b88d-fe59af4d7b65 incorrectly connected (likely backwards)
+Load 11 has connected transformer of 502e96e3-853a-4b3d-b88d-fe59af4d7b65 incorrectly connected (likely backwards)
+Load 5 has connected transformer of 502e96e3-853a-4b3d-b88d-fe59af4d7b65 incorrectly connected (likely backwards)
+Load 1 has connected transformer of b02e3fe9-77d0-47f9-86cb-e4db960afd62 incorrectly connected (likely backwards)
+Load 8 has connected transformer of 1b4b5dcf-8d18-4954-b655-a93634542733 incorrectly connected (likely backwards)
+Load 3 has connected transformer of 502e96e3-853a-4b3d-b88d-fe59af4d7b65 incorrectly connected (likely backwards)
+Load 7 has connected transformer of b02e3fe9-77d0-47f9-86cb-e4db960afd62 incorrectly connected (likely backwards)
+Load 6 has connected transformer of 502e96e3-853a-4b3d-b88d-fe59af4d7b65 incorrectly connected (likely backwards)
+Load 9 has connected transformer of 1b4b5dcf-8d18-4954-b655-a93634542733 incorrectly connected (likely backwards)
+
+Attempting to fix phases from transformer to load and source
+Load 4 has connected transformer of 502e96e3-853a-4b3d-b88d-fe59af4d7b65 incorrectly connected (likely backwards). Trying to rotate...
+Succeeded.
+Load 1 has connected transformer of b02e3fe9-77d0-47f9-86cb-e4db960afd62 incorrectly connected (likely backwards). Trying to rotate...
+Succeeded.
+Load 8 has connected transformer of 1b4b5dcf-8d18-4954-b655-a93634542733 incorrectly connected (likely backwards). Trying to rotate...
+Succeeded.
+Result: [92m PASS [0m
+
+Attempting to run from 2017/01/15 01:00:00 to 2017/01/16 01:00:00:
+Unique starting time of 2017/01/15 01:00:00 found
+Unique ending time of 2017/01/16 01:00:00 found
+Using timestep of 120 minutes
+Timepoint: 2017/01/15 01:00:00
+Timepoint: 2017/01/15 03:00:00
+Timepoint: 2017/01/15 05:00:00
+Timepoint: 2017/01/15 07:00:00
+Timepoint: 2017/01/15 09:00:00
+Timepoint: 2017/01/15 11:00:00
+Timepoint: 2017/01/15 13:00:00
+Timepoint: 2017/01/15 15:00:00
+Timepoint: 2017/01/15 17:00:00
+Timepoint: 2017/01/15 19:00:00
+Timepoint: 2017/01/15 21:00:00
+Timepoint: 2017/01/15 23:00:00
+Timepoint: 2017/01/16 01:00:00
+
+Done. Results located in /Users/kcu/Desktop/Scripting/NREL_Work/UCI/Github/urbanopt-example-geojson-project/example_project_docker/run/baseline_scenario_test/opendss
+
